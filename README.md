@@ -1,4 +1,4 @@
-# 📖📖 Flutter eBook App 
+# 📖📖 Flutter Books Full App
 
 
 A simple Flutter app to Read and Download books. The Books included in the app
