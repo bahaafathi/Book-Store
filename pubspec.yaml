@@ -19,22 +19,22 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cached_network_image: ^2.5.1
   cupertino_icons: ^0.1.2
+  dio: ^3.0.9
+  epub_viewer: ^0.1.8
+  esys_flutter_share: ^1.0.2
+  flutter_icons: ^1.1.0
+  flutter_spinkit: ^4.1.2+1
+  fluttertoast: ^7.0.2
+  google_fonts: ^1.1.0
+  objectdb: ^1.0.7+1
+  path_provider: ^1.4.0
+  permission_handler: ^4.2.0+hotfix.1
   provider: ^4.0.1
   shared_preferences: ^0.5.10
-  flutter_icons: ^1.1.0
-  xml2json: ^4.3.0
-  fluttertoast: ^7.0.2
-  esys_flutter_share: ^1.0.2
-  cached_network_image: ^2.2.0+1
   uuid: ^2.2.0
-  objectdb: ^1.0.7+1
-  epub_viewer: ^0.1.8
-  path_provider: ^1.4.0
-  dio: ^3.0.9
-  permission_handler: ^4.2.0+hotfix.1
-  google_fonts: ^1.1.0
-  flutter_spinkit: ^4.1.2+1
+  xml2json: ^4.3.0
 
 dev_dependencies:
   flutter_test:
@@ -42,7 +42,6 @@ dev_dependencies:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
-
 # The following section is specific to Flutter.
 flutter:
   uses-material-design: true
