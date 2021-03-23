@@ -1,6 +1,5 @@
-# 📖📖 Flutter eBook App [![Codemagic build status](https://api.codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/status_badge.svg)](https://codemagic.io/apps/5e230defc5faa60315b1df62/5e230defc5faa60315b1df61/latest_build)
+# 📖📖 Flutter eBook App 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
 
 A simple Flutter app to Read and Download books. The Books included in the app
 are from the [Public Domain](https://en.wikipedia.org/wiki/Public_domain)
@@ -56,11 +55,3 @@ To download this app, <a href="https://codemagic.io/apps/5e230defc5faa60315b1df6
 | [**DIO**](https://pub.dev/packages/dio)                 | Network calls and File Download                     |
 | [**EPub Viewer**](https://pub.dev/packages/epub_viewer) | A flutter plugin for Folioreader to read ePub files |
 
-## 🤓 Author(s)
-
-**Olusegun Festus Babajide**
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
-## 🔖 LICENCE
-
-[Apache-2.0](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE)
