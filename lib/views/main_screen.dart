@@ -16,13 +16,14 @@ class _MainScreenState extends State<MainScreen> {
 
   @override
   Widget build(BuildContext context) {
+    // disable or override the back button "WillPopScope"
     return WillPopScope(
       onWillPop: () => Dialogs().showExitDialog(context),
       child: Scaffold(
         body: PageView(
           physics: NeverScrollableScrollPhysics(),
           controller: _pageController,
-          onPageChanged: onPageChanged,
+          onPageChanged: onPageChanged, //بتعرفك رقم الصفحه الي واقف عليها
           children: <Widget>[
             Home(),
             Explore(),
@@ -61,7 +62,7 @@ class _MainScreenState extends State<MainScreen> {
               ),
             ),
           ],
-          onTap: navigationTapped,
+          onTap: navigationTapped, //بيديك رقم الصفحه الي داس عليها
           currentIndex: _page,
         ),
       ),
@@ -77,6 +78,8 @@ class _MainScreenState extends State<MainScreen> {
     super.initState();
     _pageController = PageController(initialPage: 0);
   }
+
+  ///cause memory leak.
 
   @override
   void dispose() {

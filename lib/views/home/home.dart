@@ -114,8 +114,8 @@ class _HomeState extends State<Home> with AutomaticKeepAliveClientMixin {
           primary: false,
           padding: EdgeInsets.symmetric(horizontal: 15.0),
           scrollDirection: Axis.horizontal,
-          itemCount: homeProvider?.top?.feed?.entry?.length ??//هنا خد بالك المتغيرات فاضيه
-              0, //todo: Learn ? and ?? in dart
+          // هنا خد بالك المتغيرات فاضيه في الاول بس
+          itemCount: homeProvider?.top?.feed?.entry?.length ?? 0,
           shrinkWrap: true,
           itemBuilder: (BuildContext context, int index) {
             Entry entry = homeProvider.top.feed.entry[index];

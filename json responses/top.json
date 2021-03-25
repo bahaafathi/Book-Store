@@ -1,0 +1,3412 @@
+{
+   "@lang": "en",
+   "id": "https://catalog.feedbooks.com/publicdomain/browse/top.atom",
+   "title": "Most popular",
+   "updated": "2021-03-21T14:21:51Z",
+   "icon": "/favicon.ico",
+   "author": {
+      "name": "Feedbooks",
+      "uri": "http://www.feedbooks.com",
+      "email": "help@demarque.com"
+   },
+   "link": [
+      {
+         "@rel": "self",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom"
+      },
+      {
+         "@rel": "start",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@title": "Home",
+         "@href": "https://catalog.feedbooks.com/catalog/index.atom"
+      },
+      {
+         "@rel": "search",
+         "@href": "https://catalog.feedbooks.com/opensearch.xml",
+         "@type": "application/opensearchdescription+xml",
+         "@title": "Search on Feedbooks"
+      },
+      {
+         "@rel": "http://opds-spec.org/shelf",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@title": "Bookshelf",
+         "@href": "https://www.feedbooks.com/user/bookshelf.atom"
+      },
+      {
+         "@rel": "next",
+         "@title": "Next",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?language=en&page=2&range=month"
+      },
+      {
+         "@rel": "http://opds-spec.org/sort/new",
+         "@title": "New releases",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?language=en&range=month&sort=new"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Most popular",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?language=en&range=month",
+         "@activeFacet": "true",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "New releases",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Awards",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "New & noteworthy",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Short stories",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC029000&language=en&range=month",
+         "@count": "1768",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Science fiction",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000&language=en&range=month",
+         "@count": "1135",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Action & adventure",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000&language=en&range=month",
+         "@count": "322",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Mystery & detective",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000&language=en&range=month",
+         "@count": "252",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Fantasy",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC009000&language=en&range=month",
+         "@count": "171",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Romance",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC027000&language=en&range=month",
+         "@count": "166",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Horror",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000&language=en&range=month",
+         "@count": "144",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Westerns",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC033000&language=en&range=month",
+         "@count": "116",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Historical",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC014000&language=en&range=month",
+         "@count": "75",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Literary",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC019000&language=en&range=month",
+         "@count": "69",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Humorous",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC016000&language=en&range=month",
+         "@count": "65",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Occult & supernatural",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC024000&language=en&range=month",
+         "@count": "56",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Drama",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBDRA000000&language=en&range=month",
+         "@count": "50",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "War & military",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC032000&language=en&range=month",
+         "@count": "49",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Thrillers",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC031000&language=en&range=month",
+         "@count": "42",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Juvenile & young adult",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBJUV000000&language=en&range=month",
+         "@count": "22",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Fairy tales, folk tales & mythology",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC010000&language=en&range=month",
+         "@count": "20",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Poetry",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBPOE000000&language=en&range=month",
+         "@count": "18",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Biographical",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC041000&language=en&range=month",
+         "@count": "8",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Literary correspondence",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBEPI000000N&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Espionage",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC006000&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Christian",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC042000&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Sea stories",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC047000&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Regional fiction",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC050000N&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "LGBTQ+",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC060000N&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Travel writing",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBTRV010000&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Human science",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FSHUM000000N&language=en&range=month",
+         "@count": "55",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Biography & autobiography",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBBIO000000&language=en&range=month",
+         "@count": "45",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "History",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBHIS000000&language=en&range=month",
+         "@count": "41",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Religion",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBREL000000&language=en&range=month",
+         "@count": "25",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Social science",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBSOC000000&language=en&range=month",
+         "@count": "22",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Science and technics",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBSCI000000N&language=en&range=month",
+         "@count": "19",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Travel",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBTRV000000&language=en&range=month",
+         "@count": "10",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Humor",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBHUM000000&language=en&range=month",
+         "@count": "4",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Literary essays",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBLIT000000&language=en&range=month",
+         "@count": "3",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Business & economics",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBBUS000000&language=en&range=month",
+         "@count": "2",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Literary collections",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBLCO000000&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "German",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?lang=de&language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "English",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?lang=en&language=en&range=month",
+         "@activeFacet": "true",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Spanish",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?lang=es&language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "French",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?lang=fr&language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Italian",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?lang=it&language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      }
+   ],
+   "totalResults": "3479",
+   "itemsPerPage": "50",
+   "startIndex": "1",
+   "entry": [
+      {
+         "title": "Romeo and Juliet",
+         "id": "https://www.feedbooks.com/book/2936",
+         "author": {
+            "name": "William Shakespeare",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=494&lang=en"
+         },
+         "published": "2008-09-18T07:59:29Z",
+         "updated": "2020-08-27T07:58:31Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1597",
+         "summary": "Romeo and Juliet is a tragic play written early in the career of William Shakespeare about two teenage \"star-cross'd lovers\" whose untimely deaths ultimately unite their feuding households. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays. Today, the title characters are regarded as archetypal \"young lovers\". (From Wikipedia)",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Drama",
+               "@term": "FBDRA000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2936"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2936.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2936.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2936.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2936.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Adventures of Sherlock Holmes",
+         "id": "https://www.feedbooks.com/book/1421",
+         "author": {
+            "name": "Arthur Conan Doyle",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+         },
+         "published": "2007-07-19T13:36:30Z",
+         "updated": "2020-09-21T15:35:02Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1892",
+         "summary": "The Adventures of Sherlock Holmes is a collection of twelve stories by Sir Arthur Conan Doyle, featuring his famous detective and illustrated by Sidney Paget.\nThese are the first of the Sherlock Holmes short stories, originally published as single stories in the Strand Magazine from July 1891 to June 1892. The book was published in England on October 14, 1892 by George Newnes Ltd and in a US Edition on October 15 by Harper. The initial combined print run was 14,500 copies.",
+         "Series": {
+            "@position": "9",
+            "@name": "Sherlock Holmes",
+            "@url": "https://catalog.feedbooks.com/series/9"
+         },
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Mystery & detective",
+               "@term": "FBFIC022000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1421"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1421.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1421.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1421.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1421.atom"
+            }
+         ]
+      },
+      {
+         "title": "Alice's Adventures in Wonderland",
+         "id": "https://www.feedbooks.com/book/22",
+         "author": {
+            "name": "Lewis Carroll",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=13&lang=en"
+         },
+         "published": "2006-12-15T00:37:27Z",
+         "updated": "2020-10-17T11:23:11Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1897",
+         "summary": "Alice's Adventures in Wonderland (1865) is a novel written by English author Charles Lutwidge Dodgson, better known under the pseudonym Lewis Carroll. It tells the story of a girl named Alice who falls down a rabbit-hole into a fantasy world populated by peculiar and anthropomorphic creatures.\nThe tale is filled with allusions to Dodgson's friends (and enemies), and to the lessons that British schoolchildren were expected to memorize. The tale plays with logic in ways that have made the story of lasting popularity with adults as well as children. It is considered to be one of the most characteristic examples of the genre of literary nonsense, and its narrative course and structure has been enormously influential, mainly in the fantasy genre.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Fantasy",
+               "@term": "FBFIC009000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/22"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/22.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/22.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/22.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/22.atom"
+            }
+         ]
+      },
+      {
+         "title": "Pride and Prejudice",
+         "id": "https://www.feedbooks.com/book/52",
+         "author": {
+            "name": "Jane Austen",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=18&lang=en"
+         },
+         "published": "2006-12-28T21:00:54Z",
+         "updated": "2020-10-03T20:07:55Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1813",
+         "summary": "Pride And Prejudice, the story of Mrs. Bennet's attempts to marry off her five daughters is one of the best-loved and most enduring classics in English literature. Excitement fizzes through the Bennet household at Longbourn in Hertfordshire when young, eligible Mr. Charles Bingley rents the fine house nearby. He may have sisters, but he also has male friends, and one of these—the haughty, and even wealthier, Mr. Fitzwilliam Darcy—irks the vivacious Elizabeth Bennet, the second of the Bennet girls. She annoys him. Which is how we know they must one day marry. The romantic clash between the opinionated Elizabeth and Darcy is a splendid rendition of civilized sparring. As the characters dance a delicate quadrille of flirtation and intrigue, Jane Austen's radiantly caustic wit and keen observation sparkle.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/52"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/52.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/52.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/52.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/52.atom"
+            }
+         ]
+      },
+      {
+         "title": "First Love",
+         "id": "https://www.feedbooks.com/book/2298",
+         "author": {
+            "name": "Ivan Sergeyevich Turgenev",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=126&lang=en"
+         },
+         "published": "2008-03-11T15:56:43Z",
+         "updated": "2020-09-24T10:22:11Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1860",
+         "summary": "Vladimir Petrovich Voldemar, a 16-year-old, is staying in the country with his family and meets Zinaida Alexandrovna Zasyekina, a beautiful 21-year-old woman, staying with her mother, Princess Zasyekina, in a wing of the manor. This family, as with many of the Russian minor nobility with royal ties of that time, were only afforded a degree of respectability because of their titles; the Zasyekins, in the case of this story, are a very poor family. The young Vladimir falls irretrievably in love with Zinaida, who has a set of several other (socially more eligible) suitors whom he joins in their difficult and often fruitless search for the young lady's favour.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2298"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2298.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2298.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2298.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2298.atom"
+            }
+         ]
+      },
+      {
+         "title": "Twelve Years a Slave",
+         "id": "https://www.feedbooks.com/book/6875",
+         "author": {
+            "name": "Solomon Northup",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2243&lang=en"
+         },
+         "published": "2014-01-22T16:36:55Z",
+         "updated": "2020-08-28T00:06:13Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1853",
+         "summary": "Twelve Years a Slave, sub-title: Narrative of Solomon Northup, citizen of New-York, kidnapped in Washington city in 1841, and rescued in 1853, from a cotton plantation near the Red River in Louisiana, is a memoir by Solomon Northup as told to and edited by David Wilson. It is a slave narrative of a black man who was born free in New York state but kidnapped in Washington, D.C., sold into slavery, and kept in bondage for 12 years in Louisiana. He provided details of slave markets in Washington, D.C. and New Orleans, as well as describing at length cotton and sugar cultivation on major plantations in Louisiana.",
+         "category": [
+            {
+               "@label": "Nonfiction",
+               "@term": "FBNFC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Biography & autobiography",
+               "@term": "FBBIO000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "True story",
+               "@term": "FBBIO001000N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6875"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6875.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6875.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6875.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6875.atom"
+            }
+         ]
+      },
+      {
+         "title": "All In The Mind",
+         "id": "https://www.feedbooks.com/book/4808",
+         "author": {
+            "name": "Gene L. Henderson",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1415&lang=en"
+         },
+         "published": "2010-05-27T17:23:08Z",
+         "updated": "2020-08-26T10:08:49Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1954",
+         "summary": "When does life begin?... A well-known book says \"forty\". A well-known radio program says \"eighty\". Some folks say it's mental, others say it's physical. But take the strange case of Mel Carlson who gave a lot of thought to the matter.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/4808"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/4808.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/4808.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/4808.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/4808.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Most Dangerous Game",
+         "id": "https://www.feedbooks.com/book/3638",
+         "author": {
+            "name": "Richard Connell",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=930&lang=en"
+         },
+         "published": "2009-02-02T22:20:02Z",
+         "updated": "2020-08-25T03:48:49Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1924",
+         "summary": "\"The Most Dangerous Game\" features as its main character a big-game hunter from New York, who becomes shipwrecked on an isolated island in the Caribbean, and is hunted by a Russian aristocrat. \n\nThe story is an inversion of the big-game hunting safaris in Africa and South America that were fashionable among wealthy Americans in the 1920s.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Action & adventure",
+               "@term": "FBFIC002000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Mystery & detective",
+               "@term": "FBFIC022000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Thrillers",
+               "@term": "FBFIC031000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3638"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3638.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3638.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3638.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3638.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Great Gatsby",
+         "id": "https://www.feedbooks.com/book/5543",
+         "author": {
+            "name": "Francis Scott Fitzgerald",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=201&lang=en"
+         },
+         "published": "2011-02-13T16:27:36Z",
+         "updated": "2020-10-19T04:50:18Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1925",
+         "summary": "In 1922, F. Scott Fitzgerald announced his decision to write \"something new--something extraordinary and beautiful and simple + intricately patterned.\" That extraordinary, beautiful, intricately patterned, and above all, simple novel became The Great Gatsby, arguably Fitzgerald's finest work and certainly the book for which he is best known. A portrait of the Jazz Age in all of its decadence and excess, Gatsby captured the spirit of the author's generation and earned itself a permanent place in American mythology. Self-made, self-invented millionaire Jay Gatsby embodies some of Fitzgerald's--and his country's--most abiding obsessions: money, ambition, greed, and the promise of new beginnings. \"Gatsby believed in the green light, the orgiastic future that year by year recedes before us. It eluded us then, but that's no matter--tomorrow we will run faster, stretch out our arms farther.... And one fine morning--\" Gatsby's rise to glory and eventual fall from grace becomes a kind of cautionary tale about the American Dream.\n\n\nIt's also a love story, of sorts, the narrative of Gatsby's quixotic passion for Daisy Buchanan. The pair meet five years before the novel begins, when Daisy is a legendary young Louisville beauty and Gatsby an impoverished officer. They fall in love, but while Gatsby serves overseas, Daisy marries the brutal, bullying, but extremely rich Tom Buchanan. After the war, Gatsby devotes himself blindly to the pursuit of wealth by whatever means--and to the pursuit of Daisy, which amounts to the same thing. \"Her voice is full of money,\" Gatsby says admiringly, in one of the novel's more famous descriptions. His millions made, Gatsby buys a mansion across Long Island Sound from Daisy's patrician East Egg address, throws lavish parties, and waits for her to appear. When she does, events unfold with all the tragic inevitability of a Greek drama, with detached, cynical neighbor Nick Carraway acting as chorus throughout. Spare, elegantly plotted, and written in crystalline prose, The Great Gatsby is as perfectly satisfying as the best kind of poem.\n\n*  *  *\n\n\"Now we have an American masterpiece in its final form: the original crystal has shaped itself into the true diamond. This is the novel as Fitzgerald wished it to be, and so it is what we have dreamed of, sleeping and waking.\" -- James Dickey\n\n*  *  *\n\nThe Great Gatsby is a novel by the American author F. Scott Fitzgerald. First published on April 10, 1925, it is set on Long Island's North Shore and in New York City during the summer of 1922.\n\nThe novel takes place following the First World War. American society enjoyed prosperity during the \"roaring\" 1920s as the economy soared. At the same time, Prohibition, the ban on the sale and manufacture of alcohol as mandated by the Eighteenth Amendment, made millionaires out of bootleggers. After its republishing in 1945 and 1953, it quickly found a wide readership and is today widely regarded as a paragon of the Great American Novel, and a literary classic. The Great Gatsby has become a standard text in high school and university courses on American literature in countries around the world, and is ranked second in the Modern Library's lists of the 100 Best Novels of the 20th Century.\n\n--Wikipedia",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Literary",
+               "@term": "FBFIC019000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/5543"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/5543.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/5543.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/5543.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/5543.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Art of War",
+         "id": "https://www.feedbooks.com/book/168",
+         "author": {
+            "name": "Sun Tzu",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=59&lang=en"
+         },
+         "published": "2007-01-07T21:34:08Z",
+         "updated": "2020-09-02T06:44:19Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "-514",
+         "summary": "The Art of War is a Chinese military treatise that was written during the 6th century BC by Sun Tzu. Composed of 13 chapters, each of which is devoted to one aspect of warfare, it has long been praised as the definitive work on military strategies and tactics of its time.\nThe Art of War is one of the oldest books on military strategy in the world. It is the first and one of the most successful works on strategy and has had a huge influence on Eastern and Western military thinking, business tactics, and beyond. Sun Tzu was the first to recognize the importance of positioning in strategy and that position is affected both by objective conditions in the physical environment and the subjective opinions of competitive actors in that environment. He taught that strategy was not planning in the sense of working through a to-do list, but rather that it requires quick and appropriate responses to changing conditions. Planning works in a controlled environment, but in a competitive environment,",
+         "category": [
+            {
+               "@label": "Nonfiction",
+               "@term": "FBNFC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Human science",
+               "@term": "FSHUM000000N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Philosophy",
+               "@term": "FBPHI000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/168"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/168.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/168.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/168.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/168.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Moonstone",
+         "id": "https://www.feedbooks.com/book/3311",
+         "author": {
+            "name": "Wilkie Collins",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=38&lang=en"
+         },
+         "published": "2008-11-05T16:11:23Z",
+         "updated": "2018-09-25T08:50:43Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1868",
+         "summary": "Widely regarded as the precursor of the modern mystery and suspense novels, The Moonstone tells of the events surrounding the disappearance of a mysterious (and cursed) yellow diamond. T. S. Eliot called it 'the first, the longest, and the best of modern English detective novels'. It contains a number of ideas which became common tropes of the genre, including a crime being investigated by talented amateurs who happen to be present when it is committed, and two police officers who exemplify respectively the 'Scotland Yard bungler' and the skilled, professional detective.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Mystery & detective",
+               "@term": "FBFIC022000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3311"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3311.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3311.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3311.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3311.atom"
+            }
+         ]
+      },
+      {
+         "title": "Dracula",
+         "id": "https://www.feedbooks.com/book/88",
+         "author": {
+            "name": "Bram Stoker",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=31&lang=en"
+         },
+         "published": "2007-01-02T18:40:04Z",
+         "updated": "2020-10-03T20:26:58Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1897",
+         "summary": "Dracula is an 1897 novel by Irish author Bram Stoker, featuring as its primary antagonist the vampire Count Dracula.\nDracula has been attributed to many literary genres including vampire literature, horror fiction, the gothic novel and invasion literature. Structurally it is an epistolary novel, that is, told as a series of diary entries and letters. Literary critics have examined many themes in the novel, such as the role of women in Victorian culture, conventional and conservative sexuality, immigration, colonialism, postcolonialism and folklore. Although Stoker did not invent the vampire, the novel's influence on the popularity of vampires has been singularly responsible for many theatrical and film interpretations throughout the 20th and 21st centuries.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/88"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/88.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/88.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/88.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/88.atom"
+            }
+         ]
+      },
+      {
+         "title": "Anne of Green Gables",
+         "id": "https://www.feedbooks.com/book/2776",
+         "author": {
+            "name": "Lucy Maud Montgomery",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=547&lang=en"
+         },
+         "published": "2008-10-19T13:44:55Z",
+         "updated": "2020-10-22T06:09:09Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1908",
+         "summary": "Marilla Cuthbert and Matthew Cuthbert, middle-aged siblings who live together at Green Gables, a farm in Avonlea, on Prince Edward Island, decide to adopt a boy from an orphan asylum in Nova Scotia as a helper on their farm. Through a series of mishaps, the person who ends up under their roof is a precocious girl of eleven named Anne Shirley. Anne is bright and quick, eager to please but dissatisfied with her name, her pale countenance dotted with freckles, and with her long braids of red hair. Being a child of imagination, however, Anne takes much joy in life, and adapts quickly, thriving in the environment of Prince Edward Island.",
+         "Series": {
+            "@position": "1",
+            "@name": "Anne Shirley Series",
+            "@url": "https://catalog.feedbooks.com/series/297"
+         },
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Juvenile & young adult",
+               "@term": "FBJUV000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2776"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2776.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2776.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2776.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2776.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Secret Garden",
+         "id": "https://www.feedbooks.com/book/6578",
+         "author": {
+            "name": "Frances Hodgson Burnett",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1185&lang=en"
+         },
+         "published": "2013-01-22T16:54:48Z",
+         "updated": "2020-08-20T09:32:22Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1911",
+         "summary": "Mary Lennox is a sour-faced 10-year-old girl, who is born in India to selfish wealthy British parents who had not wanted her and were too wrapped up in their own lives. She was taken care of primarily by servants, who pacify her as much as possible to keep her out of the way. Spoiled and with a temper, she is unaffectionate, angry, rude and obstinate. Later, there is a cholera epidemic which hits India and kills her mother, father and all the servants. She is discovered alone but alive after the house is empty. She is sent to Yorkshire, England to live with her uncle, Archibald Craven at his home called Misselthwaite Manor.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Juvenile & young adult",
+               "@term": "FBJUV000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6578"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6578.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6578.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6578.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6578.atom"
+            }
+         ]
+      },
+      {
+         "title": "Tales of Space and Time",
+         "id": "https://www.feedbooks.com/book/3469",
+         "author": {
+            "name": "H. G. Wells",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+         },
+         "published": "2008-12-01T21:43:41Z",
+         "updated": "2020-09-19T14:30:13Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1900",
+         "summary": "A collection of short stories: \"The Crystal Egg\", \"The Star\", \"A Story of the Stone Age\", \"A Story of the Days to Come\" &amp; \"The Man who could Work Miracles\"",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3469"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3469.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3469.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3469.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3469.atom"
+            }
+         ]
+      },
+      {
+         "title": "Japanese Fairy Tales",
+         "id": "https://www.feedbooks.com/book/4570",
+         "author": {
+            "name": "Yei Theodora Ozaki",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1336&lang=en"
+         },
+         "published": "2010-01-13T19:34:26Z",
+         "updated": "2020-09-09T09:22:23Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1908",
+         "summary": "This collection of Japanese fairy tales is the outcome of a suggestion made to me indirectly through a friend by Mr. Andrew Lang. They have been translated from the modern version written by Sadanami Sanjin. These stories are not literal translations, and though the Japanese story and all quaint Japanese expressions have been faithfully preserved, they have been told more with the view to interest young readers of the West than the technical student of folk-lore.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Fantasy",
+               "@term": "FBFIC009000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Fairy tales, folk tales & mythology",
+               "@term": "FBFIC010000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/4570"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/4570.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/4570.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/4570.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/4570.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Blazing World",
+         "id": "https://www.feedbooks.com/book/6896",
+         "author": {
+            "name": "Margaret Cavendish",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2252&lang=en"
+         },
+         "published": "2014-03-13T11:52:59Z",
+         "updated": "2020-09-02T06:45:09Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1666",
+         "summary": "The Description of a New World, Called The Blazing-World, better known as The Blazing World, is a 1666 work of prose fiction by English writer Margaret Cavendish, the Duchess of Newcastle. It has been described as an early forerunner of science fiction.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Dystopia and uchronia",
+               "@term": "FBFIC028060N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6896"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6896.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6896.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6896.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6896.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Secret Adversary",
+         "id": "https://www.feedbooks.com/book/2059",
+         "author": {
+            "name": "Agatha Christie",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=287&lang=en"
+         },
+         "published": "2007-12-19T18:57:35Z",
+         "updated": "2020-09-09T10:58:41Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1922",
+         "summary": "Hiring themselves out as “young adventurers willing to do anything” is a smart move for Tommy and Tuppence. All Tuppence has to do is take an all-expenses-paid trip to Paris and pose as someone named Jane Finn. But with the job comes a threat to her life, and the disappearance of her mysterious employer. Now Tuppence’s newest job is playing detective—because if there’s a Jane Finn that really exists, she’s got a secret that’s putting both their lives in danger.",
+         "Series": {
+            "@position": "1",
+            "@name": "Tommy &Tuppence",
+            "@url": "https://catalog.feedbooks.com/series/3654"
+         },
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Mystery & detective",
+               "@term": "FBFIC022000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2059"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2059.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2059.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2059.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2059.atom"
+            }
+         ]
+      },
+      {
+         "title": "Dream Psychology",
+         "id": "https://www.feedbooks.com/book/176",
+         "author": {
+            "name": "Sigmund Freud",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=83&lang=en"
+         },
+         "published": "2007-01-11T15:44:15Z",
+         "updated": "2020-09-23T09:13:37Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1920",
+         "summary": "The Interpretation of Dreams is a book by Sigmund Freud. The first edition was first published in German in November 1899 as Die Traumdeutung (though post-dated as 1900 by the publisher). The publication inaugurated the theory of Freudian dream analysis, which activity Freud famously described as \"the royal road to the understanding of unconscious mental processes\".",
+         "category": [
+            {
+               "@label": "Nonfiction",
+               "@term": "FBNFC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Human science",
+               "@term": "FSHUM000000N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Psychology",
+               "@term": "FBPSY000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/176"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/176.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/176.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/176.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/176.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Black Cat",
+         "id": "https://www.feedbooks.com/book/759",
+         "author": {
+            "name": "Edgar Allan Poe",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+         },
+         "published": "2007-04-12T17:18:17Z",
+         "updated": "2020-09-08T06:02:52Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1842",
+         "summary": "\"The Black Cat\" is a short story by Edgar Allan Poe. It was first published in the August 19, 1843, edition of The Saturday Evening Post. It is a study of the psychology of guilt, often paired in analysis with Poe's \"The Tell-Tale Heart\". In both, a murderer carefully conceals his crime and believes himself unassailable, but eventually breaks down and reveals himself, impelled by a nagging reminder of his guilt.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Mystery & detective",
+               "@term": "FBFIC022000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/759"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/759.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/759.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/759.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/759.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Art of Money Getting, or Golden Rules for Making Money",
+         "id": "https://www.feedbooks.com/book/6712",
+         "author": {
+            "name": "P. T. Barnum",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2173&lang=en"
+         },
+         "published": "2013-04-05T18:23:46Z",
+         "updated": "2020-10-13T03:40:41Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1880",
+         "summary": "P. T. Barnum, the great American showman of the 19th century, wrote this short book about making and keeping money. He certainly had life experiences that qualify him for the subject--he started a small newspaper in his twenties, bought and transformed a museum into a showplace for curiosities, built a circus empire that gave performances in America and Europe, promoted a performing tour of a singer, fell into debt in the 1850s and pulled himself out by lecture tours, was a mayor, and founded a hospital.\n\nExcerpts:\n\n\"Those who really desire to attain an independence, have only to set their minds upon it, and adopt the proper means, as they do in regard to any other object which they wish to accomplish, and the thing is easily done. But however easy it may be found to make money, I have no doubt many of my hearers will agree it is the most difficult thing in the world to keep it. ... True economy consists in always making the income exceed the out-go.\"\n\n\"Unless a man enters upon the vocation intended for him by nature, and best suited to his peculiar genius, he cannot succeed. I am glad to believe that the majority of persons do find their right vocation. Yet we see many who have mistaken their calling...\"\n\nHis advice is indicated by the chapter titles:\n\nDON'T MISTAKE YOUR VOCATION,\n\nSELECT THE RIGHT LOCATION,\n\nAVOID DEBT,\n\nPERSEVERE,\n\nWHATEVER YOU DO, DO IT WITH ALL YOUR MIGHT,\n\nUSE THE BEST TOOLS,\n\nDON'T GET ABOVE YOUR BUSINESS,\n\nLEARN SOMETHING USEFUL,\n\nLET HOPE PREDOMINATE, BUT BE NOT TOO VISIONARY,\n\nDO NOT SCATTER YOUR POWERS,\n\nBE SYSTEMATIC,\n\nREAD THE NEWSPAPERS,\n\nBEWARE OF \"OUTSIDE OPERATIONS\",\n\nDON'T INDORSE WITHOUT SECURITY,\n\nADVERTISE YOUR BUSINESS,\n\n\"DON'T READ THE OTHER SIDE\",\n\nBE POLITE AND KIND TO YOUR CUSTOMERS,\n\nBE CHARITABLE,\n\nDON'T BLAB,\n\nPRESERVE YOUR INTEGRITY.",
+         "category": [
+            {
+               "@label": "Nonfiction",
+               "@term": "FBNFC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Business & economics",
+               "@term": "FBBUS000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Free Enterprise",
+               "@term": "FBBUS029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6712"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6712.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6712.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6712.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6712.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Power of Words",
+         "id": "https://www.feedbooks.com/book/802",
+         "author": {
+            "name": "Edgar Allan Poe",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+         },
+         "published": "2007-04-13T15:18:30Z",
+         "updated": "2018-09-25T08:24:38Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1845",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/802"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/802.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/802.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/802.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/802.atom"
+            }
+         ]
+      },
+      {
+         "title": "Cleopatra",
+         "id": "https://www.feedbooks.com/book/977",
+         "author": {
+            "name": "Henry Rider Haggard",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=32&lang=en"
+         },
+         "published": "2007-05-17T23:44:19Z",
+         "updated": "2020-09-22T10:58:36Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1889",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Action & adventure",
+               "@term": "FBFIC002000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/977"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/977.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/977.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/977.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/977.atom"
+            }
+         ]
+      },
+      {
+         "title": "Little Women",
+         "id": "https://www.feedbooks.com/book/139",
+         "author": {
+            "name": "Louisa May Alcott",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=50&lang=en"
+         },
+         "published": "2007-01-05T03:12:31Z",
+         "updated": "2020-10-17T11:24:37Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1868",
+         "summary": "Little Women or, Meg, Jo, Beth and Amy is a novel by American author Louisa May Alcott (1832–1888). Written and published in two parts in 1868 and 1869, the novel follows the lives of four sisters — Meg, Jo, Beth and Amy March — and is loosely based on the author's childhood experiences with her three sisters. The first part of the book was an immediate commercial and critical success and prompted the composition of the book's second part, also a huge success. Both parts were first published as a single volume in 1880. The book is an unquestioned American classic.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Juvenile & young adult",
+               "@term": "FBJUV000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/139"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/139.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/139.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/139.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/139.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Vampire Maid",
+         "id": "https://www.feedbooks.com/book/1326",
+         "author": {
+            "name": "Hume Nisbet",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=211&lang=en"
+         },
+         "published": "2007-06-29T17:43:04Z",
+         "updated": "2020-08-01T05:28:02Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1900",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Gothic",
+               "@term": "FBFIC027040",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1326"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1326.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1326.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1326.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1326.atom"
+            }
+         ]
+      },
+      {
+         "title": "The War of the Worlds",
+         "id": "https://www.feedbooks.com/book/35",
+         "author": {
+            "name": "H. G. Wells",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+         },
+         "published": "2006-12-21T18:40:18Z",
+         "updated": "2020-10-03T20:07:21Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1898",
+         "summary": "The War of the Worlds (1898), by H. G. Wells, is an early science fiction novel which describes an invasion of England by aliens from Mars. It is one of the earliest and best-known depictions of an alien invasion of Earth, and has influenced many others, as well as spawning several films, radio dramas, comic book adaptations, and a television series based on the story. The 1938 radio broadcast caused public outcry against the episode, as many listeners believed that an actual Martian invasion was in progress, a notable example of mass hysteria.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "War & military",
+               "@term": "FBFIC032000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/35"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/35.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/35.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/35.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/35.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Virgin and the Gipsy",
+         "id": "https://www.feedbooks.com/book/1079",
+         "author": {
+            "name": "David Herbert Lawrence",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=30&lang=en"
+         },
+         "published": "2007-06-06T22:37:02Z",
+         "updated": "2020-08-20T21:30:19Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1930",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1079"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1079.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1079.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1079.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1079.atom"
+            }
+         ]
+      },
+      {
+         "title": "Hamlet",
+         "id": "https://www.feedbooks.com/book/2846",
+         "author": {
+            "name": "William Shakespeare",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=494&lang=en"
+         },
+         "published": "2008-09-03T03:58:35Z",
+         "updated": "2020-09-08T06:03:11Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1599",
+         "summary": "Hamlet is a tragedy by William Shakespeare, believed to have been written between 1599 and 1601. The play, set in Denmark, recounts how Prince Hamlet exacts revenge on his uncle Claudius, who has murdered Hamlet's father, the King, and then taken the throne and married Hamlet's mother. The play vividly charts the course of real and feigned madness—from overwhelming grief to seething rage—and explores themes of treachery, revenge, incest, and moral corruption.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Drama",
+               "@term": "FBDRA000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2846"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2846.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2846.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2846.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2846.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Night Land",
+         "id": "https://www.feedbooks.com/book/2417",
+         "author": {
+            "name": "William Hope Hodgson",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=374&lang=en"
+         },
+         "published": "2008-04-09T13:45:51Z",
+         "updated": "2020-09-19T04:31:26Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1912",
+         "summary": "The Sun has gone out: the Earth is lit only by the glow of residual vulcanism. The last few millions of the human race are gathered together in a gigantic metal pyramid, the Last Redoubt, under siege from unknown forces and Powers outside in the dark. These are held back by a Circle of energy, known as the \"air clog,\" powered from the Earth's internal energy. For millennia, vast living shapes - the Watchers - have waited in the darkness near the pyramid: it is thought they are waiting for the inevitable time when the Circle's power finally weakens and dies. Other living things have been seen in the darkness beyond, some of unknown origins, and others that may once have been human.\nTo leave the protection of the Circle means almost certain death, or worse, but as the story commences, the narrator establishes mind contact with an inhabitant of another, forgotten, Redoubt, and sets off into the darkness to find her.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Fantasy",
+               "@term": "FBFIC009000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2417"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2417.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2417.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2417.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2417.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Double",
+         "id": "https://www.feedbooks.com/book/6899",
+         "author": {
+            "name": "Fyodor Mikhailovich Dostoyevsky",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2&lang=en"
+         },
+         "published": "2014-03-26T10:12:19Z",
+         "updated": "2020-10-03T04:35:12Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1846",
+         "summary": "The Double centers on a government clerk who goes mad. It deals with the internal psychological struggle of its main character, Yakov Petrovich Golyadkin, who repeatedly encounters someone who is his exact double in appearance but confident, aggressive, and extroverted, characteristics that are the polar opposites to those of the toadying \"pushover\" protagonist. The motif of the novella is a doppelgänger (Russian \"dvoynik\"), known throughout the world in various guises such as the fetch.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6899"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6899.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6899.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6899.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6899.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Art of Public Speaking",
+         "id": "https://www.feedbooks.com/book/3695",
+         "author": {
+            "name": "Dale Breckenridge Carnegie",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=960&lang=en"
+         },
+         "published": "2009-02-26T13:22:02Z",
+         "updated": "2020-08-18T03:43:29Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1905",
+         "summary": "Training in public speaking is not a matter of externals--primarily; it is not a matter of imitation--fundamentally; it is not a matter of conformity to standards--at all. Public speaking is public utterance, public issuance, of the man himself; therefore the first thing both in time and in importance is that the man should be and think and feel things that are worthy of being given forth. Unless there be something of value within, no tricks of training can ever make of the talker anything more than a machine--albeit a highly perfected machine--for the delivery of other men's goods. So self-development is fundamental in our plan.",
+         "category": [
+            {
+               "@label": "Nonfiction",
+               "@term": "FBNFC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Human science",
+               "@term": "FSHUM000000N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Language arts & disciplines",
+               "@term": "FBLAN000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Public speaking",
+               "@term": "FBLAN026000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3695"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3695.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3695.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3695.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3695.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Happy Prince and Other Tales",
+         "id": "https://www.feedbooks.com/book/6469",
+         "author": {
+            "name": "Oscar Wilde",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=5&lang=en"
+         },
+         "published": "2012-11-20T17:21:10Z",
+         "updated": "2020-10-03T20:16:57Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1910",
+         "summary": "The Happy Prince and Other Tales (sometimes called The Happy Prince and Other Stories) is a collection of stories for children by Oscar Wilde first published in May 1888. It contains five stories, \"The Happy Prince\", \"The Nightingale and the Rose\", \"The Selfish Giant\", \"The Devoted Friend\", and \"The Remarkable Rocket\". It is most famous for its title story, \"The Happy Prince\".",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Fairy tales, folk tales & mythology",
+               "@term": "FBFIC010000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6469"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6469.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6469.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6469.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6469.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Wonderful Wizard of Oz",
+         "id": "https://www.feedbooks.com/book/197",
+         "author": {
+            "name": "Lyman Frank Baum",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=96&lang=en"
+         },
+         "published": "2007-01-15T20:34:49Z",
+         "updated": "2020-10-03T20:17:20Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1900",
+         "summary": "Dorothy is a young girl who lives on a Kansas farm with her Uncle Henry, Aunt Em, and little dog Toto. One day the farmhouse, with Dorothy inside, is caught up in a tornado and deposited in a field in the country of the Munchkins. The falling house kills the Wicked Witch of the East.",
+         "Series": {
+            "@position": "1",
+            "@name": "The Oz Books",
+            "@url": "https://catalog.feedbooks.com/series/4"
+         },
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Fantasy",
+               "@term": "FBFIC009000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/197"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/197.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/197.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/197.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/197.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Mysterious Island",
+         "id": "https://www.feedbooks.com/book/2448",
+         "author": {
+            "name": "Jules Verne",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+         },
+         "published": "2008-04-23T00:54:50Z",
+         "updated": "2020-10-08T04:41:10Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1874",
+         "summary": "The book tells the adventures of five American prisoners of war on an uncharted island in the South Pacific. Begining in the American Civil War, as famine and death ravage the city of Richmond, Virginia, five northern POWs decide to escape in a rather unusual way – by hijacking a balloon! This is only the beginning of their adventures...",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Action & adventure",
+               "@term": "FBFIC002000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2448"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2448.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2448.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2448.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2448.atom"
+            }
+         ]
+      },
+      {
+         "title": "Meditations",
+         "id": "https://www.feedbooks.com/book/5315",
+         "author": {
+            "name": "Marcus  Aurelius",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1561&lang=en"
+         },
+         "published": "2010-11-01T04:03:20Z",
+         "updated": "2020-09-02T06:44:24Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "180",
+         "summary": "The writings of Marcus Aurelius on Stoic philosophy.",
+         "category": [
+            {
+               "@label": "Nonfiction",
+               "@term": "FBNFC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Human science",
+               "@term": "FSHUM000000N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Philosophy",
+               "@term": "FBPHI000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/5315"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/5315.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/5315.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/5315.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/5315.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Kama Sutra",
+         "id": "https://www.feedbooks.com/book/3622",
+         "author": {
+            "name": "Vatsyayana",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=91&lang=en"
+         },
+         "published": "2009-01-28T22:24:17Z",
+         "updated": "2020-08-31T06:15:05Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "400",
+         "summary": "The Kama Sutra, is an ancient Indian text widely considered to be the standard work on human sexual behavior in Sanskrit literature written by the Indian scholar Vatsyayana. A portion of the work consists of practical advice on sex. Kāma means sensual or sexual pleasure, and sūtra are the guidlines of yoga, the word itself means thread in Sanskrit.\nThe Kama Sutra is the oldest and most notable of a group of texts known generically as Kama Shastra). Traditionally, the first transmission of Kama Shastra or \"Discipline of Kama\" is attributed to Nandi the sacred bull, Shiva's doorkeeper, who was moved to sacred utterance by overhearing the lovemaking of the god and his wife Parvati and later recorded his utterances for the benefit of mankind.",
+         "category": [
+            {
+               "@label": "Nonfiction",
+               "@term": "FBNFC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Human science",
+               "@term": "FSHUM000000N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Philosophy",
+               "@term": "FBPHI000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Psychology",
+               "@term": "FBPSY000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Human sexuality",
+               "@term": "FBPSY016000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3622"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3622.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3622.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3622.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3622.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Memoirs of Sherlock Holmes",
+         "id": "https://www.feedbooks.com/book/58",
+         "author": {
+            "name": "Arthur Conan Doyle",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+         },
+         "published": "2006-12-29T17:49:57Z",
+         "updated": "2020-01-02T16:10:01Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1893",
+         "summary": "The Memoirs of Sherlock Holmes is a collection of Sherlock Holmes stories, originally published in 1894, by Arthur Conan Doyle.",
+         "Series": {
+            "@position": "5",
+            "@name": "Sherlock Holmes",
+            "@url": "https://catalog.feedbooks.com/series/9"
+         },
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Mystery & detective",
+               "@term": "FBFIC022000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/58"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/58.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/58.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/58.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/58.atom"
+            }
+         ]
+      },
+      {
+         "title": "Peter Pan (Peter and Wendy)",
+         "id": "https://www.feedbooks.com/book/3413",
+         "author": {
+            "name": "J.M. Barrie",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=816&lang=en"
+         },
+         "published": "2008-11-23T15:38:51Z",
+         "updated": "2020-10-17T05:53:21Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1911",
+         "summary": "Peter Pan, or The Boy Who Wouldn't Grow Up and Peter and Wendy are the stage play and novel (respectively) which tell the story of Peter Pan, a mischievous little boy who can fly, and his adventures on the island of Neverland with Wendy Darling and her brothers, the fairy Tinker Bell, the Lost Boys, the Indian princess Tiger Lily, and the pirate Captain Hook. The story was written by Scottish playwright and novelist J. M. Barrie, inspired by his friendship with the Llewelyn-Davies family.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Fantasy",
+               "@term": "FBFIC009000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3413"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3413.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3413.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3413.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3413.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Schoolboy's Story",
+         "id": "https://www.feedbooks.com/book/702",
+         "author": {
+            "name": "Charles Dickens",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=21&lang=en"
+         },
+         "published": "2007-03-29T00:43:35Z",
+         "updated": "2020-08-20T21:30:25Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1853",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/702"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/702.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/702.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/702.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/702.atom"
+            }
+         ]
+      },
+      {
+         "title": "A Haunted House",
+         "id": "https://www.feedbooks.com/book/1388",
+         "author": {
+            "name": "Virginia Woolf",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=206&lang=en"
+         },
+         "published": "2007-07-15T23:50:48Z",
+         "updated": "2020-07-18T11:21:56Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1921",
+         "summary": "Virginia Woolf's intention to publish her short stories is carried out in this volume, posthumously collected by her husband, Leonard Woolf. Containing six of eight stories from Monday or Tuesday, seven that appeared in magazines, and five other stories, the book makes available Virginia Woolf's shorter works of fiction.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Occult & supernatural",
+               "@term": "FBFIC024000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Supernatural creatures",
+               "@term": "FBFIC024020N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Ghost",
+               "@term": "FBFIC012000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1388"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1388.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1388.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1388.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1388.atom"
+            }
+         ]
+      },
+      {
+         "title": "A Midsummer Night's Dream",
+         "id": "https://www.feedbooks.com/book/2990",
+         "author": {
+            "name": "William Shakespeare",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=494&lang=en"
+         },
+         "published": "2008-09-24T14:11:40Z",
+         "updated": "2020-10-13T10:29:36Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1596",
+         "summary": "A Midsummer Night's Dream is a romantic comedy by William Shakespeare, suggested by \"The Knight's Tale\" from Geoffrey Chaucer's The Canterbury Tales, written around 1594 to 1596. It portrays the adventures of four young Athenian lovers and a group of amateur actors, their interactions with the Duke and Duchess of Athens, Theseus and Hippolyta, and with the fairies who inhabit a moonlit forest. The play is one of Shakespeare's most popular works for the stage and is widely performed across the world.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Drama",
+               "@term": "FBDRA000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2990"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2990.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2990.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2990.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2990.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Time Machine",
+         "id": "https://www.feedbooks.com/book/32",
+         "author": {
+            "name": "H. G. Wells",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+         },
+         "published": "2006-12-21T15:58:14Z",
+         "updated": "2020-10-13T07:48:12Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1895",
+         "summary": "The book's protagonist is an amateur inventor or scientist living in London who is never named; he is identified simply as The Time Traveller. Having demonstrated to friends using a miniature model that time is a fourth dimension, and that a suitable apparatus can move back and forth in this fourth dimension, he builds a full-scale model capable of carrying himself. He sets off on a journey into the future.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Time travel",
+               "@term": "FBFIC028080N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/32"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/32.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/32.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/32.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/32.atom"
+            }
+         ]
+      },
+      {
+         "title": "Jane Eyre",
+         "id": "https://www.feedbooks.com/book/144",
+         "author": {
+            "name": "Charlotte Brontë",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=52&lang=en"
+         },
+         "published": "2007-01-06T03:26:44Z",
+         "updated": "2020-10-14T07:51:09Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1847",
+         "summary": "Jane Eyre, the story of a young girl and her passage into adulthood, was an immediate commercial success at the time of its original publication in 1847. Its representation of the underside of domestic life and the hypocrisy behind religious enthusiasm drew both praise and bitter criticism, while Charlotte Brontë's striking expose of poor living conditions for children in charity schools as well as her poignant portrayal of the limitations faced by women who worked as governesses sparked great controversy and social debate. Jane Eyre, Brontë's best-known novel, remains an extraordinary coming-of-age narrative, and one of the great classics of literature.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/144"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/144.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/144.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/144.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/144.atom"
+            }
+         ]
+      },
+      {
+         "title": "Macbeth",
+         "id": "https://www.feedbooks.com/book/2935",
+         "author": {
+            "name": "William Shakespeare",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=494&lang=en"
+         },
+         "published": "2008-09-18T06:38:52Z",
+         "updated": "2020-07-12T23:04:34Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1606",
+         "summary": "Macbeth is among the best-known of William Shakespeare's plays, and is his shortest tragedy, believed to have been written between 1603 and 1606. It is frequently performed at both amateur and professional levels, and has been adapted for opera, film, books, stage and screen. Often regarded as archetypal, the play tells of the dangers of the lust for power and the betrayal of friends. For the plot Shakespeare drew loosely on the historical account of King Macbeth of Scotland by Raphael Holinshed and that by the Scottish philosopher Hector Boece. There are many superstitions centred on the belief the play is somehow \"cursed\", and many actors will not mention the name of the play aloud, referring to it instead as \"The Scottish play\". (From Wikipedia)",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Drama",
+               "@term": "FBDRA000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2935"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2935.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2935.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2935.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2935.atom"
+            }
+         ]
+      },
+      {
+         "title": "A Journey into the Center of the Earth",
+         "id": "https://www.feedbooks.com/book/3796",
+         "author": {
+            "name": "Jules Verne",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+         },
+         "published": "2009-04-06T19:45:46Z",
+         "updated": "2019-11-18T13:12:54Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1877",
+         "summary": "Journey to the Center of the Earth is a classic 1864 science fiction novel by Jules Verne (published in the original French as Voyage au centre de la Terre). The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the \"center of the Earth\". They encounter many adventures, including prehistoric animals and natural hazards, eventually coming to the surface again in southern Italy.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Action & adventure",
+               "@term": "FBFIC002000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3796"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3796.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3796.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3796.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3796.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Mysterious Affair at Styles",
+         "id": "https://www.feedbooks.com/book/2058",
+         "author": {
+            "name": "Agatha Christie",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=287&lang=en"
+         },
+         "published": "2007-12-19T18:47:57Z",
+         "updated": "2020-10-22T07:56:31Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1920",
+         "summary": "In her first published mystery, Agatha Christie introduces readers to the heroic detective, Hercule Poirot. This is a classic murder mystery set in the outskirts of Essex. The victim is the wealthy mistress of Styles Court. The list of suspects is long and includes her gold-digging new spouse and stepsons, her doctor, and her hired companion.",
+         "Series": {
+            "@position": "1",
+            "@name": "Hercule Poirot",
+            "@url": "https://catalog.feedbooks.com/series/3653"
+         },
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Mystery & detective",
+               "@term": "FBFIC022000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2058"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2058.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2058.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2058.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2058.atom"
+            }
+         ]
+      },
+      {
+         "title": "Pandemic",
+         "id": "https://www.feedbooks.com/book/2748",
+         "author": {
+            "name": "Jesse Franklin Bone",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=167&lang=en"
+         },
+         "published": "2008-08-09T15:05:33Z",
+         "updated": "2020-08-20T21:33:36Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1962",
+         "summary": "Generally, human beings don't do totally useless things consistently and widely. So--maybe there is something to it--",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2748"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2748.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2748.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2748.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2748.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Valley of Fear",
+         "id": "https://www.feedbooks.com/book/64",
+         "author": {
+            "name": "Arthur Conan Doyle",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+         },
+         "published": "2006-12-29T19:48:02Z",
+         "updated": "2020-01-23T19:58:47Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1915",
+         "summary": "The plot of the novel is based very loosely on the real-life activities of the Molly Maguires and, particularly, of Pinkerton agent James McParland.\nThe novel is divided into two parts: in the first, Holmes investigates an apparent murder and discovers that the body belongs to another man; and in the second, the story of the man originally thought to have been the victim is told.",
+         "Series": {
+            "@position": "4",
+            "@name": "Sherlock Holmes",
+            "@url": "https://catalog.feedbooks.com/series/9"
+         },
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Mystery & detective",
+               "@term": "FBFIC022000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/64"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/64.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/64.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/64.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/64.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Prince and the Pauper",
+         "id": "https://www.feedbooks.com/book/6623",
+         "author": {
+            "name": "Mark Twain",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=24&lang=en"
+         },
+         "published": "2013-02-07T17:08:14Z",
+         "updated": "2020-08-27T13:52:23Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1881",
+         "summary": "The novel represents Twain's first attempt at historical fiction. Set in 1547, it tells the story of two young boys who are identical in appearance: Tom Canty, a pauper who lives with his abusive father in Offal Court off Pudding Lane in London, and Prince Edward, son of King Henry VIII.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Historical",
+               "@term": "FBFIC014000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Modern (<1799)",
+               "@term": "FBFIC014040N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6623"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6623.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6623.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6623.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6623.atom"
+            }
+         ]
+      },
+      {
+         "title": "Sense and Sensibility",
+         "id": "https://www.feedbooks.com/book/53",
+         "author": {
+            "name": "Jane Austen",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=18&lang=en"
+         },
+         "published": "2006-12-28T22:07:50Z",
+         "updated": "2019-07-01T03:33:42Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1811",
+         "summary": "Elinor and Marianne are two daughters of Mr. Dashwood by his second wife. They have a younger sister, Margaret, and an older half-brother named John. When their father dies, the family estate passes to John and the Dashwood women are left in reduced circumstances. Fortunately, a distant relative offers to rent the women a cottage on his property.\nThe novel follows the Dashwood sisters to their new home, where they experience both romance and heartbreak.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/53"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/53.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/53.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/53.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/53.atom"
+            }
+         ]
+      }
+   ]
+}

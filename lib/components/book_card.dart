@@ -16,7 +16,7 @@ class BookCard extends StatelessWidget {
     @required this.img,
     @required this.entry,
   }) : super(key: key);
-
+//generate random id for Hero
   static final uuid = Uuid();
   final String imgTag = uuid.v4();
   final String titleTag = uuid.v4();
@@ -53,7 +53,7 @@ class BookCard extends StatelessWidget {
               Radius.circular(10.0),
             ),
             child: Hero(
-              tag: imgTag,
+              tag: imgTag, //use in Hero Wedget
               child: CachedNetworkImage(
                 imageUrl: '$img',
                 placeholder: (context, url) => LoadingWidget(

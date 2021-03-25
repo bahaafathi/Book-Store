@@ -1,0 +1,693 @@
+{
+   "@lang": "en",
+   "id": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom",
+   "title": "Awards",
+   "updated": "2021-03-21T14:23:34Z",
+   "icon": "/favicon.ico",
+   "author": {
+      "name": "Feedbooks",
+      "uri": "http://www.feedbooks.com",
+      "email": "help@demarque.com"
+   },
+   "link": [
+      {
+         "@rel": "self",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom"
+      },
+      {
+         "@rel": "start",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@title": "Home",
+         "@href": "https://catalog.feedbooks.com/catalog/index.atom"
+      },
+      {
+         "@rel": "search",
+         "@href": "https://catalog.feedbooks.com/opensearch.xml",
+         "@type": "application/opensearchdescription+xml",
+         "@title": "Search on Feedbooks"
+      },
+      {
+         "@rel": "http://opds-spec.org/shelf",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@title": "Bookshelf",
+         "@href": "https://www.feedbooks.com/user/bookshelf.atom"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Most popular",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "New releases",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Awards",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?language=en&range=month",
+         "@activeFacet": "true",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "New & noteworthy",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Literary",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?cat=FBFIC019000&language=en&range=month",
+         "@count": "4",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Historical",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?cat=FBFIC014000&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Science fiction",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?cat=FBFIC028000&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "War & military",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?cat=FBFIC032000&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Fiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Biography & autobiography",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?cat=FBBIO000000&language=en&range=month",
+         "@count": "1",
+         "@facetGroup": "Nonfiction"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "German",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?lang=de&language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "English",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?lang=en&language=en&range=month",
+         "@activeFacet": "true",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Spanish",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?lang=es&language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "French",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?lang=fr&language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Italian",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?lang=it&language=en&range=month",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      }
+   ],
+   "totalResults": "10",
+   "itemsPerPage": "50",
+   "startIndex": "1",
+   "entry": [
+      {
+         "title": "The Big Time",
+         "id": "https://www.feedbooks.com/book/4773",
+         "author": {
+            "name": "Fritz Reuter Leiber Jr.",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=380&lang=en"
+         },
+         "published": "2010-05-06T15:48:53Z",
+         "updated": "2020-07-24T11:49:44Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1958",
+         "summary": "You can't know there's a war on—for the Snakes coil and Spiders weave to keep you from knowing it's being fought over your live and dead body!",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Time travel",
+               "@term": "FBFIC028080N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/4773"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/4773.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/4773.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/4773.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/4773.atom"
+            }
+         ]
+      },
+      {
+         "title": "Riceyman Steps",
+         "id": "https://www.feedbooks.com/book/6632",
+         "author": {
+            "name": "Arnold Bennett",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1045&lang=en"
+         },
+         "published": "2013-02-14T15:23:53Z",
+         "updated": "2020-07-24T11:54:28Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1923",
+         "summary": "The story takes place in 1919-1920 and deals with the final year in the life of its main character, Henry Earlforward, a miser, who keeps a second-hand bookshop in the Clerkenwell area of London. Henry marries Violet Arb, a widow who keeps a neighbouring shop, and who sees in Henry a financially secure future. Henry's parsimony drives them into an increasingly wretched existence. Their lives are contrasted to that of their maid servant Elsie Sprickett and it is she, despite her extreme poverty, who brings life and a future to the bittersweet tale.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Literary",
+               "@term": "FBFIC019000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6632"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6632.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6632.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6632.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6632.atom"
+            }
+         ]
+      },
+      {
+         "title": "One of Ours",
+         "id": "https://www.feedbooks.com/book/2094",
+         "author": {
+            "name": "Willa Cather",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=296&lang=en"
+         },
+         "published": "2007-12-28T23:46:15Z",
+         "updated": "2020-07-24T11:50:16Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1923",
+         "summary": "Claude Wheeler craves excitement, far more than he can ever find as a farmer's son. He encounters more at university, where the modern world beyond farm life offers new thrills and challenges, only to lose them as the farm calls him back. World War I offers him even more . . . but he may crave excitement more than life itself can allow. Wanting it as much as he does can't protect him from the consequences of personal bravado in an age of killing machines.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Historical",
+               "@term": "FBFIC014000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "War & military",
+               "@term": "FBFIC032000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2094"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2094.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2094.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2094.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2094.atom"
+            }
+         ]
+      },
+      {
+         "title": "Alice Adams",
+         "id": "https://www.feedbooks.com/book/2091",
+         "author": {
+            "name": "Newton Booth Tarkington",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=295&lang=en"
+         },
+         "published": "2007-12-28T15:56:56Z",
+         "updated": "2020-07-24T11:50:16Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1921",
+         "summary": "No description available",
+         "category": {
+            "@label": "Fiction",
+            "@term": "FBFIC000000",
+            "@scheme": "http://www.feedbooks.com/categories"
+         },
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2091"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2091.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2091.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2091.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2091.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Age of Innocence",
+         "id": "https://www.feedbooks.com/book/93",
+         "author": {
+            "name": "Edith Wharton",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=35&lang=en"
+         },
+         "published": "2007-01-02T20:13:11Z",
+         "updated": "2020-09-09T10:58:34Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1920",
+         "summary": "The Age of Innocence centers on one society couple's impending marriage and the introduction of a scandalous woman whose presence threatens their happiness. Though the novel questions the assumptions and mores of turn of the century New York society, it never devolves into an outright condemnation of the institution. In fact, Wharton considered this novel an \"apology\" for the earlier, more brutal and critical, \"The House of Mirth\". Not to be overlooked is the author's attention to detailing the charms and customs of this caste. The novel is lauded for its accurate portrayal of how the nineteenth-century East Coast American upper class lived and this combined with the social tragedy earned Wharton a Pulitzer - the first Pulitzer awarded to a woman.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Literary",
+               "@term": "FBFIC019000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/93"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/93.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/93.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/93.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/93.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Lost Girl",
+         "id": "https://www.feedbooks.com/book/6631",
+         "author": {
+            "name": "David Herbert Lawrence",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=30&lang=en"
+         },
+         "published": "2013-02-14T15:14:45Z",
+         "updated": "2020-07-24T11:54:25Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1920",
+         "summary": "Alvina Houghton, the daughter of a widowed Midlands draper, comes of age just as her father’s business is failing. In a desperate attempt to regain his fortune and secure his daughter’s proper upbringing, James Houghton buys a theater. Among the traveling performers he employs is Ciccio, a sensual Italian who immediately captures Alvina’s attention. Fleeing with him to Naples, she leaves her safe world behind and enters one of sexual awakening, desire, and fleeting freedom.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Literary",
+               "@term": "FBFIC019000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6631"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6631.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6631.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6631.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6631.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Education of Henry Adams",
+         "id": "https://www.feedbooks.com/book/4377",
+         "author": {
+            "name": "Henry Adams",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1250&lang=en"
+         },
+         "published": "2009-11-05T16:53:30Z",
+         "updated": "2020-07-24T11:50:20Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1918",
+         "summary": "The Education of Henry Adams records the struggle of Bostonian Henry Adams (1838-1918), in early old age, to come to terms with the dawning 20th century, so different from the world of his youth. It is also a sharp critique of 19th century educational theory and practice. In 1907, Adams began privately circulating copies of a limited edition printed at his own expense. Commercial publication had to await its author's 1918 death, whereupon it won the 1919 Pulitzer Prize.",
+         "category": [
+            {
+               "@label": "Nonfiction",
+               "@term": "FBNFC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Biography & autobiography",
+               "@term": "FBBIO000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/4377"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/4377.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/4377.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/4377.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/4377.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Magnificent Ambersons",
+         "id": "https://www.feedbooks.com/book/2090",
+         "author": {
+            "name": "Newton Booth Tarkington",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=295&lang=en"
+         },
+         "published": "2007-12-28T15:42:22Z",
+         "updated": "2020-07-24T11:50:15Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1918",
+         "summary": "The Magnificent Ambersons is a 1918 novel by Booth Tarkington which won the 1919 Pulitzer Prize. It was the second novel in the Growth trilogy, which included The Turmoil (1915) and The Midlander (1923, retitled National Avenue in 1927). In 1942 Orson Welles directed a film version, also titled The Magnificent Ambersons.\nThe novel and trilogy traces the growth of the United States through the declining fortunes of three generations of the aristocratic Amberson family in a fictional Mid-Western town, between the end of the Civil War and the early part of the 20th century, a period of rapid industrialization and socio-economic change in America. The decline of the Ambersons is contrasted with the rising fortunes of industrial tycoons and other new-money families, which did not derive power from family names but by \"doing things\". As George Amberson's friend (name unspecified) says, \"don't you think being things is 'rahthuh bettuh' than doing things?\"\n\"The Magnificent Ambersons is perhaps Tarkington's best novel,\" said Van Wyck Brooks. \"[It is] a typical story of an American family and town—the great family that locally ruled the roost and vanished virtually in a day as the town spread and darkened into a city. This novel no doubt was a permanent page in the social history of the United States, so admirably conceived and written was the tale of the Ambersons, their house, their fate and the growth of the community in which they were submerged in the end.\"\nEven though the story is set in a fictitious city, it was inspired by Tarkington's hometown of Indianapolis and the neighborhood he once lived in, Woodruff Place.\nSource: Wikipedia",
+         "category": {
+            "@label": "Fiction",
+            "@term": "FBFIC000000",
+            "@scheme": "http://www.feedbooks.com/categories"
+         },
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2090"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2090.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2090.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2090.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2090.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Secret City",
+         "id": "https://www.feedbooks.com/book/6630",
+         "author": {
+            "name": "Sir Hugh Walpole",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2128&lang=en"
+         },
+         "published": "2013-02-14T15:10:43Z",
+         "updated": "2020-07-24T11:54:25Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1919",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Literary",
+               "@term": "FBFIC019000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6630"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6630.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6630.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6630.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6630.atom"
+            }
+         ]
+      },
+      {
+         "title": "His Family",
+         "id": "https://www.feedbooks.com/book/2088",
+         "author": {
+            "name": "Ernest Poole",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=294&lang=en"
+         },
+         "published": "2007-12-28T15:10:34Z",
+         "updated": "2020-07-24T11:50:15Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1917",
+         "summary": "No description available",
+         "category": {
+            "@label": "Fiction",
+            "@term": "FBFIC000000",
+            "@scheme": "http://www.feedbooks.com/categories"
+         },
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2088"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2088.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2088.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2088.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2088.atom"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,3219 @@
+{
+    "@lang": "en",
+    "id": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000",
+    "title": "Action & adventure",
+    "updated": "2021-03-21T14:27:03Z",
+    "icon": "/favicon.ico",
+    "author": {
+       "name": "Feedbooks",
+       "uri": "http://www.feedbooks.com",
+       "email": "help@demarque.com"
+    },
+    "link": [
+       {
+          "@rel": "self",
+          "@title": "Most popular",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000"
+       },
+       {
+          "@rel": "start",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@title": "Home",
+          "@href": "https://catalog.feedbooks.com/catalog/index.atom"
+       },
+       {
+          "@rel": "search",
+          "@href": "https://catalog.feedbooks.com/opensearch.xml",
+          "@type": "application/opensearchdescription+xml",
+          "@title": "Search on Feedbooks"
+       },
+       {
+          "@rel": "http://opds-spec.org/shelf",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@title": "Bookshelf",
+          "@href": "https://www.feedbooks.com/user/bookshelf.atom"
+       },
+       {
+          "@rel": "next",
+          "@title": "Next",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000&page=2"
+       },
+       {
+          "@rel": "http://opds-spec.org/sort/new",
+          "@title": "New releases",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000&sort=new"
+       },
+       {
+          "@rel": "http://opds-spec.org/featured",
+          "@title": "Featured picks",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000&sort=selection"
+       },
+       {
+          "@rel": "http://opds-spec.org/featured",
+          "@title": "Awards",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000&sort=awards"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Most popular",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000",
+          "@activeFacet": "true",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "New releases",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?cat=FBFIC002000",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Awards",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?cat=FBFIC002000",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "New & noteworthy",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?cat=FBFIC002000",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "German",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000&lang=de",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "English",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000&lang=en",
+          "@activeFacet": "true",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Spanish",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000&lang=es",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "French",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000&lang=fr",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Italian",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC002000&lang=it",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       }
+    ],
+    "totalResults": "322",
+    "itemsPerPage": "50",
+    "startIndex": "1",
+    "entry": [
+       {
+          "title": "The Most Dangerous Game",
+          "id": "https://www.feedbooks.com/book/3638",
+          "author": {
+             "name": "Richard Connell",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=930&lang=en"
+          },
+          "published": "2009-02-02T22:20:02Z",
+          "updated": "2020-08-25T03:48:49Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1924",
+          "summary": "\"The Most Dangerous Game\" features as its main character a big-game hunter from New York, who becomes shipwrecked on an isolated island in the Caribbean, and is hunted by a Russian aristocrat. \n\nThe story is an inversion of the big-game hunting safaris in Africa and South America that were fashionable among wealthy Americans in the 1920s.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Thrillers",
+                "@term": "FBFIC031000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3638"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3638.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3638.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3638.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3638.atom"
+             }
+          ]
+       },
+       {
+          "title": "Cleopatra",
+          "id": "https://www.feedbooks.com/book/977",
+          "author": {
+             "name": "Henry Rider Haggard",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=32&lang=en"
+          },
+          "published": "2007-05-17T23:44:19Z",
+          "updated": "2020-09-22T10:58:36Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1889",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/977"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/977.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/977.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/977.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/977.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Mysterious Island",
+          "id": "https://www.feedbooks.com/book/2448",
+          "author": {
+             "name": "Jules Verne",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+          },
+          "published": "2008-04-23T00:54:50Z",
+          "updated": "2020-10-08T04:41:10Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1874",
+          "summary": "The book tells the adventures of five American prisoners of war on an uncharted island in the South Pacific. Begining in the American Civil War, as famine and death ravage the city of Richmond, Virginia, five northern POWs decide to escape in a rather unusual way – by hijacking a balloon! This is only the beginning of their adventures...",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2448"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2448.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2448.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2448.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2448.atom"
+             }
+          ]
+       },
+       {
+          "title": "A Journey into the Center of the Earth",
+          "id": "https://www.feedbooks.com/book/3796",
+          "author": {
+             "name": "Jules Verne",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+          },
+          "published": "2009-04-06T19:45:46Z",
+          "updated": "2019-11-18T13:12:54Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1877",
+          "summary": "Journey to the Center of the Earth is a classic 1864 science fiction novel by Jules Verne (published in the original French as Voyage au centre de la Terre). The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the \"center of the Earth\". They encounter many adventures, including prehistoric animals and natural hazards, eventually coming to the surface again in southern Italy.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3796"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3796.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3796.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3796.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3796.atom"
+             }
+          ]
+       },
+       {
+          "title": "Treasure Island",
+          "id": "https://www.feedbooks.com/book/97",
+          "author": {
+             "name": "Robert Louis Stevenson",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=37&lang=en"
+          },
+          "published": "2007-01-03T14:33:26Z",
+          "updated": "2020-10-11T06:18:38Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1883",
+          "summary": "While going through the possessions of a deceased guest who owed them money, the mistress of the inn and her son find a treasure map that leads them to a pirate's fortune.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/97"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/97.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/97.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/97.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/97.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Adventures of Huckleberry Finn",
+          "id": "https://www.feedbooks.com/book/71",
+          "author": {
+             "name": "Mark Twain",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=24&lang=en"
+          },
+          "published": "2006-12-30T21:06:11Z",
+          "updated": "2020-10-03T19:37:28Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1885",
+          "summary": "Adventures of Huckleberry Finn (often shortened to Huck Finn) is a novel written by American humorist Mark Twain. It is commonly used and accounted as one of the first Great American Novels. It is also one of the first major American novels written using Local Color Regionalism, or vernacular, told in the first person by the eponymous Huckleberry \"Huck\" Finn, best friend of Tom Sawyer and hero of three other Mark Twain books.\nThe book is noted for its colorful description of people and places along the Mississippi River. By satirizing Southern antebellum society that was already a quarter-century in the past by the time of publication, the book is an often scathing look at entrenched attitudes, particularly racism. The drifting journey of Huck and his friend Jim, a runaway slave, down the Mississippi River on their raft may be one of the most enduring images of escape and freedom in all of American literature.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Humorous",
+                "@term": "FBFIC016000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/71"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/71.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/71.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/71.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/71.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Three Musketeers",
+          "id": "https://www.feedbooks.com/book/398",
+          "author": {
+             "name": "Alexandre Dumas",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=25&lang=en"
+          },
+          "published": "2007-02-09T19:53:53Z",
+          "updated": "2020-08-16T09:15:07Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1844",
+          "summary": "The Three Musketeers (Les Trois Mousquetaires) is a novel by Alexandre Dumas, père. It recounts the adventures of a young man named d'Artagnan after he leaves home to become a musketeer. D'Artagnan is not one of the musketeers of the title; those are his friends Athos, Porthos, and Aramis—inseparable friends who live by the motto, \"One for all, and all for one\".\nThe story of d'Artagnan is continued in Twenty Years After and The Vicomte de Bragelonne. Those three novels by Dumas are together known as the D'Artagnan Romances.\nThe Three Musketeers was first published in serial form in the magazine Le Siècle between March and July 1844.",
+          "Series": {
+             "@position": "1",
+             "@name": "D'Artagnan Romances",
+             "@url": "https://catalog.feedbooks.com/series/429"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/398"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/398.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/398.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/398.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/398.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Call of the Wild",
+          "id": "https://www.feedbooks.com/book/92",
+          "author": {
+             "name": "Jack London",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=34&lang=en"
+          },
+          "published": "2007-01-02T19:27:09Z",
+          "updated": "2020-10-19T04:47:42Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1903",
+          "summary": "The Call of the Wild is a novel by American writer Jack London. The plot concerns a previously domesticated and even somewhat pampered dog named Buck, whose primordial instincts return after a series of events finds him serving as a sled dog in the treacherous, frigid Yukon during the days of the 19th century Klondike Gold Rushes.\nPublished in 1903, The Call of the Wild is one of London's most-read books, and it is generally considered one of his best. Because the protagonist is a dog, it is sometimes classified as a juvenile novel, suitable for children, but it is dark in tone and contains numerous scenes of cruelty and violence.\nLondon followed the book in 1906 with White Fang, a companion novel with many similar plot elements and themes as The Call of the Wild, although following a mirror image plot in which a wild wolf becomes civilized by a mining expert from San Francisco named Weedon Scott.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/92"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/92.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/92.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/92.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/92.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Adventures of Tom Sawyer",
+          "id": "https://www.feedbooks.com/book/72",
+          "author": {
+             "name": "Mark Twain",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=24&lang=en"
+          },
+          "published": "2006-12-30T21:59:24Z",
+          "updated": "2020-01-08T12:10:21Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1876",
+          "summary": "The Adventures of Tom Sawyer, by Mark Twain, is a popular 1876 novel about a young boy growing up in the antebellum South on the Mississippi River in the fictional town of St. Petersburg, Missouri.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/72"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/72.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/72.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/72.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/72.atom"
+             }
+          ]
+       },
+       {
+          "title": "20,000 Leagues Under the Sea",
+          "id": "https://www.feedbooks.com/book/182",
+          "author": {
+             "name": "Jules Verne",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+          },
+          "published": "2007-01-12T20:09:05Z",
+          "updated": "2020-08-20T09:32:27Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1870",
+          "summary": "Twenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers) is a classic science fiction novel by French writer Jules Verne, published in 1870. It is about the fictional Captain Nemo and his submarine, Nautilus, as seen by one of his passengers, Professor Pierre Aronnax.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/182"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/182.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/182.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/182.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/182.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Count of Monte Cristo",
+          "id": "https://www.feedbooks.com/book/73",
+          "author": {
+             "name": "Alexandre Dumas",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=25&lang=en"
+          },
+          "published": "2006-12-31T14:04:36Z",
+          "updated": "2020-10-19T11:01:34Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1845",
+          "summary": "The Count of Monte Cristo (French: Le Comte de Monte-Cristo) is an adventure novel by Alexandre Dumas, père. It is often considered, along with The Three Musketeers, as Dumas' most popular work. It is also among the highest selling books of all time. The writing of the work was completed in 1844. Like many of his novels, it is expanded from the plot outlines suggested by his collaborating ghostwriter Auguste Maquet.\nThe story takes place in France, Italy, islands in the Mediterranean and the Levant during the historical events of 1815–1838 (from just before the Hundred Days through the reign of Louis-Philippe of France). The historical setting is a fundamental element of the book. It is primarily concerned with themes of hope, justice, vengeance, mercy, forgiveness and death, and is told in the style of an adventure story.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/73"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/73.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/73.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/73.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/73.atom"
+             }
+          ]
+       },
+       {
+          "title": "People of the Dark",
+          "id": "https://www.feedbooks.com/book/1740",
+          "author": {
+             "name": "Robert Ervin Howard",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=245&lang=en"
+          },
+          "published": "2007-09-26T13:31:08Z",
+          "updated": "2020-08-17T10:02:10Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1932",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Fantasy",
+                "@term": "FBFIC009000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1740"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1740.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1740.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1740.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1740.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Sea Wolf",
+          "id": "https://www.feedbooks.com/book/2848",
+          "author": {
+             "name": "Jack London",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=34&lang=en"
+          },
+          "published": "2008-09-03T14:32:04Z",
+          "updated": "2020-10-13T06:30:35Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1904",
+          "summary": "Chronicles the voyages of a ship run by the ruthless Wolf Larsen, among the greatest of London's characters, and spokesman for an extreme individualism London intended to critique.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2848"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2848.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2848.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2848.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2848.atom"
+             }
+          ]
+       },
+       {
+          "title": "Moby-Dick",
+          "id": "https://www.feedbooks.com/book/54",
+          "author": {
+             "name": "Herman Melville",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=20&lang=en"
+          },
+          "published": "2006-12-29T00:18:04Z",
+          "updated": "2020-10-03T19:38:09Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1851",
+          "summary": "Moby-Dick is an 1851 novel by Herman Melville. The story tells the adventures of the wandering sailor Ishmael and his voyage on the whaling ship Pequod, commanded by Captain Ahab. Ishmael soon learns that Ahab seeks one specific whale, Moby-Dick, a white whale of tremendous size and ferocity. Comparatively few whaling ships know of Moby-Dick, and fewer yet have encountered him. In a previous encounter, the whale destroyed Ahab's boat and bit off his leg. Ahab intends to exact revenge.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/54"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/54.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/54.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/54.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/54.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Gods of Mars",
+          "id": "https://www.feedbooks.com/book/163",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2007-01-06T20:22:34Z",
+          "updated": "2020-09-09T09:23:37Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1918",
+          "summary": "After the long exile on Earth, John Carter finally returned to his beloved Mars. But beautiful Dejah Thoris, the woman he loved, had vanished. Now he was trapped in the legendary Eden of Mars -- an Eden from which none ever escaped alive.",
+          "Series": {
+             "@position": "2",
+             "@name": "Barsoom",
+             "@url": "https://catalog.feedbooks.com/series/1"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/163"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/163.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/163.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/163.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/163.atom"
+             }
+          ]
+       },
+       {
+          "title": "An Antarctic Mystery",
+          "id": "https://www.feedbooks.com/book/3947",
+          "author": {
+             "name": "Jules Verne",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+          },
+          "published": "2009-05-27T00:57:13Z",
+          "updated": "2020-10-22T10:04:35Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1899",
+          "summary": "A sequel to Edgar Allan Poe's The Narrative of A. Gordon Pym.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3947"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3947.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3947.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3947.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3947.atom"
+             }
+          ]
+       },
+       {
+          "title": "Robinson Crusoe",
+          "id": "https://www.feedbooks.com/book/102",
+          "author": {
+             "name": "Daniel Defoe",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=40&lang=en"
+          },
+          "published": "2007-01-03T21:22:00Z",
+          "updated": "2020-10-21T11:49:25Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1719",
+          "summary": "The Life and Strange Surprising Adventures of Robinson Crusoe (of York, Mariner Who lived Eight and Twenty Years all alone in an un-inhabited Island on the Coast of America, near the Mouth of the Great River of Oroonoque; Having been cast on Shore by Shipwreck, where in all the Men perished but Himself. With An Account how he was at last as strangely deliver'd by Pyrates) is a novel by Daniel Defoe, first published in 1719 and sometimes regarded as the first novel in English. The book is a fictional autobiography of the title character, an English castaway who spends 28 years on a remote tropical island near Venezuela, encountering Native Americans, captives, and mutineers before being rescued. This device, presenting an account of supposedly factual events, is known as a \"false document\" and gives a realistic frame story.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/102"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/102.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/102.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/102.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/102.atom"
+             }
+          ]
+       },
+       {
+          "title": "Around the World in Eighty Days",
+          "id": "https://www.feedbooks.com/book/199",
+          "author": {
+             "name": "Jules Verne",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+          },
+          "published": "2007-01-16T02:17:34Z",
+          "updated": "2020-07-16T03:07:40Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1872",
+          "summary": "Shocking his stodgy colleagues at the exclusive Reform Club, enigmatic Englishman Phileas Fogg wagers his fortune, undertaking an extraordinary and daring enterprise: to circumnavigate the globe in eighty days. With his French valet Passepartout in tow, Verne’s hero traverses the far reaches of the earth, all the while tracked by the intrepid Detective Fix, a bounty hunter certain he is on the trail of a notorious bank robber.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/199"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/199.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/199.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/199.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/199.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Lost World",
+          "id": "https://www.feedbooks.com/book/67",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2006-12-29T20:23:39Z",
+          "updated": "2020-08-20T10:58:17Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1912",
+          "summary": "The Lost World is a novel released in 1912 by Arthur Conan Doyle concerning an expedition to a plateau in South America where prehistoric animals (dinosaurs and other extinct creatures) still survive. The character of Professor Challenger was introduced in this book. Interestingly, for a seminal work of dinosaur-related fiction, the animals only occupy a small portion of the narrative. Much more time is devoted to a war between early human hominids and a vicious tribe of ape-like creatures.",
+          "Series": {
+             "@position": "1",
+             "@name": "Professor Challenger",
+             "@url": "https://catalog.feedbooks.com/series/34"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/67"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/67.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/67.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/67.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/67.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Last of the Mohicans",
+          "id": "https://www.feedbooks.com/book/3347",
+          "author": {
+             "name": "James Fenimore Cooper",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=376&lang=en"
+          },
+          "published": "2008-11-12T12:41:34Z",
+          "updated": "2020-01-23T19:16:14Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1826",
+          "summary": "The Last of the Mohicans is a historical novel by James Fenimore Cooper, first published in January 1826.\nIt was one of the most popular English-language novels of its time. Its narrative flaws were criticized from the start, and its length and elaborately formal prose style have reduced its appeal to later readers. Regardless, The Last of the Mohicans is widely read in American literature courses. This second book of the Leatherstocking Tales pentalogy is the best known. The Pathfinder, written 14 years later in 1840, is its sequel.\nCooper named a principal character Uncas after the most famous of the Mohicans. The real Mohicans lived in the colony of Connecticut in the mid-seventeenth century, and not in the New York frontier a century later. Uncas was a Mohegan, not a Mohican, and Cooper's usage has helped to confuse the names of two tribes to the present day. When John Uncas, his last surviving male descendant died in 1842, the Newark Daily Advertiser wrote \"Last of the Mohegans Gone\" lamenting the extinction of the tribe. The writer was not aware that Mohegans still existed then and to the present day.\nThe story takes place in 1757 during the Seven Years' War (known in America as the French and Indian War), when France and the United Kingdom battled for control of the American and Canadian colonies. During this war, the French often allied themselves with Native American tribes in order to gain an advantage over the British, with unpredictable and often tragic results.\nSource: Wikipedia",
+          "Series": {
+             "@position": "2",
+             "@name": "Leatherstocking Tales",
+             "@url": "https://catalog.feedbooks.com/series/860"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "War & military",
+                "@term": "FBFIC032000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3347"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3347.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3347.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3347.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3347.atom"
+             }
+          ]
+       },
+       {
+          "title": "Deathworld",
+          "id": "https://www.feedbooks.com/book/3749",
+          "author": {
+             "name": "Harry Harrison",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=219&lang=en"
+          },
+          "published": "2009-03-18T17:58:49Z",
+          "updated": "2020-10-10T13:47:21Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1960",
+          "summary": "Some planet in the galaxy must—by definition—be the toughest, meanest, nastiest of all. If Pyrrus wasn't it ... it was an awfully good approximation!",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3749"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3749.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3749.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3749.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3749.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Man in the Iron Mask",
+          "id": "https://www.feedbooks.com/book/3601",
+          "author": {
+             "name": "Alexandre Dumas",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=25&lang=en"
+          },
+          "published": "2009-01-21T17:26:47Z",
+          "updated": "2020-10-19T11:02:00Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1850",
+          "summary": "The Vicomte of Bragelonne: Ten Years Later (Le Vicomte de Bragelonne ou Dix ans plus tard) is a novel by Alexandre Dumas, père. It is the third and last of the d'Artagnan Romances following The Three Musketeers and Twenty Years After. It appeared first in serial form between 1847 and 1850. \nThe Man in the Iron Mask is the fourth and final volume.",
+          "Series": {
+             "@position": "6",
+             "@name": "D'Artagnan Romances",
+             "@url": "https://catalog.feedbooks.com/series/429"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3601"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3601.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3601.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3601.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3601.atom"
+             }
+          ]
+       },
+       {
+          "title": "To Have and To Hold",
+          "id": "https://www.feedbooks.com/book/6690",
+          "author": {
+             "name": "Mary Johnston",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2162&lang=en"
+          },
+          "published": "2013-03-19T19:21:19Z",
+          "updated": "2020-01-23T19:07:30Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1900",
+          "summary": "This was the #1 best-selling novel in the United States in 1900, made into movies several times in subsequent years.  It is set in colonial North America, beginning in the year 1621. A new movie adapted from the book was filmed in 2011.\n\nThe dialog is Early Modern English, somewhat similar to Shakespeare's writings, not contemporary English but similar enough to be understood.  The narration is almost modern English, easily understood.\n\nAn English soldier, Ralph Percy, turned Virginian explorer in Jamestown colony, buys a wife -- a girl named Jocelyn Leigh -- not knowing that she is the escaped ward of King James I, fleeing a forced marriage to Lord Carnal. Jocelyn has no love for Ralph at first; she even seems to abhor him and explains she only married to have refuge after she fled from England, under an assumed name. Lord Carnal, Jocelyn's husband-to-be, eventually comes to Jamestown to find his promised bride, not knowing that Ralph Percy and Jocelyn Leigh are already man and wife.\n\nLord Carnal attempts to kidnap Jocelyn several times and eventually follows Ralph, Jocelyn, and their two companions, as they escape from the King's orders to arrest Ralph and carry Jocelyn back to England.\n\nThis romance-epic-adventure novel carries the reader along with humor, shipwreck, pirates, entrapment, false accusations, trial, colonial conflict with Native Americans, capture, rescue, suicide, salvation, love, happy ending -- what more could one want?\n\n(Reference: Wikipedia, LibriVox)\n\nThe editor of this Feedbooks edition has provided a few footnotes to explain the less familiar words and some of the historical names as an aid to the reader. Using an eBook reader with a built-in dictionary may also help, but isn't essential to enjoyment of the story.\n\nA free audio-book of this novel is available from LibriVox.org.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC027050",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6690"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6690.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6690.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6690.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6690.atom"
+             }
+          ]
+       },
+       {
+          "title": "Kidnapped",
+          "id": "https://www.feedbooks.com/book/3578",
+          "author": {
+             "name": "Robert Louis Stevenson",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=37&lang=en"
+          },
+          "published": "2009-01-11T16:12:06Z",
+          "updated": "2020-01-23T19:12:19Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1886",
+          "summary": "Being memoirs of the adventures of David Balfour in the year 1751: how he was kidnapped and cast away; his sufferings in a desert isle; his journey in the wild highlands; his acquaintance with Alan Breck Stewart and other notorious highland Jacobites; with all that he suffered at the hands of his uncle, Ebenezer Balfour of Shaws, falsely so called.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3578"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3578.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3578.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3578.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3578.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Hidden Children",
+          "id": "https://www.feedbooks.com/book/1493",
+          "author": {
+             "name": "Robert William Chambers",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=218&lang=en"
+          },
+          "published": "2007-08-03T02:03:15Z",
+          "updated": "2020-09-14T05:18:40Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1914",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Westerns",
+                "@term": "FBFIC033000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1493"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1493.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1493.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1493.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1493.atom"
+             }
+          ]
+       },
+       {
+          "title": "Twenty Years After",
+          "id": "https://www.feedbooks.com/book/3586",
+          "author": {
+             "name": "Alexandre Dumas",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=25&lang=en"
+          },
+          "published": "2009-01-15T19:40:33Z",
+          "updated": "2020-10-19T11:02:16Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1845",
+          "summary": "The fantastic adventures of the Three Musketeers continue - starting with an intrigue surrounding D'Artagnan who has, for twenty years, remained a lieutenant.",
+          "Series": {
+             "@position": "2",
+             "@name": "D'Artagnan Romances",
+             "@url": "https://catalog.feedbooks.com/series/429"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3586"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3586.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3586.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3586.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3586.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Son of the Wolf",
+          "id": "https://www.feedbooks.com/book/2849",
+          "author": {
+             "name": "Jack London",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=34&lang=en"
+          },
+          "published": "2008-09-03T15:01:39Z",
+          "updated": "2020-03-23T11:53:28Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1900",
+          "summary": "Jack London gained his first and most lasting fame as the author of tales of the Klondike gold rush. This, his first collection of stories, draws on his experience in the Yukon. The stories tell of gambles won and lost, of endurance and sacrifice, and often turn on the qualities of exceptional women and on the relations between the white adventurers and the native tribes.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2849"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2849.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2849.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2849.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2849.atom"
+             }
+          ]
+       },
+       {
+          "title": "King Solomon's Mines",
+          "id": "https://www.feedbooks.com/book/89",
+          "author": {
+             "name": "Henry Rider Haggard",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=32&lang=en"
+          },
+          "published": "2007-01-02T18:46:49Z",
+          "updated": "2020-01-23T19:21:38Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1885",
+          "summary": "King Solomon's Mines (1885) is a popular novel by the Victorian adventure writer and fabulist, Sir H. Rider Haggard. It tells of a quest into an unexplored region of Africa by a group of adventurers led by Allan Quatermain in search of the missing brother of one of the party. It is significant as the first English fictional adventure novel set in Africa, and is considered the genesis of the Lost World literary genre.",
+          "Series": {
+             "@position": "1",
+             "@name": "Allan Quatermain",
+             "@url": "https://catalog.feedbooks.com/series/7"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/89"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/89.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/89.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/89.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/89.atom"
+             }
+          ]
+       },
+       {
+          "title": "White Fang",
+          "id": "https://www.feedbooks.com/book/3533",
+          "author": {
+             "name": "Jack London",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=34&lang=en"
+          },
+          "published": "2008-12-22T16:13:40Z",
+          "updated": "2020-10-04T04:33:17Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1906",
+          "summary": "An initiation story concerning the taming of a wild dog in the Klondike.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3533"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3533.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3533.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3533.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3533.atom"
+             }
+          ]
+       },
+       {
+          "title": "Before Adam",
+          "id": "https://www.feedbooks.com/book/2854",
+          "author": {
+             "name": "Jack London",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=34&lang=en"
+          },
+          "published": "2008-09-04T14:38:15Z",
+          "updated": "2019-12-12T22:23:57Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1907",
+          "summary": "A young man in modern America is terrorized by visions of an earlier, primitive life. Across the enormous chasm of thousands of centuries, his consciousness has become entwined with that of Big-Tooth, an ancestor living at the dawn of humanity. Big-Tooth makes his home in Pleistocene Africa, a ferocious, fascinating younger world torn by incessant conflict between early humans and protohumans. Before Adam is a remarkable and provocative tale that thrust evolution further into the public spotlight in the early twentieth century and has since become a milestone of speculative fiction. The brilliance of the book lies not only in its telling but also in its imaginative projection of a mindset for early humans. Capitalizing on his recognized ability to understand animals, Jack London paints an arresting and dark portrait of how our distant ancestors thought about themselves and their world.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2854"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2854.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2854.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2854.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2854.atom"
+             }
+          ]
+       },
+       {
+          "title": "El Dorado",
+          "id": "https://www.feedbooks.com/book/3576",
+          "author": {
+             "name": "Baroness Emma Orczy",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=900&lang=en"
+          },
+          "published": "2009-01-10T20:44:40Z",
+          "updated": "2020-08-25T03:48:38Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1913",
+          "summary": "Eldorado, by Baroness Orczy is a sequel book to the classic adventure tale, The Scarlet Pimpernel. It was first published in 1913. The novel is notable in that it is the partial basis for most of the film treatments of the original book.\nA French language version, translated and adapted by Charlotte and Marie-Louise Desroyses, was also produced under the title La Capture du Mouron Rouge.\nAs well as containing all the main characters from the first book, Eldorado introduces several new characters and features the Baron de Batz, who also turns up in Sir Percy Leads the Band and The Way of the Scarlet Pimpernel (Baron Jean de Batz is a genuine historical figure).\nIt is 1794 and Paris, \"despite the horrors that had stained her walls - has remained a city of pleasure, and the knife of the guillotine did scarce descend more often than did the drop-scenes on the stage.\"\nThe plot begins when Sir Percy reluctantly agrees to take Armand St. Just with him to France as part of a plan to rescue the young Dauphin.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3576"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3576.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3576.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3576.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3576.atom"
+             }
+          ]
+       },
+       {
+          "title": "Ten Years Later",
+          "id": "https://www.feedbooks.com/book/3596",
+          "author": {
+             "name": "Alexandre Dumas",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=25&lang=en"
+          },
+          "published": "2009-01-19T14:20:38Z",
+          "updated": "2020-07-30T06:38:08Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1848",
+          "summary": "The Vicomte of Bragelonne: Ten Years Later (Le Vicomte de Bragelonne ou Dix ans plus tard) is a novel by Alexandre Dumas, père. It is the third and last of the d'Artagnan Romances following The Three Musketeers and Twenty Years After. It appeared first in serial form between 1847 and 1850.\nTen Years Later is the second volume.",
+          "Series": {
+             "@position": "4",
+             "@name": "D'Artagnan Romances",
+             "@url": "https://catalog.feedbooks.com/series/429"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3596"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3596.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3596.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3596.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3596.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Pathfinder",
+          "id": "https://www.feedbooks.com/book/3938",
+          "author": {
+             "name": "James Fenimore Cooper",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=376&lang=en"
+          },
+          "published": "2009-05-24T16:07:44Z",
+          "updated": "2020-07-30T06:38:11Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1840",
+          "summary": "The Pathfinder, or The Inland Sea is a historical novel by James Fenimore Cooper first published in 1840. It is the fourth novel featuring Natty Bumppo, his fictitious frontier hero, and is considered as forming the third chronological episode of the Leatherstocking Tales.",
+          "Series": {
+             "@position": "3",
+             "@name": "Leatherstocking Tales",
+             "@url": "https://catalog.feedbooks.com/series/860"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "War & military",
+                "@term": "FBFIC032000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3938"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3938.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3938.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3938.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3938.atom"
+             }
+          ]
+       },
+       {
+          "title": "The White Company",
+          "id": "https://www.feedbooks.com/book/5811",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2011-07-13T04:33:42Z",
+          "updated": "2019-11-25T11:11:48Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1891",
+          "summary": "A historical adventure set during the Hundred Years' War.  The story follows a young man as he leaves the shelter of an abbey in England and becomes involved with Edward, the Black Prince's campaign in Spain.  Doyle later wrote a prequel, titled \"Sir Nigel\", concerning the early life of one of the heroes in this novel.\n \n“We go to France, and from thence I trust to Spain, in humble search of a field in which we may win advancement and perchance some small share of glory.  For this purpose I would have you know that it is not my wont to let any occasion pass where it is in any way possible that honor may be gained.  I would have you bear this in mind, and give great heed to it that you may bring me word of all cartels, challenges, wrongs, tyrannies, infamies, and wronging of damsels.  Nor is any occasion too small to take note of, for I have known such trifles as the dropping of a gauntlet, or the flicking of a breadcrumb, when well and properly followed up, lead to a most noble spear-running.”\n \n- Sir Nigel, “The White Company”\n ",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "War & military",
+                "@term": "FBFIC032000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Middle Age",
+                "@term": "FBFIC014030N",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/5811"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/5811.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/5811.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/5811.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/5811.atom"
+             }
+          ]
+       },
+       {
+          "title": "Cabin Fever",
+          "id": "https://www.feedbooks.com/book/6642",
+          "author": {
+             "name": "B. M. Bower",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2136&lang=en"
+          },
+          "published": "2013-02-20T17:08:23Z",
+          "updated": "2020-06-23T07:27:02Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1918",
+          "summary": "\"... the mind fed too long upon monotony succumbs to the insidious mental ailment which the West calls 'cabin fever.' ... Bud Moore, ex-cow-puncher and now owner of an auto stage that did not run in the winter, was touched with cabin fever and did not know what ailed him. His stage line ran from San Jose, California, up through Los Gatos and over the Bear Creek road across the summit of the Santa Cruz Mountains and down to the State Park, which is locally called Big Basin, the first state park of California. For something over fifty miles of wonderful scenic travel he charged six dollars, and usually his big car was loaded to the running boards. Bud was a good driver, and he had a friendly pair of eyes--dark blue and with a humorous little twinkle deep down in them somewhere--and a human little smiley quirk at the corners of his lips. He did not know it, but these things helped to fill his car. ...\n\n\"If you would test the soul of a friend, take him into the wilderness and rub elbows with him for five months! One of three things will surely happen: You will hate each other afterward with that enlightened hatred which is seasoned with contempt; you will emerge with the contempt tinged with a pitying toleration, or you will be close, unquestioning friends to the last six feet of earth--and beyond. All these things will cabin fever do, and more. It has committed murder, many's the time. It has driven men crazy. It has warped and distorted character out of all semblance to its former self. It has sweetened love and killed love. There is an antidote--but I am going to let you find the antidote somewhere in the story.\"",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Westerns",
+                "@term": "FBFIC033000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6642"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6642.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6642.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6642.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6642.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Game",
+          "id": "https://www.feedbooks.com/book/2853",
+          "author": {
+             "name": "Jack London",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=34&lang=en"
+          },
+          "published": "2008-09-04T14:27:22Z",
+          "updated": "2019-09-04T08:08:59Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1905",
+          "summary": "On the eve of their wedding, twenty-year-old Jack Fleming arranges a secret ringside seat for his sweetheart to view her only rival: the \"game.\" Through Genevieve's apprehensive eyes, we watch the prizefight that pits her fair young lover, \"the Pride of West Oakland,\" against the savage and brutish John Ponta and that reveals as much about her own nature, and Joe's, as it does about the force that drives the two men in their violent, fateful encounter.\n \nResponding to a review that took him to task for his realism, Jack London wrote, \"I have had these experiences and it was out of these experiences, plus a fairly intimate knowledge of prize-fighting in general, that I wrote The Game.\" With this intimate realism, London took boxing out of the realm of disreputable topics and set it on a respectable literary course that extends from A. J. Liebling to Ernest Hemingway to Joyce Carol Oates. The familiarity of London's boxing writing testifies to its profound influence on later literary commentators on the sport, while the story The Game tells remains one of the most powerful and evocative portraits ever given of prizefighters in the grip of their passion.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2853"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2853.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2853.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2853.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2853.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Ghost Kings",
+          "id": "https://www.feedbooks.com/book/993",
+          "author": {
+             "name": "Henry Rider Haggard",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=32&lang=en"
+          },
+          "published": "2007-05-23T20:57:55Z",
+          "updated": "2020-05-25T09:35:42Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1908",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Occult & supernatural",
+                "@term": "FBFIC024000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Supernatural creatures",
+                "@term": "FBFIC024020N",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Ghost",
+                "@term": "FBFIC012000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/993"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/993.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/993.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/993.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/993.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Black Arrow",
+          "id": "https://www.feedbooks.com/book/166",
+          "author": {
+             "name": "Robert Louis Stevenson",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=37&lang=en"
+          },
+          "published": "2007-01-06T21:24:11Z",
+          "updated": "2018-09-25T08:16:45Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1884",
+          "summary": "In fifteenth-century England, when his father's murderer is revealed to be his guardian, seventeen-year-old Richard Shelton joins the fellowship of the Black Arrow in avenging the death, rescuing the woman he loves, and participating in the struggle between the Yorks and Lancasters in the War of the Roses.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/166"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/166.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/166.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/166.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/166.atom"
+             }
+          ]
+       },
+       {
+          "title": "South Sea Tales",
+          "id": "https://www.feedbooks.com/book/3181",
+          "author": {
+             "name": "Jack London",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=34&lang=en"
+          },
+          "published": "2008-10-15T20:07:41Z",
+          "updated": "2020-06-15T04:02:20Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1911",
+          "summary": "Darker Pacific tales, including \"Mauki\" and \"The Terrible Solomans.\"",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3181"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3181.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3181.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3181.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3181.atom"
+             }
+          ]
+       },
+       {
+          "title": "Tarzan of the Apes",
+          "id": "https://www.feedbooks.com/book/69",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2006-12-29T22:45:40Z",
+          "updated": "2020-03-26T11:53:28Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1912",
+          "summary": "When Tarzan is orphaned as a baby deep in the African jungle, the apes adopt him and raise him as their own. By the time the boy is ten, he can swing through the trees and talk to the animals.  By the time he is eighteen, he has the strength of a lion and rules the apes as their king. But Tarzan knows he's different. Will he ever discover his true identity?",
+          "Series": {
+             "@position": "1",
+             "@name": "Tarzan",
+             "@url": "https://catalog.feedbooks.com/series/8"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/69"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/69.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/69.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/69.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/69.atom"
+             }
+          ]
+       },
+       {
+          "title": "Tom Sawyer Abroad",
+          "id": "https://www.feedbooks.com/book/3893",
+          "author": {
+             "name": "Mark Twain",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=24&lang=en"
+          },
+          "published": "2009-05-14T22:25:30Z",
+          "updated": "2020-06-30T10:12:39Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1894",
+          "summary": "Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features Tom Sawyer and Huckleberry Finn in a parody of Jules Verne-esque adventure stories. In the story, Tom, Huck, and Jim set sail to Africa in a futuristic hot air balloon, where they survive encounters with lions, robbers, and fleas to see some of the world's greatest wonders, including the Pyramids and the Sphinx. Like Adventures of Huckleberry Finn and Tom Sawyer, Detective, the story is told using the first-person narrative voice of Huck Finn.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3893"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3893.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3893.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3893.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3893.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Merry Adventures of Robin Hood",
+          "id": "https://www.feedbooks.com/book/4301",
+          "author": {
+             "name": "Howard Pyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1178&lang=en"
+          },
+          "published": "2009-10-05T20:21:28Z",
+          "updated": "2019-07-21T14:26:48Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1883",
+          "summary": "Howard Pyle relates the story of the English outlaw Robin Hood and his band of Merry Men, compiling the traditional material into a coherent narrative in a colorful, invented \"old English\" idiom that preserves the flavor of the ballads, and adapts it for children.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/4301"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/4301.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/4301.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/4301.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/4301.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Pioneers",
+          "id": "https://www.feedbooks.com/book/3939",
+          "author": {
+             "name": "James Fenimore Cooper",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=376&lang=en"
+          },
+          "published": "2009-05-24T23:51:46Z",
+          "updated": "2020-07-31T10:05:06Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1823",
+          "summary": "The Pioneers: The Sources of the Susquehanna; a Descriptive Tale is a historical novel, the first published of the Leatherstocking Tales, a series of five novels by American writer James Fenimore Cooper. While The Pioneers was published in 1823, before any of the other Leatherstocking Tales, the period of time it covers makes it the fourth chronologically.\nThe story takes place on the rapidly advancing frontier of New York State and features a middle-aged Leatherstocking (Natty Bumppo), Judge Marmaduke Temple of Templeton, whose life parallels that of the author's father Judge William Cooper, and Elizabeth Temple (the author's sister Susan Cooper), of Cooperstown. The story begins with an argument between the Judge and the Leatherstocking over who killed a buck, and as Cooper reviews many of the changes to New York's Lake Otsego, questions of environmental stewardship, conservation, and use prevail. The plot develops as the Leatherstocking and Chingachgook begin to compete with the Temples for the loyalties of a mysterious young visitor, \"Oliver Edwards,\" the \"young hunter,\" who eventually marries Elizabeth. Chingachgook dies, exemplifying the vexed figure of the \"dying Indian,\" and Natty vanishes into the sunset. For all its strange twists and turns, 'The Pioneers' may be considered one of the first ecological novels in the United States.",
+          "Series": {
+             "@position": "4",
+             "@name": "Leatherstocking Tales",
+             "@url": "https://catalog.feedbooks.com/series/860"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "War & military",
+                "@term": "FBFIC032000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3939"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3939.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3939.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3939.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3939.atom"
+             }
+          ]
+       },
+       {
+          "title": "Louise de la Valliere",
+          "id": "https://www.feedbooks.com/book/3600",
+          "author": {
+             "name": "Alexandre Dumas",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=25&lang=en"
+          },
+          "published": "2009-01-21T01:39:12Z",
+          "updated": "2019-09-28T12:27:41Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1849",
+          "summary": "The Vicomte of Bragelonne: Ten Years Later (Le Vicomte de Bragelonne ou Dix ans plus tard) is a novel by Alexandre Dumas, père. It is the third and last of the d'Artagnan Romances following The Three Musketeers and Twenty Years After. It appeared first in serial form between 1847 and 1850. \nLouise de la Valliere is the third volume.",
+          "Series": {
+             "@position": "5",
+             "@name": "D'Artagnan Romances",
+             "@url": "https://catalog.feedbooks.com/series/429"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3600"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3600.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3600.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3600.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3600.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Scarlet Pimpernel",
+          "id": "https://www.feedbooks.com/book/3568",
+          "author": {
+             "name": "Baroness Emma Orczy",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=900&lang=en"
+          },
+          "published": "2009-01-06T13:00:29Z",
+          "updated": "2020-08-05T12:07:33Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1905",
+          "summary": "In this historical adventure set during the French Revolution, the elusive Scarlet Pimpernel sets out to rescue men, women and children facing the horrors of the guillotine, while evading the relentless pursuit of his arch enemy, Chauvelin.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3568"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3568.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3568.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3568.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3568.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Chessmen of Mars",
+          "id": "https://www.feedbooks.com/book/438",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2007-02-14T18:17:09Z",
+          "updated": "2018-09-25T08:20:02Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1922",
+          "summary": "No description available",
+          "Series": {
+             "@position": "5",
+             "@name": "Barsoom",
+             "@url": "https://catalog.feedbooks.com/series/1"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/438"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/438.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/438.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/438.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/438.atom"
+             }
+          ]
+       },
+       {
+          "title": "A Connecticut Yankee in King Arthur's Court",
+          "id": "https://www.feedbooks.com/book/4195",
+          "author": {
+             "name": "Mark Twain",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=24&lang=en"
+          },
+          "published": "2009-09-12T22:18:44Z",
+          "updated": "2019-07-01T04:11:47Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1889",
+          "summary": "This is the tale of a 19th-century citizen of Hartford, Connecticut who awakens to find himself inexplicably transported back in time to early medieval England at the time of the legendary King Arthur in AD 528.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Humorous",
+                "@term": "FBFIC016000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/4195"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/4195.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/4195.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/4195.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/4195.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Prairie",
+          "id": "https://www.feedbooks.com/book/3940",
+          "author": {
+             "name": "James Fenimore Cooper",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=376&lang=en"
+          },
+          "published": "2009-05-25T00:38:52Z",
+          "updated": "2020-05-30T06:12:26Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1827",
+          "summary": "The Prairie: A Tale (1827) is a historical novel by James Fenimore Cooper, the third novel written by him featuring Natty Bumppo, his fictitious frontier hero, who is simply known as \"the trapper\" in it. Chronologically The Prairie is the fifth and final installment of the Leatherstocking Tales. It depicts Natty in the final year of his life still proving helpful to people in distress on the American frontier. Continuity with The Last of the Mohicans is indicated by the appearance of the grandson of Duncan and Alice Heyward of The Last of the Mohicans and the noble Pawnee chief Hard Heart, whose name is English for the French nickname for the Delaware, le Coeur-dur. Natty is drawn to Hard Heart as a noble warrior in the likeness of his dear friend Uncas, \"the last of the Mohicans.\"",
+          "Series": {
+             "@position": "5",
+             "@name": "Leatherstocking Tales",
+             "@url": "https://catalog.feedbooks.com/series/860"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Historical",
+                "@term": "FBFIC014000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "War & military",
+                "@term": "FBFIC032000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3940"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3940.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3940.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3940.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3940.atom"
+             }
+          ]
+       },
+       {
+          "title": "When the World Shook",
+          "id": "https://www.feedbooks.com/book/1024",
+          "author": {
+             "name": "Henry Rider Haggard",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=32&lang=en"
+          },
+          "published": "2007-05-29T22:31:58Z",
+          "updated": "2020-01-23T19:18:59Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1918",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1024"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1024.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1024.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1024.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1024.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Riddle of the Sands",
+          "id": "https://www.feedbooks.com/book/3871",
+          "author": {
+             "name": "Erskine Childers",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1053&lang=en"
+          },
+          "published": "2009-05-04T02:09:35Z",
+          "updated": "2019-09-17T07:12:44Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1903",
+          "summary": "The Riddle of the Sands: A Record of Secret Service is a patriotic British 1903 novel by Erskine Childers.\nIt is a novel that \"owes a lot to the wonderful adventure novels of writers like Rider Haggard, that were a staple of Victorian Britain\"; perhaps more significantly, it was a spy novel that \"established a formula that included a mass of verifiable detail, which gave authenticity to the story – the same ploy that would be used so well by John Buchan, Ian Fleming, John le Carré and many others.\" Ken Follett called it \"the first modern thriller.\"",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Thrillers",
+                "@term": "FBFIC031000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "War & military",
+                "@term": "FBFIC032000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3871"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3871.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3871.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3871.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3871.atom"
+             }
+          ]
+       }
+    ]
+ }

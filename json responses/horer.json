@@ -1,0 +1,3229 @@
+{
+   "@lang": "en",
+   "id": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000",
+   "title": "Horror",
+   "updated": "2021-03-21T14:28:59Z",
+   "icon": "/favicon.ico",
+   "author": {
+      "name": "Feedbooks",
+      "uri": "http://www.feedbooks.com",
+      "email": "help@demarque.com"
+   },
+   "link": [
+      {
+         "@rel": "self",
+         "@title": "Most popular",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000"
+      },
+      {
+         "@rel": "start",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@title": "Home",
+         "@href": "https://catalog.feedbooks.com/catalog/index.atom"
+      },
+      {
+         "@rel": "search",
+         "@href": "https://catalog.feedbooks.com/opensearch.xml",
+         "@type": "application/opensearchdescription+xml",
+         "@title": "Search on Feedbooks"
+      },
+      {
+         "@rel": "http://opds-spec.org/shelf",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@title": "Bookshelf",
+         "@href": "https://www.feedbooks.com/user/bookshelf.atom"
+      },
+      {
+         "@rel": "next",
+         "@title": "Next",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000&page=2"
+      },
+      {
+         "@rel": "http://opds-spec.org/sort/new",
+         "@title": "New releases",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000&sort=new"
+      },
+      {
+         "@rel": "http://opds-spec.org/featured",
+         "@title": "Featured picks",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000&sort=selection"
+      },
+      {
+         "@rel": "http://opds-spec.org/featured",
+         "@title": "Awards",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000&sort=awards"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Most popular",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000",
+         "@activeFacet": "true",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "New releases",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?cat=FBFIC015000",
+         "@activeFacet": "false",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Awards",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?cat=FBFIC015000",
+         "@activeFacet": "false",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "New & noteworthy",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?cat=FBFIC015000",
+         "@activeFacet": "false",
+         "@facetGroup": "Sort"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "German",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000&lang=de",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "English",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000&lang=en",
+         "@activeFacet": "true",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Spanish",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000&lang=es",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "French",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000&lang=fr",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      },
+      {
+         "@rel": "http://opds-spec.org/facet",
+         "@title": "Italian",
+         "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+         "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC015000&lang=it",
+         "@activeFacet": "false",
+         "@facetGroup": "Language"
+      }
+   ],
+   "totalResults": "145",
+   "itemsPerPage": "50",
+   "startIndex": "1",
+   "entry": [
+      {
+         "title": "Dracula",
+         "id": "https://www.feedbooks.com/book/88",
+         "author": {
+            "name": "Bram Stoker",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=31&lang=en"
+         },
+         "published": "2007-01-02T18:40:04Z",
+         "updated": "2020-10-03T20:26:58Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1897",
+         "summary": "Dracula is an 1897 novel by Irish author Bram Stoker, featuring as its primary antagonist the vampire Count Dracula.\nDracula has been attributed to many literary genres including vampire literature, horror fiction, the gothic novel and invasion literature. Structurally it is an epistolary novel, that is, told as a series of diary entries and letters. Literary critics have examined many themes in the novel, such as the role of women in Victorian culture, conventional and conservative sexuality, immigration, colonialism, postcolonialism and folklore. Although Stoker did not invent the vampire, the novel's influence on the popularity of vampires has been singularly responsible for many theatrical and film interpretations throughout the 20th and 21st centuries.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/88"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/88.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/88.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/88.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/88.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Vampire Maid",
+         "id": "https://www.feedbooks.com/book/1326",
+         "author": {
+            "name": "Hume Nisbet",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=211&lang=en"
+         },
+         "published": "2007-06-29T17:43:04Z",
+         "updated": "2020-08-01T05:28:02Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1900",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Gothic",
+               "@term": "FBFIC027040",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1326"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1326.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1326.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1326.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1326.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Night Land",
+         "id": "https://www.feedbooks.com/book/2417",
+         "author": {
+            "name": "William Hope Hodgson",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=374&lang=en"
+         },
+         "published": "2008-04-09T13:45:51Z",
+         "updated": "2020-09-19T04:31:26Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1912",
+         "summary": "The Sun has gone out: the Earth is lit only by the glow of residual vulcanism. The last few millions of the human race are gathered together in a gigantic metal pyramid, the Last Redoubt, under siege from unknown forces and Powers outside in the dark. These are held back by a Circle of energy, known as the \"air clog,\" powered from the Earth's internal energy. For millennia, vast living shapes - the Watchers - have waited in the darkness near the pyramid: it is thought they are waiting for the inevitable time when the Circle's power finally weakens and dies. Other living things have been seen in the darkness beyond, some of unknown origins, and others that may once have been human.\nTo leave the protection of the Circle means almost certain death, or worse, but as the story commences, the narrator establishes mind contact with an inhabitant of another, forgotten, Redoubt, and sets off into the darkness to find her.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Fantasy",
+               "@term": "FBFIC009000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2417"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2417.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2417.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2417.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2417.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Dunwich Horror",
+         "id": "https://www.feedbooks.com/book/20",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2006-12-15T00:20:08Z",
+         "updated": "2019-09-02T12:24:36Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1928",
+         "summary": "In H.P. Lovecraft’s, \"The Dunwich Horror\", we are told the story of Wilbur Whateley, the son of a deformed albino mother and an unknown father (alluded to in passing by the mad Old Whateley as \"Yog-Sothoth\"), and the strange events surrounding his birth and precocious development. Wilbur matures at an abnormal rate, reaching manhood within a decade. All the while, his sorcerer grandfather indoctrinates him into certain dark rituals and the study of witchcraft.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/20"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/20.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/20.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/20.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/20.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Call of Cthulhu",
+         "id": "https://www.feedbooks.com/book/18",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2006-12-15T00:11:09Z",
+         "updated": "2020-10-08T20:54:37Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1926",
+         "summary": "\"The Call of Cthulhu\" is one of H. P. Lovecraft's best-known short stories. Written in the summer of 1926, it was first published in Weird Tales, February 1928. It is the only story written by Lovecraft in which the extraterrestrial entity Cthulhu himself makes a major appearance.\nIt is written in a documentary style, with three independent narratives linked together by the device of a narrator discovering notes left by a deceased relative. The narrator pieces together the whole truth and disturbing significance of the information he possesses, illustrating the story's first line: \"The most merciful thing in the world, I think, is the inability of the human mind to correlate all its contents. We live on a placid island of ignorance in the midst of black seas of infinity; and it was not meant that we should voyage far.\"",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/18"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/18.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/18.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/18.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/18.atom"
+            }
+         ]
+      },
+      {
+         "title": "Frankenstein",
+         "id": "https://www.feedbooks.com/book/91",
+         "author": {
+            "name": "Mary Shelley",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=33&lang=en"
+         },
+         "published": "2007-01-02T19:00:06Z",
+         "updated": "2020-10-08T20:57:59Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1818",
+         "summary": "Frankenstein; or, The Modern Prometheus, generally known as Frankenstein, is a novel written by the British author Mary Shelley. The title of the novel refers to a scientist, Victor Frankenstein, who learns how to create life and creates a being in the likeness of man, but larger than average and more powerful. In popular culture, people have tended to refer to the Creature as \"Frankenstein\", despite this being the name of the scientist. Frankenstein is a novel infused with some elements of the Gothic novel and the Romantic movement. It was also a warning against the \"over-reaching\" of modern man and the Industrial Revolution, alluded to in the novel's subtitle, The Modern Prometheus. The story has had an influence across literature and popular culture and spawned a complete genre of horror stories and films. It is arguably considered the first fully realized science fiction novel.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/91"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/91.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/91.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/91.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/91.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Legend of Sleepy Hollow",
+         "id": "https://www.feedbooks.com/book/196",
+         "author": {
+            "name": "Washington Irving",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=95&lang=en"
+         },
+         "published": "2007-01-15T20:29:14Z",
+         "updated": "2020-07-10T02:52:40Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1820",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Occult & supernatural",
+               "@term": "FBFIC024000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Supernatural creatures",
+               "@term": "FBFIC024020N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Ghost",
+               "@term": "FBFIC012000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/196"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/196.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/196.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/196.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/196.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Shadow out of Time",
+         "id": "https://www.feedbooks.com/book/29",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2006-12-21T14:32:54Z",
+         "updated": "2020-09-24T10:23:36Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1934",
+         "summary": "\"The Shadow Out of Time\" indirectly tells of the Great Race of Yith, an extraterrestrial species with the ability to travel through space and time. The Yithians accomplish this by switching bodies with hosts from the intended spatial or temporal destination. The story implies that the effect when seen from the outside is similar to spiritual possession.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Science fiction",
+               "@term": "FBFIC028000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/29"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/29.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/29.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/29.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/29.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Raven",
+         "id": "https://www.feedbooks.com/book/3428",
+         "author": {
+            "name": "Edgar Allan Poe",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+         },
+         "published": "2008-11-24T23:18:14Z",
+         "updated": "2020-09-08T06:05:05Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1845",
+         "summary": "\"The Raven\" is a narrative poem by the American writer and poet Edgar Allan Poe. It was published for the first time on January 29, 1845, in the New York Evening Mirror. Noted for its musicality, stylized language and supernatural atmosphere, it tells of the mysterious visit of a talking raven to a distraught lover, tracing his slow descent into madness.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Poetry",
+               "@term": "FBPOE000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3428"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3428.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3428.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3428.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3428.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Metamorphosis",
+         "id": "https://www.feedbooks.com/book/8",
+         "author": {
+            "name": "Franz Kafka",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=6&lang=en"
+         },
+         "published": "2006-12-01T12:01:59Z",
+         "updated": "2020-10-08T20:57:44Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1912",
+         "summary": "The Metamorphosis (German: Die Verwandlung) is a novella by Franz Kafka, first published in 1915. The story begins with a traveling salesman, Gregor Samsa, waking to find himself transformed into a \"monstrous vermin\".",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/8"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/8.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/8.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/8.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/8.atom"
+            }
+         ]
+      },
+      {
+         "title": "The House of the Vampire",
+         "id": "https://www.feedbooks.com/book/3837",
+         "author": {
+            "name": "George Sylvester Viereck",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1035&lang=en"
+         },
+         "published": "2009-04-21T16:54:56Z",
+         "updated": "2020-09-09T10:58:36Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1907",
+         "summary": "The first known gay vampire novel and one of the first psychic vampire stories.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Gothic",
+               "@term": "FBFIC027040",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Erotica",
+               "@term": "FBFIC005000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3837"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3837.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3837.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3837.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3837.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Tell-Tale Heart",
+         "id": "https://www.feedbooks.com/book/814",
+         "author": {
+            "name": "Edgar Allan Poe",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+         },
+         "published": "2007-04-13T15:41:35Z",
+         "updated": "2020-06-09T09:42:56Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1843",
+         "summary": "\"The Tell-Tale Heart\" is a short story by Edgar Allan Poe first published in 1843. It follows an unnamed narrator who insists on his sanity after murdering an old man with a \"vulture eye\". The murder is carefully calculated, and the murderer hides the body by cutting it into pieces and hiding it under the floorboards. Ultimately the narrator's guilt manifests itself in the hallucination that the man's heart is still beating under the floorboards.\nIt is unclear what relationship, if any, the old man and his murderer share. It has been suggested that the old man is a father figure or, perhaps, that his vulture eye represents some sort of veiled secret. The ambiguity and lack of details about the two main characters stand in stark contrast to the specific plot details leading up to the murder.\nThe story was first published in James Russell Lowell's The Pioneer in January 1843. \"The Tell-Tale Heart\" is widely considered a classic of the Gothic fiction genre and one of Poe's most famous short stories.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/814"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/814.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/814.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/814.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/814.atom"
+            }
+         ]
+      },
+      {
+         "title": "The King in Yellow",
+         "id": "https://www.feedbooks.com/book/1376",
+         "author": {
+            "name": "Robert William Chambers",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=218&lang=en"
+         },
+         "published": "2007-07-12T16:55:41Z",
+         "updated": "2020-10-19T13:50:01Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1895",
+         "summary": "The book is named after a fictional play with the same title which recurs as a motif through some of the stories. The first half of the book features highly esteemed weird stories, and the book is described by S.T. Joshi as a classic in the field of the supernatural. There are 10 stories, the first four of which, \"The Repairer of Reputations\", \"The Mask\", \"In the Court of the Dragon\" and \"The Yellow Sign\", mention The King in Yellow, a forbidden play which induces despair or madness in those who read it. \"The Yellow Sign\" inspired a film of the same name released in 2001.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1376"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1376.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1376.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1376.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1376.atom"
+            }
+         ]
+      },
+      {
+         "title": "Curious, If True: Strange Tales",
+         "id": "https://www.feedbooks.com/book/3335",
+         "author": {
+            "name": "Elizabeth Cleghorn Gaskell",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=517&lang=en"
+         },
+         "published": "2008-11-09T15:33:20Z",
+         "updated": "2020-10-16T03:40:43Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1859",
+         "summary": "A collection of five spooky Victorian stories.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Occult & supernatural",
+               "@term": "FBFIC024000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Supernatural creatures",
+               "@term": "FBFIC024020N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Ghost",
+               "@term": "FBFIC012000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3335"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3335.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3335.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3335.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3335.atom"
+            }
+         ]
+      },
+      {
+         "title": "At the Mountains of Madness",
+         "id": "https://www.feedbooks.com/book/26",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2006-12-21T14:12:39Z",
+         "updated": "2020-10-14T04:41:19Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1931",
+         "summary": "At the Mountains of Madness is a novella by horror writer H. P. Lovecraft, written in February/March 1931 and originally serialized in the February, March and April 1936 issues of Astounding Stories. It has been reproduced in numerous collections since Lovecraft's death.\nLovecraft scholar S. T. Joshi describes the novella as representing the decisive \"demythology\" of the Cthulhu Mythos by reinterpreting Lovecraft's earlier supernatural stories in a science fiction paradigm.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/26"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/26.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/26.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/26.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/26.atom"
+            }
+         ]
+      },
+      {
+         "title": "Strange Case of Dr Jekyll and Mr Hyde",
+         "id": "https://www.feedbooks.com/book/95",
+         "author": {
+            "name": "Robert Louis Stevenson",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=37&lang=en"
+         },
+         "published": "2007-01-02T22:05:36Z",
+         "updated": "2020-01-22T21:22:36Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1886",
+         "summary": "Strange Case of Dr Jekyll and Mr Hyde is a novella written by the Scottish author Robert Louis Stevenson and first published in 1886. It is about a London lawyer who investigates strange occurrences between his old friend, Dr Henry Jekyll, and the misanthropic Edward Hyde. The work is known for its vivid portrayal of a split personality, split in the sense that within the same person there is both an apparently good and an evil personality each being quite distinct from each other; in mainstream culture the very phrase \"Jekyll and Hyde\" has come to mean a person who is vastly different in moral character from one situation to the next. This is different from multiple personality disorder where the different personalities do not necessarily differ in any moral sense. Strange Case of Dr Jekyll and Mr Hyde was an immediate success and one of Stevenson's best-selling works. Stage adaptations began in Boston and London within a year of its publication and it has gone on to inspire scores of major film and stage performances.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/95"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/95.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/95.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/95.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/95.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Outsider",
+         "id": "https://www.feedbooks.com/book/6547",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2012-12-31T19:14:42Z",
+         "updated": "2020-03-17T05:38:12Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1926",
+         "summary": "\"The Outsider\" is a short story by American horror writer H. P. Lovecraft. Written between March and August 1921, it was first published in Weird Tales, April 1926. In this work, a mysterious man who has been living alone in a castle for as long as he can remember decides to break free in search of human contact and light. \"The Outsider\" is one of Lovecraft's most commonly reprinted works and is also one of the most popular stories ever to be published in Weird Tales.\n\"The Outsider\" combines Horror, Fantasy, and Gothic Fiction to create a nightmarish story, containing themes of loneliness, the abhuman, and the afterlife. Source: Wikipedia",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/6547"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/6547.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/6547.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/6547.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/6547.atom"
+            }
+         ]
+      },
+      {
+         "title": "Carmilla",
+         "id": "https://www.feedbooks.com/book/1506",
+         "author": {
+            "name": "Joseph Sheridan Le Fanu",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=231&lang=en"
+         },
+         "published": "2007-08-04T20:22:01Z",
+         "updated": "2020-06-27T09:14:21Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1871",
+         "summary": "\"Carmilla\" is a Gothic novella by Joseph Sheridan Le Fanu. First published in 1872, it tells the story of a young woman's susceptibility to the attentions of a female vampire named Carmilla. \"Carmilla\" predates Bram Stoker's Dracula by 25 years and has been adapted many times for cinema.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Gothic",
+               "@term": "FBFIC027040",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1506"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1506.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1506.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1506.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1506.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Yellow Wallpaper",
+         "id": "https://www.feedbooks.com/book/3609",
+         "author": {
+            "name": "Charlotte Perkins Gilman",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=918&lang=en"
+         },
+         "published": "2009-01-26T01:01:44Z",
+         "updated": "2020-10-16T03:42:21Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1892",
+         "summary": "\"The Yellow Wallpaper\" is a 6,000-word short story by American writer Charlotte Perkins Gilman, first published in January 1892 in New England Magazine. It is regarded as an important early work of American feminist literature, illustrating attitudes in the 19th century toward women's physical and mental health.\nThe story is written in the first person as a series of journal entries. The narrator is a woman whose husband — a physician — has confined her to the upstairs bedroom of a house he has rented for the summer. She is forbidden from working and has to hide her journal entries from him so that she can recuperate from what he has diagnosed as a \"temporary nervous depression — a slight hysterical tendency;\" a diagnosis common to women in that period. The windows of the room are barred, and there is a gate across the top of the stairs, allowing her husband to control her access to the rest of the house.\nThe story illustrates the effect of confinement on the narrator's mental health, and her descent into psychosis. With nothing to stimulate her, she becomes obsessed by the pattern and color of the room's wallpaper.",
+         "category": [
+            {
+               "@label": "Nonfiction",
+               "@term": "FBNFC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Biography & autobiography",
+               "@term": "FBBIO000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3609"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3609.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3609.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3609.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3609.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Whisperer in Darkness",
+         "id": "https://www.feedbooks.com/book/25",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2006-12-19T19:47:52Z",
+         "updated": "2020-01-22T21:24:36Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1930",
+         "summary": "The story is told by Albert N. Wilmarth, an instructor of literature at Miskatonic University in Arkham. When local newspapers report strange things seen floating in rivers during a historic Vermont flood, Wilmarth becomes embroiled in a controversy about the reality and significance of the sightings, though he sides with the skeptics. Wilmarth uncovers old legends about monsters living in the uninhabited hills who abduct people who venture or settle too close to their territory.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/25"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/25.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/25.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/25.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/25.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Haunter of the Dark",
+         "id": "https://www.feedbooks.com/book/254",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2007-01-23T19:54:20Z",
+         "updated": "2020-01-22T21:26:41Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1936",
+         "summary": "The story takes place in Providence, Rhode Island and revolves around the Church of Starry Wisdom. The cult uses an ancient artifact known as the Shining Trapezohedron to summon a terrible being from the depths of time and space.\nThe Shining Trapezohedron was discovered in Egyptian ruins, in a box of alien construction, by Professor Enoch Bowen before he returned to Providence, Rhode Island in 1844. Members of the Church of Starry Wisdom in Providence would awaken the Haunter of the Dark, an avatar of Nyarlathotep, by gazing into the glowing crystal. Summoned from the black gulfs of chaos, this being could show other worlds, other galaxies, and the secrets of arcane and paradoxical knowledge; but he demanded monstrous sacrifices, hinted at by disfigured skeletons that were later found in the church. The Haunter of the Dark was banished by light and could not cross a lighted area.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/254"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/254.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/254.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/254.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/254.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Empty House and Other Ghost Stories",
+         "id": "https://www.feedbooks.com/book/1066",
+         "author": {
+            "name": "Algernon Blackwood",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=199&lang=en"
+         },
+         "published": "2007-06-05T19:40:50Z",
+         "updated": "2019-03-28T22:13:36Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1916",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Occult & supernatural",
+               "@term": "FBFIC024000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Supernatural creatures",
+               "@term": "FBFIC024020N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Ghost",
+               "@term": "FBFIC012000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1066"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1066.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1066.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1066.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1066.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Masque of the Red Death",
+         "id": "https://www.feedbooks.com/book/789",
+         "author": {
+            "name": "Edgar Allan Poe",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+         },
+         "published": "2007-04-13T14:06:21Z",
+         "updated": "2020-10-08T20:58:33Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1842",
+         "summary": "\"The Masque of the Red Death\", originally published as \"The Mask of the Red Death\", is a short story written by Edgar Allan Poe and first published in 1842. The story follows Prince Prospero's attempts to avoid a dangerous plague known as the Red Death by hiding in his abbey. He, along with many other wealthy nobles, has a masquerade ball within seven rooms of his abbey, each decorated with a different color. In the midst of their revelry, a mysterious figure enters and makes his way through each of the rooms. When Prospero confronts this stranger, he falls dead. The story follows many traditions of Gothic fiction and is often analyzed as an allegory about the inevitability of death, though some critics advise against an allegorical reading. Many different interpretations have been presented, as well as attempts to identify the true nature of the disease of the \"Red Death.\"",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/789"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/789.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/789.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/789.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/789.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Pit and the Pendulum",
+         "id": "https://www.feedbooks.com/book/801",
+         "author": {
+            "name": "Edgar Allan Poe",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+         },
+         "published": "2007-04-13T15:16:46Z",
+         "updated": "2020-01-22T21:25:31Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1842",
+         "summary": "\"The Pit and the Pendulum\" is a short story written by Edgar Allan Poe and first published in 1842. The story is about the torments endured by a prisoner of the Spanish Inquisition, though Poe skews historical facts. The narrator of the story is deemed guilty for an unnamed crime and put into a completely dark room. He passes out while trying to determine the size of the room. When he wakes up, he realizes there is a large, deep pit in the middle of the room. He loses consciousness again and awakens strapped on his back, unable to move more than his head. He soon realizes there is a large blade-like pendulum hanging above him, slowly getting closer to cutting through his chest. He finds a way to escape but the walls of his prison start to move and close in on him, pushing him closer and closer to falling into the pit.\nThe story is especially effective at inspiring fear in the reader because of its heavy focus on the senses, such as sound, emphasizing its reality, unlike many of Poe's stories which are aided by the supernatural. The traditional elements established in popular horror tales at the time are followed but critical reception has been mixed.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/801"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/801.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/801.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/801.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/801.atom"
+            }
+         ]
+      },
+      {
+         "title": "Tales of the Grotesque and Arabesque",
+         "id": "https://www.feedbooks.com/book/40",
+         "author": {
+            "name": "Edgar Allan Poe",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+         },
+         "published": "2006-12-25T03:25:04Z",
+         "updated": "2020-10-16T03:42:35Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1840",
+         "summary": "Tales of the Grotesque and Arabesque is a collection of previously-published short stories by Edgar Allan Poe, first published in 1840.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/40"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/40.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/40.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/40.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/40.atom"
+            }
+         ]
+      },
+      {
+         "title": "A Stable for Nightmares",
+         "id": "https://www.feedbooks.com/book/2834",
+         "author": {
+            "name": "Joseph Sheridan Le Fanu",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=231&lang=en"
+         },
+         "published": "2008-08-31T10:57:47Z",
+         "updated": "2019-11-04T08:12:00Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1896",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Occult & supernatural",
+               "@term": "FBFIC024000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Supernatural creatures",
+               "@term": "FBFIC024020N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Ghost",
+               "@term": "FBFIC012000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2834"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2834.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2834.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2834.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2834.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Thing on the Doorstep",
+         "id": "https://www.feedbooks.com/book/289",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2007-01-25T19:44:20Z",
+         "updated": "2020-10-16T03:42:50Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1931",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/289"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/289.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/289.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/289.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/289.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Colour Out of Space",
+         "id": "https://www.feedbooks.com/book/19",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2006-12-15T00:17:39Z",
+         "updated": "2020-08-20T09:32:26Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1927",
+         "summary": "\"The Colour Out of Space\" is a first-person narrative written from the perspective of an unnamed surveyor from Boston. In order to prepare for the construction of a new reservoir in Massachusetts, he surveys a rural area that is to be flooded near Lovecraft's fictional town of Arkham. He comes across a mysterious patch of land, an abandoned five-acre farmstead, which is completely devoid of all life.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/19"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/19.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/19.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/19.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/19.atom"
+            }
+         ]
+      },
+      {
+         "title": "Dagon",
+         "id": "https://www.feedbooks.com/book/243",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2007-01-23T19:32:41Z",
+         "updated": "2018-09-25T08:17:38Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1919",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/243"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/243.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/243.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/243.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/243.atom"
+            }
+         ]
+      },
+      {
+         "title": "Dreams in the Witch-House",
+         "id": "https://www.feedbooks.com/book/27",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2006-12-21T14:23:29Z",
+         "updated": "2017-04-04T14:04:54Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1932",
+         "summary": "Walter Gilman, a student of mathematics and folklore at Miskatonic University, takes a room in the Witch House, a house in Arkham thought to be accursed. The first part of the story is an account of the history of the house, which has once harboured Keziah Mason, an accused witch who disappeared mysteriously from a Salem gaol in 1692. Gilman discovers that for the better part of two centuries many if not most of its occupants have died prematurely.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/27"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/27.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/27.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/27.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/27.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Cask of Amontillado",
+         "id": "https://www.feedbooks.com/book/762",
+         "author": {
+            "name": "Edgar Allan Poe",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+         },
+         "published": "2007-04-12T17:25:03Z",
+         "updated": "2020-09-02T10:17:44Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1846",
+         "summary": "\"The Cask of Amontillado\" (sometimes spelled \"The Casque of Amontillado\") is a short story, written by Edgar Allan Poe and first published in the November 1846 issue of Godey's Lady's Book.\nThe story is set in a nameless Italian city in an unspecified year (possibly sometime during the eighteenth century) and concerns the deadly revenge taken by the narrator on a friend who he claims has insulted him. Like several of Poe's stories, and in keeping with the 19th-century fascination with the subject, the narrative revolves around a person being buried alive – in this case, by immurement.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/762"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/762.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/762.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/762.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/762.atom"
+            }
+         ]
+      },
+      {
+         "title": "Shadow",
+         "id": "https://www.feedbooks.com/book/806",
+         "author": {
+            "name": "Edgar Allan Poe",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+         },
+         "published": "2007-04-13T15:24:47Z",
+         "updated": "2018-09-25T08:24:40Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1835",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/806"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/806.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/806.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/806.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/806.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Terror",
+         "id": "https://www.feedbooks.com/book/1174",
+         "author": {
+            "name": "Arthur Machen",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=130&lang=en"
+         },
+         "published": "2007-06-13T01:53:42Z",
+         "updated": "2020-01-22T21:26:13Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1917",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1174"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1174.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1174.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1174.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1174.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Fall of the House of Usher",
+         "id": "https://www.feedbooks.com/book/772",
+         "author": {
+            "name": "Edgar Allan Poe",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+         },
+         "published": "2007-04-12T17:45:10Z",
+         "updated": "2020-10-04T05:08:11Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1839",
+         "summary": "The tale opens with the unnamed narrator arriving at the house of his friend, Roderick Usher, having received a letter from him in a distant part of the country complaining of an illness and asking for his comfort.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/772"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/772.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/772.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/772.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/772.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Curse of Yig",
+         "id": "https://www.feedbooks.com/book/3476",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2008-12-02T23:17:17Z",
+         "updated": "2020-01-22T21:25:46Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1929",
+         "summary": "\"The Curse of Yig\" is a short story by H. P. Lovecraft and Zealia Bishop in which Yig, \"The Father of Serpents\", is first introduced.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/3476"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/3476.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/3476.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/3476.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/3476.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Jewel of Seven Stars",
+         "id": "https://www.feedbooks.com/book/466",
+         "author": {
+            "name": "Bram Stoker",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=31&lang=en"
+         },
+         "published": "2007-02-16T19:42:55Z",
+         "updated": "2020-01-22T21:28:39Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1903",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/466"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/466.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/466.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/466.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/466.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Shadow Over Innsmouth",
+         "id": "https://www.feedbooks.com/book/28",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2006-12-21T14:25:52Z",
+         "updated": "2020-09-09T09:22:58Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1931",
+         "summary": "The story describes of a strange hybrid race, half-human and half an unknown creature that resembles a cross between a fish and frog, that dwells in the seaside village of Innsmouth (formerly a large town, but lately fallen into disrepair). The townspeople worship Cthulhu and Dagon, a Philistine deity incorporated into the Cthulhu Mythos.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/28"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/28.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/28.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/28.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/28.atom"
+            }
+         ]
+      },
+      {
+         "title": "In the Dark",
+         "id": "https://www.feedbooks.com/book/1321",
+         "author": {
+            "name": "Edith Nesbit",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=210&lang=en"
+         },
+         "published": "2007-06-29T17:22:34Z",
+         "updated": "2018-09-25T08:30:41Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1988",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1321"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1321.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1321.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1321.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1321.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Child That Went With The Fairies",
+         "id": "https://www.feedbooks.com/book/1575",
+         "author": {
+            "name": "Joseph Sheridan Le Fanu",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=231&lang=en"
+         },
+         "published": "2007-09-05T12:46:21Z",
+         "updated": "2018-09-25T08:33:35Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1870",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Occult & supernatural",
+               "@term": "FBFIC024000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Supernatural creatures",
+               "@term": "FBFIC024020N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Ghost",
+               "@term": "FBFIC012000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1575"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1575.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1575.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1575.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1575.atom"
+            }
+         ]
+      },
+      {
+         "title": "The White People",
+         "id": "https://www.feedbooks.com/book/1171",
+         "author": {
+            "name": "Arthur Machen",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=130&lang=en"
+         },
+         "published": "2007-06-13T01:32:07Z",
+         "updated": "2018-09-25T08:28:58Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1906",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1171"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1171.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1171.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1171.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1171.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Demon Spell",
+         "id": "https://www.feedbooks.com/book/1325",
+         "author": {
+            "name": "Hume Nisbet",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=211&lang=en"
+         },
+         "published": "2007-06-29T17:40:26Z",
+         "updated": "2020-09-02T06:46:06Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1894",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/1325"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/1325.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/1325.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/1325.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/1325.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Man",
+         "id": "https://www.feedbooks.com/book/458",
+         "author": {
+            "name": "Bram Stoker",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=31&lang=en"
+         },
+         "published": "2007-02-16T18:05:56Z",
+         "updated": "2020-01-22T21:27:42Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1905",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Romance",
+               "@term": "FBFIC027000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Gothic",
+               "@term": "FBFIC027040",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/458"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/458.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/458.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/458.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/458.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Horror at Martin's Beach",
+         "id": "https://www.feedbooks.com/book/257",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2007-01-23T20:02:22Z",
+         "updated": "2019-09-02T12:35:38Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1923",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/257"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/257.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/257.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/257.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/257.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Private Memoirs and Confessions of a Justified Sinner",
+         "id": "https://www.feedbooks.com/book/4980",
+         "author": {
+            "name": "James Hogg",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1469&lang=en"
+         },
+         "published": "2010-07-28T15:48:54Z",
+         "updated": "2020-08-07T11:01:16Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1824",
+         "summary": "Considered in turn a Gothic novel, a psychological case study of an unreliable narrator, and an examination of totalitarian thought, the ultimately unclassifiable novel is set in a pseudo-Christian world of angels, devils, and demonic possession. It has been the subject of increasing critical attention in recent years, and has received wide acclaim for its probing quest into the nature of religious fanaticism and Calvinist predestination.\nIt is written in English, with Scots appearing mainly in dialogue.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Occult & supernatural",
+               "@term": "FBFIC024000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/4980"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/4980.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/4980.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/4980.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/4980.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Burial of the Rats",
+         "id": "https://www.feedbooks.com/book/465",
+         "author": {
+            "name": "Bram Stoker",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=31&lang=en"
+         },
+         "published": "2007-02-16T18:53:13Z",
+         "updated": "2018-09-25T08:20:23Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1914",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/465"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/465.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/465.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/465.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/465.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Ghost Pirates",
+         "id": "https://www.feedbooks.com/book/2427",
+         "author": {
+            "name": "William Hope Hodgson",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=374&lang=en"
+         },
+         "published": "2008-04-16T16:06:55Z",
+         "updated": "2018-09-25T08:42:47Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1909",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Occult & supernatural",
+               "@term": "FBFIC024000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Supernatural creatures",
+               "@term": "FBFIC024020N",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Ghost",
+               "@term": "FBFIC012000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2427"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2427.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2427.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2427.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2427.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Hill Of Dreams",
+         "id": "https://www.feedbooks.com/book/2681",
+         "author": {
+            "name": "Arthur Machen",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=130&lang=en"
+         },
+         "published": "2008-07-21T18:17:20Z",
+         "updated": "2018-09-25T08:45:20Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1907",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/2681"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/2681.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/2681.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/2681.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/2681.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Great God Pan",
+         "id": "https://www.feedbooks.com/book/457",
+         "author": {
+            "name": "Arthur Machen",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=130&lang=en"
+         },
+         "published": "2007-02-16T16:39:21Z",
+         "updated": "2018-09-25T08:20:16Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1894",
+         "summary": "A woman in Wales has her mind destroyed by a scientist's attempt to enable her to see the god of nature Pan. Years later, a young woman named Helen Vaughan arrives on the London social scene, disturbing many young men and causing some to commit suicide; it transpires that she is the monstrous offspring of the god Pan and the woman in the experiment.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/457"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/457.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/457.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/457.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/457.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Three Strangers",
+         "id": "https://www.feedbooks.com/book/754",
+         "author": {
+            "name": "Thomas Hardy",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=48&lang=en"
+         },
+         "published": "2007-04-11T02:16:00Z",
+         "updated": "2020-01-22T21:27:13Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1883",
+         "summary": "No description available",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/754"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/754.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/754.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/754.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/754.atom"
+            }
+         ]
+      },
+      {
+         "title": "The Dream-Quest of Unknown Kadath",
+         "id": "https://www.feedbooks.com/book/247",
+         "author": {
+            "name": "Howard Phillips Lovecraft",
+            "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+         },
+         "published": "2007-03-07T16:20:44Z",
+         "updated": "2020-08-08T07:01:28Z",
+         "language": "en",
+         "publisher": "Feedbooks",
+         "issued": "1943",
+         "summary": "Randolph Carter dreams three times of a majestic sunset city, but each time he is abruptly snatched away before he can see it up close. When he prays to the gods of dream to reveal the whereabouts of the phantasmal city, they do not answer, and his dreams of the city stop altogether. Undaunted, Carter resolves to go to Kadath, where the gods live, to beseech them in person. However, no one has ever been to Kadath and none even knows how to get there. In dream, Randolph Carter descends \"the seventy steps to the cavern of flame\" and speaks of his plan to the priests Nasht and Kaman-Thah, whose temple borders the Dreamlands. The priests warn Carter of the great danger of his quest and suggest that the gods withdrew his vision of the city on purpose.",
+         "category": [
+            {
+               "@label": "Fiction",
+               "@term": "FBFIC000000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Horror",
+               "@term": "FBFIC015000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            },
+            {
+               "@label": "Short stories",
+               "@term": "FBFIC029000",
+               "@scheme": "http://www.feedbooks.com/categories"
+            }
+         ],
+         "link": [
+            {
+               "@type": "text/html",
+               "@rel": "alternate",
+               "@title": "View on Feedbooks",
+               "@href": "http://www.feedbooks.com/book/247"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image",
+               "@href": "https://covers.feedbooks.net/book/247.jpg?size=large"
+            },
+            {
+               "@type": "image/jpeg",
+               "@rel": "http://opds-spec.org/image/thumbnail",
+               "@href": "https://covers.feedbooks.net/book/247.jpg"
+            },
+            {
+               "@type": "application/epub+zip",
+               "@rel": "http://opds-spec.org/acquisition",
+               "@href": "http://www.feedbooks.com/book/247.epub"
+            },
+            {
+               "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+               "@rel": "alternate",
+               "@title": "Full entry",
+               "@href": "https://catalog.feedbooks.com/book/247.atom"
+            }
+         ]
+      }
+   ]
+}

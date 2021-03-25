@@ -68,6 +68,8 @@ class Dialogs {
                           color: Colors.white,
                         ),
                       ),
+                      // exit(0) programmatically close a Flutter application ,
+                      // or use SystemNavigator.pop() "RECOMMENDED"
                       onPressed: () => exit(0),
                       color: Theme.of(context).accentColor,
                     ),

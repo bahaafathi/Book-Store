@@ -11,7 +11,7 @@ class HomeProvider with ChangeNotifier {
   APIRequestStatus apiRequestStatus =
       APIRequestStatus.loading; //اي نام حاطت فيه اسامي للتحميل
   Api api = Api();
-//TODO:Learn Try and Catch
+
   getFeeds() async {
     setApiRequestStatus(APIRequestStatus.loading);
     try {

@@ -1,0 +1,3201 @@
+{
+    "@lang": "en",
+    "id": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000",
+    "title": "Science fiction",
+    "updated": "2021-03-21T14:26:34Z",
+    "icon": "/favicon.ico",
+    "author": {
+       "name": "Feedbooks",
+       "uri": "http://www.feedbooks.com",
+       "email": "help@demarque.com"
+    },
+    "link": [
+       {
+          "@rel": "self",
+          "@title": "Most popular",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000"
+       },
+       {
+          "@rel": "start",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@title": "Home",
+          "@href": "https://catalog.feedbooks.com/catalog/index.atom"
+       },
+       {
+          "@rel": "search",
+          "@href": "https://catalog.feedbooks.com/opensearch.xml",
+          "@type": "application/opensearchdescription+xml",
+          "@title": "Search on Feedbooks"
+       },
+       {
+          "@rel": "http://opds-spec.org/shelf",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@title": "Bookshelf",
+          "@href": "https://www.feedbooks.com/user/bookshelf.atom"
+       },
+       {
+          "@rel": "next",
+          "@title": "Next",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000&page=2"
+       },
+       {
+          "@rel": "http://opds-spec.org/sort/new",
+          "@title": "New releases",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000&sort=new"
+       },
+       {
+          "@rel": "http://opds-spec.org/featured",
+          "@title": "Featured picks",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000&sort=selection"
+       },
+       {
+          "@rel": "http://opds-spec.org/featured",
+          "@title": "Awards",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000&sort=awards"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Most popular",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000",
+          "@activeFacet": "true",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "New releases",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?cat=FBFIC028000",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Awards",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?cat=FBFIC028000",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "New & noteworthy",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?cat=FBFIC028000",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Time travel",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028080N",
+          "@count": "8",
+          "@facetGroup": "Current category"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Dystopia and uchronia",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028060N",
+          "@count": "7",
+          "@facetGroup": "Current category"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Short stories",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028040",
+          "@count": "6",
+          "@facetGroup": "Current category"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Speculative fiction",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028050N",
+          "@count": "5",
+          "@facetGroup": "Current category"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Adventure",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028010",
+          "@count": "1",
+          "@facetGroup": "Current category"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "German",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000&lang=de",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "English",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000&lang=en",
+          "@activeFacet": "true",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Spanish",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000&lang=es",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "French",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000&lang=fr",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Italian",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC028000&lang=it",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       }
+    ],
+    "totalResults": "1138",
+    "itemsPerPage": "50",
+    "startIndex": "1",
+    "entry": [
+       {
+          "title": "All In The Mind",
+          "id": "https://www.feedbooks.com/book/4808",
+          "author": {
+             "name": "Gene L. Henderson",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1415&lang=en"
+          },
+          "published": "2010-05-27T17:23:08Z",
+          "updated": "2020-08-26T10:08:49Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1954",
+          "summary": "When does life begin?... A well-known book says \"forty\". A well-known radio program says \"eighty\". Some folks say it's mental, others say it's physical. But take the strange case of Mel Carlson who gave a lot of thought to the matter.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/4808"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/4808.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/4808.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/4808.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/4808.atom"
+             }
+          ]
+       },
+       {
+          "title": "Tales of Space and Time",
+          "id": "https://www.feedbooks.com/book/3469",
+          "author": {
+             "name": "H. G. Wells",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+          },
+          "published": "2008-12-01T21:43:41Z",
+          "updated": "2020-09-19T14:30:13Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1900",
+          "summary": "A collection of short stories: \"The Crystal Egg\", \"The Star\", \"A Story of the Stone Age\", \"A Story of the Days to Come\" &amp; \"The Man who could Work Miracles\"",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3469"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3469.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3469.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3469.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3469.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Blazing World",
+          "id": "https://www.feedbooks.com/book/6896",
+          "author": {
+             "name": "Margaret Cavendish",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2252&lang=en"
+          },
+          "published": "2014-03-13T11:52:59Z",
+          "updated": "2020-09-02T06:45:09Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1666",
+          "summary": "The Description of a New World, Called The Blazing-World, better known as The Blazing World, is a 1666 work of prose fiction by English writer Margaret Cavendish, the Duchess of Newcastle. It has been described as an early forerunner of science fiction.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Dystopia and uchronia",
+                "@term": "FBFIC028060N",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6896"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6896.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6896.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6896.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6896.atom"
+             }
+          ]
+       },
+       {
+          "title": "The War of the Worlds",
+          "id": "https://www.feedbooks.com/book/35",
+          "author": {
+             "name": "H. G. Wells",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+          },
+          "published": "2006-12-21T18:40:18Z",
+          "updated": "2020-10-03T20:07:21Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1898",
+          "summary": "The War of the Worlds (1898), by H. G. Wells, is an early science fiction novel which describes an invasion of England by aliens from Mars. It is one of the earliest and best-known depictions of an alien invasion of Earth, and has influenced many others, as well as spawning several films, radio dramas, comic book adaptations, and a television series based on the story. The 1938 radio broadcast caused public outcry against the episode, as many listeners believed that an actual Martian invasion was in progress, a notable example of mass hysteria.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "War & military",
+                "@term": "FBFIC032000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/35"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/35.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/35.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/35.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/35.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Night Land",
+          "id": "https://www.feedbooks.com/book/2417",
+          "author": {
+             "name": "William Hope Hodgson",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=374&lang=en"
+          },
+          "published": "2008-04-09T13:45:51Z",
+          "updated": "2020-09-19T04:31:26Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1912",
+          "summary": "The Sun has gone out: the Earth is lit only by the glow of residual vulcanism. The last few millions of the human race are gathered together in a gigantic metal pyramid, the Last Redoubt, under siege from unknown forces and Powers outside in the dark. These are held back by a Circle of energy, known as the \"air clog,\" powered from the Earth's internal energy. For millennia, vast living shapes - the Watchers - have waited in the darkness near the pyramid: it is thought they are waiting for the inevitable time when the Circle's power finally weakens and dies. Other living things have been seen in the darkness beyond, some of unknown origins, and others that may once have been human.\nTo leave the protection of the Circle means almost certain death, or worse, but as the story commences, the narrator establishes mind contact with an inhabitant of another, forgotten, Redoubt, and sets off into the darkness to find her.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Fantasy",
+                "@term": "FBFIC009000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Horror",
+                "@term": "FBFIC015000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2417"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2417.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2417.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2417.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2417.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Mysterious Island",
+          "id": "https://www.feedbooks.com/book/2448",
+          "author": {
+             "name": "Jules Verne",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+          },
+          "published": "2008-04-23T00:54:50Z",
+          "updated": "2020-10-08T04:41:10Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1874",
+          "summary": "The book tells the adventures of five American prisoners of war on an uncharted island in the South Pacific. Begining in the American Civil War, as famine and death ravage the city of Richmond, Virginia, five northern POWs decide to escape in a rather unusual way – by hijacking a balloon! This is only the beginning of their adventures...",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2448"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2448.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2448.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2448.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2448.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Time Machine",
+          "id": "https://www.feedbooks.com/book/32",
+          "author": {
+             "name": "H. G. Wells",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+          },
+          "published": "2006-12-21T15:58:14Z",
+          "updated": "2020-10-13T07:48:12Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1895",
+          "summary": "The book's protagonist is an amateur inventor or scientist living in London who is never named; he is identified simply as The Time Traveller. Having demonstrated to friends using a miniature model that time is a fourth dimension, and that a suitable apparatus can move back and forth in this fourth dimension, he builds a full-scale model capable of carrying himself. He sets off on a journey into the future.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Time travel",
+                "@term": "FBFIC028080N",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/32"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/32.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/32.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/32.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/32.atom"
+             }
+          ]
+       },
+       {
+          "title": "A Journey into the Center of the Earth",
+          "id": "https://www.feedbooks.com/book/3796",
+          "author": {
+             "name": "Jules Verne",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+          },
+          "published": "2009-04-06T19:45:46Z",
+          "updated": "2019-11-18T13:12:54Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1877",
+          "summary": "Journey to the Center of the Earth is a classic 1864 science fiction novel by Jules Verne (published in the original French as Voyage au centre de la Terre). The story involves a professor who leads his nephew and hired guide down a volcano in Iceland to the \"center of the Earth\". They encounter many adventures, including prehistoric animals and natural hazards, eventually coming to the surface again in southern Italy.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3796"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3796.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3796.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3796.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3796.atom"
+             }
+          ]
+       },
+       {
+          "title": "Pandemic",
+          "id": "https://www.feedbooks.com/book/2748",
+          "author": {
+             "name": "Jesse Franklin Bone",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=167&lang=en"
+          },
+          "published": "2008-08-09T15:05:33Z",
+          "updated": "2020-08-20T21:33:36Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1962",
+          "summary": "Generally, human beings don't do totally useless things consistently and widely. So--maybe there is something to it--",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2748"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2748.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2748.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2748.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2748.atom"
+             }
+          ]
+       },
+       {
+          "title": "20,000 Leagues Under the Sea",
+          "id": "https://www.feedbooks.com/book/182",
+          "author": {
+             "name": "Jules Verne",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+          },
+          "published": "2007-01-12T20:09:05Z",
+          "updated": "2020-08-20T09:32:27Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1870",
+          "summary": "Twenty Thousand Leagues Under the Sea (French: Vingt mille lieues sous les mers) is a classic science fiction novel by French writer Jules Verne, published in 1870. It is about the fictional Captain Nemo and his submarine, Nautilus, as seen by one of his passengers, Professor Pierre Aronnax.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/182"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/182.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/182.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/182.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/182.atom"
+             }
+          ]
+       },
+       {
+          "title": "Love Story",
+          "id": "https://www.feedbooks.com/book/4720",
+          "author": {
+             "name": "Irving Cox",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=413&lang=en"
+          },
+          "published": "2010-04-22T18:24:54Z",
+          "updated": "2020-07-30T06:38:33Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1956",
+          "summary": "Everything was aimed at satisfying the whims of women. The popular cliches, the pretty romances, the catchwords of advertising became realities; and the compound kept the men enslaved. George knew what he had to do....",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/4720"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/4720.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/4720.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/4720.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/4720.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Invisible Man",
+          "id": "https://www.feedbooks.com/book/34",
+          "author": {
+             "name": "H. G. Wells",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+          },
+          "published": "2006-12-21T17:27:12Z",
+          "updated": "2020-10-22T10:02:55Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1897",
+          "summary": "The Invisible Man is an 1897 science fiction novella by H.G. Wells. Wells' novel was originally serialised in Pearson's Magazine in 1897, and published as a novel the same year. The Invisible Man of the title is Griffin, a scientist who theorises that if a person's refractive index is changed to exactly that of air and his body does not absorb or reflect light, then he will be invisible. He successfully carries out this procedure on himself, but cannot become visible again, becoming mentally unstable as a result.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/34"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/34.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/34.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/34.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/34.atom"
+             }
+          ]
+       },
+       {
+          "title": "A Modern Utopia",
+          "id": "https://www.feedbooks.com/book/4183",
+          "author": {
+             "name": "H. G. Wells",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+          },
+          "published": "2009-09-12T14:31:07Z",
+          "updated": "2020-10-13T07:46:56Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1905",
+          "summary": "In A Modern Utopia, two travelers fall into a space-warp and suddenly find themselves upon a Utopian Earth controlled by a single World Government.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Nonfiction",
+                "@term": "FBNFC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Human science",
+                "@term": "FSHUM000000N",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Philosophy",
+                "@term": "FBPHI000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/4183"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/4183.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/4183.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/4183.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/4183.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Shadow out of Time",
+          "id": "https://www.feedbooks.com/book/29",
+          "author": {
+             "name": "Howard Phillips Lovecraft",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=12&lang=en"
+          },
+          "published": "2006-12-21T14:32:54Z",
+          "updated": "2020-09-24T10:23:36Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1934",
+          "summary": "\"The Shadow Out of Time\" indirectly tells of the Great Race of Yith, an extraterrestrial species with the ability to travel through space and time. The Yithians accomplish this by switching bodies with hosts from the intended spatial or temporal destination. The story implies that the effect when seen from the outside is similar to spiritual possession.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Horror",
+                "@term": "FBFIC015000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/29"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/29.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/29.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/29.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/29.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Gods of Mars",
+          "id": "https://www.feedbooks.com/book/163",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2007-01-06T20:22:34Z",
+          "updated": "2020-09-09T09:23:37Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1918",
+          "summary": "After the long exile on Earth, John Carter finally returned to his beloved Mars. But beautiful Dejah Thoris, the woman he loved, had vanished. Now he was trapped in the legendary Eden of Mars -- an Eden from which none ever escaped alive.",
+          "Series": {
+             "@position": "2",
+             "@name": "Barsoom",
+             "@url": "https://catalog.feedbooks.com/series/1"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/163"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/163.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/163.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/163.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/163.atom"
+             }
+          ]
+       },
+       {
+          "title": "Pagan Passions",
+          "id": "https://www.feedbooks.com/book/1963",
+          "author": [
+             {
+                "name": "Randall Garrett",
+                "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=267&lang=en"
+             },
+             {
+                "name": "Laurence Mark Janifer",
+                "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=268&lang=en"
+             }
+          ],
+          "published": "2007-11-23T18:04:00Z",
+          "updated": "2020-06-30T10:11:19Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1959",
+          "summary": "The Gods and Goddesses of Ancient Greece and Rome had returned to Earth -- with all their awesome powers intact. Overnight, Earth was transformed. War on any scale was outlawed, along with boom-and-bust economic cycles, and prudery. No change was more startling than the face of New York, where the Empire State Building became the Tower of Zeus.\nIn this totally altered world, William Forrester is an acolyte of Athena, Goddess of Wisdom, and a teacher of history. Only Maya Wilson, one of his students and a worshipper of Venus, Goddess of Love, had a different sort of grading in mind. Maya is the first of the many Trials of Forrester, every bit as mighty and perilous as the Labors of Hercules. In love with Gerda Symes (like him, a devotee of Athena and a frequenter of the great Temple of Pallas Athena -- formerly known as the 42nd Street Library) and dedicated to the pleasures of the mind -- Forrester falls under the soft, compelling pressure of soft, compelling devotees of Venus and Bacchus. He's going to be in need of all the strength that he and his Goddess, the beautiful and intellectual Athena, can muster!\n\nInto this sensuous strife stride the Temple Myrmidons -- religious cops sworn to obey orders without question or hesitation -- with a pickup order for William Forrester. Where he is taken, what happens to him, and the truly fantastic discoveries he makes about himself and the Gods and Goddesses ... here are the ingredients that make up this science fiction novel of suspense, intrigue, mystery and danger!",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Erotica",
+                "@term": "FBFIC005000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1963"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1963.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1963.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1963.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1963.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Scarlet Plague",
+          "id": "https://www.feedbooks.com/book/2379",
+          "author": {
+             "name": "Jack London",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=34&lang=en"
+          },
+          "published": "2008-03-25T12:58:55Z",
+          "updated": "2020-08-15T21:51:05Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1912",
+          "summary": "This novella explores life following a devastating plague that wipes out most of humanity.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2379"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2379.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2379.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2379.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2379.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Man Who Saw the Future",
+          "id": "https://www.feedbooks.com/book/3664",
+          "author": {
+             "name": "Edmond Moore Hamilton",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=343&lang=en"
+          },
+          "published": "2009-02-17T14:53:10Z",
+          "updated": "2020-09-14T09:33:23Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1930",
+          "summary": "Excerpt:\nJean de Marselait read calmly on from the parchment. \"It is stated by many witnesses that for long that part of Paris, called Nanley by some, has been troubled by works of the devil. Ever and anon great claps of thunder have been heard issuing from an open field there without visible cause. They were evidently caused by a sorcerer of power since even exorcists could not halt them.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3664"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3664.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3664.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3664.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3664.atom"
+             }
+          ]
+       },
+       {
+          "title": "Metropolis",
+          "id": "https://www.feedbooks.com/book/1123",
+          "author": {
+             "name": "Thea von Harbou",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=202&lang=en"
+          },
+          "published": "2007-06-09T10:45:37Z",
+          "updated": "2020-10-15T10:02:33Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1927",
+          "summary": "This is Metropolis, the novel that the film's screenwriter -- Thea von Harbou, who was director Fritz Lang's wife, and a collaborator in the creation of the film -- this is the novel that Harbou wrote from her own notes. It contains bits of the story that got lost on the cutting-room floor; in a very real way it is the only way to understand the film.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1123"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1123.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1123.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1123.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1123.atom"
+             }
+          ]
+       },
+       {
+          "title": "Deathworld",
+          "id": "https://www.feedbooks.com/book/3749",
+          "author": {
+             "name": "Harry Harrison",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=219&lang=en"
+          },
+          "published": "2009-03-18T17:58:49Z",
+          "updated": "2020-10-10T13:47:21Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1960",
+          "summary": "Some planet in the galaxy must—by definition—be the toughest, meanest, nastiest of all. If Pyrrus wasn't it ... it was an awfully good approximation!",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3749"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3749.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3749.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3749.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3749.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Dark World",
+          "id": "https://www.feedbooks.com/book/2317",
+          "author": {
+             "name": "Henry Kuttner",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=339&lang=en"
+          },
+          "published": "2008-03-13T23:39:00Z",
+          "updated": "2019-11-04T11:48:12Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1946",
+          "summary": "World War II veteran Edward Bond's recuperation from a disastrous fighter plane crash takes a distinct turn for the weird when he encounters a giant wolf, a red witch, and the undeniable power of the need-fire, a portal to a world of magic and swordplay at once terribly new and hauntingly familiar. In the Dark World, Bond opposes the machinations of the dread lord Ganelon and his terrible retinue of werewolves, wizards, and witches, but all is not as it seems in this shadowy mirror of the real world, and Bond discovers that a part of him feels more at home here than he ever has on Earth.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Fantasy",
+                "@term": "FBFIC009000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2317"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2317.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2317.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2317.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2317.atom"
+             }
+          ]
+       },
+       {
+          "title": "Only The Neck Down",
+          "id": "https://www.feedbooks.com/book/2813",
+          "author": {
+             "name": "David Reagan",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=566&lang=en"
+          },
+          "published": "2008-08-28T22:15:11Z",
+          "updated": "2018-09-25T08:46:18Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "2006",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Erotica",
+                "@term": "FBFIC005000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2813"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2813.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2813.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2813.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2813.atom"
+             }
+          ]
+       },
+       {
+          "title": "In the Year 2889",
+          "id": "https://www.feedbooks.com/book/477",
+          "author": {
+             "name": "Jules Verne",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+          },
+          "published": "2007-02-19T13:57:45Z",
+          "updated": "2020-10-16T03:41:57Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1889",
+          "summary": "In the Year 2889 was first published in the Forum, February, 1889. It was published in France the next year. Although published under the name of Jules Verne, it is now believed to be chiefly if not entirely the work of Jules Verne's son, Michel Verne. In any event, many of the topics in the article echo Jules Verne's ideas.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/477"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/477.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/477.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/477.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/477.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Machine Stops",
+          "id": "https://www.feedbooks.com/book/2073",
+          "author": {
+             "name": "E. M. Forster",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=290&lang=en"
+          },
+          "published": "2007-12-25T13:24:18Z",
+          "updated": "2019-06-14T06:49:35Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1909",
+          "summary": "The Machine Stops is a short science fiction story. It describes a world in which almost all humans have lost the ability to live on the surface of the Earth. Each individual lives in isolation in a 'cell', with all bodily and spiritual needs met by the omnipotent, global Machine. Most humans welcome this development, as they are skeptical and fearful of first-hand experience. People forget that humans created the Machine, and treat it as a mystical entity whose needs supersede their own. Those who do not accept the deity of the Machine are viewed as 'unmechanical' and are threatened with \"Homelessness\". Eventually, the Machine apocalyptically collapses, and the civilization of the Machine comes to an end.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2073"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2073.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2073.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2073.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2073.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Right People",
+          "id": "https://www.feedbooks.com/book/3563",
+          "author": {
+             "name": "Adam Rakunas",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=899&lang=en"
+          },
+          "published": "2009-01-05T14:53:16Z",
+          "updated": "2020-06-30T10:11:30Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "2008",
+          "summary": "Imagine what high school would have been like if dealing drugs had been legal when licensed, mobile social networking had been ubiquitous and the in-crowd had more leverage than most political parties… what would the smart-but-slightly-crazy outcasts end up doing?\n\nIn Adam Rakunas’s novella “The Right People”, they’re in the lucrative but precarious position of selling clandestine bootleg sex toys to the overachievers, but the rug is about to be pulled out from under their operation…\n\nIt’s simultaneously a slice of full-bore gonzo science fiction blended with a Brat Pack movie, and a timely metaphor for the present presidential tussle, and Futurismic is very proud to present “The Right People” as Adam’s first fiction sale - in fact, I think we’re lucky to have found him first!\n\nDo be warned, though - this one’s definitely not for the very young or the easily offended!",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Erotica",
+                "@term": "FBFIC005000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3563"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3563.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3563.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3563.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3563.atom"
+             }
+          ]
+       },
+       {
+          "title": "Herland",
+          "id": "https://www.feedbooks.com/book/3610",
+          "author": {
+             "name": "Charlotte Perkins Gilman",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=918&lang=en"
+          },
+          "published": "2009-01-26T01:09:55Z",
+          "updated": "2020-10-08T21:15:32Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1915",
+          "summary": "Herland is a utopian novel from 1915, written by feminist Charlotte Perkins Gilman. The book describes an isolated society composed entirely of women who reproduce via parthenogenesis (asexual reproduction). The result is an ideal social order, free of war, conflict and domination.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Dystopia and uchronia",
+                "@term": "FBFIC028060N",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3610"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3610.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3610.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3610.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3610.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Last Man",
+          "id": "https://www.feedbooks.com/book/1347",
+          "author": {
+             "name": "Mary Shelley",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=33&lang=en"
+          },
+          "published": "2007-07-03T23:02:36Z",
+          "updated": "2018-09-25T08:30:58Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1826",
+          "summary": "A futuristic story of tragic love and of the gradual extermination of the human race by plague, The Last Man is Mary Shelley's most important novel after Frankenstein. With intriguing portraits of Percy Bysshe Shelley and Lord Byron, the novel offers a vision of the future that expresses a reaction against Romanticism, and demonstrates the failure of the imagination and of art to redeem the doomed characters.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1347"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1347.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1347.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1347.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1347.atom"
+             }
+          ]
+       },
+       {
+          "title": "In Search of the Unknown",
+          "id": "https://www.feedbooks.com/book/1500",
+          "author": {
+             "name": "Robert William Chambers",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=218&lang=en"
+          },
+          "published": "2007-08-04T01:00:34Z",
+          "updated": "2018-09-25T08:32:52Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1904",
+          "summary": "The stories feature a man who searches for lost species -- animals not seen for centuries -- and as we follow him on these journeys we're introduced to a variety of amazing creatures including the half-man, half-amphibian called \"the harbor master\".",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Fantasy",
+                "@term": "FBFIC009000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1500"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1500.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1500.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1500.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1500.atom"
+             }
+          ]
+       },
+       {
+          "title": "Star Maker",
+          "id": "https://www.feedbooks.com/book/2029",
+          "author": {
+             "name": "William Olaf Stapledon",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=284&lang=en"
+          },
+          "published": "2007-12-11T00:25:50Z",
+          "updated": "2020-09-26T04:30:42Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1937",
+          "summary": "Widely regarded as one of the true classics of science fiction, Star Maker is a poetic and deeply philosophical work. The story details the mental journey of an unnamed narrator who is transported not only to other worlds but also other galaxies and parallel universes, until he eventually becomes part of the \"cosmic mind.\" First published in 1937, Olaf Stapledon's descriptions of alien life are a political commentary on human life in the turbulent inter-war years. The book challenges preconceived notions of intelligence and awareness, and ultimately argues for a broadened perspective that would free us from culturally ingrained thought and our inevitable anthropomorphism. This is the first scholarly edition of a book that influenced such writers as C.S. Lewis and Arthur C. Clarke and which Jorge Luis Borges called \"a prodigious novel.\"",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2029"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2029.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2029.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2029.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2029.atom"
+             }
+          ]
+       },
+       {
+          "title": "Beyond the Door",
+          "id": "https://www.feedbooks.com/book/3863",
+          "author": {
+             "name": "Philip K. Dick",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1023&lang=en"
+          },
+          "published": "2009-05-01T19:32:40Z",
+          "updated": "2020-04-06T15:53:49Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1954",
+          "summary": "Did you ever wonder at the lonely life the bird in a cuckoo clock has to lead—that it might possibly love and hate just as easily as a real animal of flesh and blood? Philip Dick used that idea for this brief fantasy tale. We're sure that after reading it you'll give cuckoo clocks more respect.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3863"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3863.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3863.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3863.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3863.atom"
+             }
+          ]
+       },
+       {
+          "title": "John Carter and the Giant of Mars",
+          "id": "https://www.feedbooks.com/book/1217",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2007-06-18T13:04:09Z",
+          "updated": "2019-10-16T06:22:00Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1940",
+          "summary": "No description available",
+          "Series": {
+             "@position": "11",
+             "@name": "Barsoom",
+             "@url": "https://catalog.feedbooks.com/series/1"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1217"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1217.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1217.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1217.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1217.atom"
+             }
+          ]
+       },
+       {
+          "title": "A Princess of Mars",
+          "id": "https://www.feedbooks.com/book/80",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2007-01-02T02:56:01Z",
+          "updated": "2020-09-08T04:27:11Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1912",
+          "summary": "A Princess of Mars is an Edgar Rice Burroughs science fiction novel, the first of his famous Barsoom series. It is also Burroughs' first novel, predating his Tarzan stories. He wrote it between July and September 28, 1911, going through four working titles; initially, he was going to call it My First Adventure on Mars, then The Green Martians, Dejah Thoris, Martian Princess, and finally Under the Moons of Mars.\nThe finished story was first published under the last of these titles in All-Story as a six-part serial in the issues for February-July 1912. For the serial publication, the author's name was given as \"Norman Bean\"; Burroughs had chosen the pseudonym of \"Normal Bean\" as a type of pun stressing that he was in his right mind, being concerned he might suffer ridicule for writing such a fantastic story. The effect was spoiled when a typesetter changed \"Normal\" to \"Norman\" on the assumption that the former was a typographical error. The story was later published as a complete novel under the present title by A. C. McClurg in October 1917.\nFull of swordplay and daring feats, the story is considered a classic example of 20th century pulp fiction.",
+          "Series": {
+             "@position": "1",
+             "@name": "Barsoom",
+             "@url": "https://catalog.feedbooks.com/series/1"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/80"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/80.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/80.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/80.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/80.atom"
+             }
+          ]
+       },
+       {
+          "title": "Sci-Fi and Fantasy Stories From 'The Sun'",
+          "id": "https://www.feedbooks.com/book/6648",
+          "author": {
+             "name": "Edward Page Mitchell",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2142&lang=en"
+          },
+          "published": "2013-02-23T04:39:42Z",
+          "updated": "2020-07-16T08:56:36Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1894",
+          "summary": "Later described as \"the lost giant of American science fiction,\" Edward Page Mitchell wrote many science fiction and fantasy short stories in the 1870's to 1890's, nearly all of which were  published anonymously in the The Sun daily newspaper of New York.  Mitchell was editor-in-chief of The Sun and was a member of the Pulitzer Prize Board for many years. \n\nMitchell introduced many technological and social predictions which were daring for the time, prior to similar predictions by famous authors, such as travel by pneumatic tube, electrical heating, newspapers printed in the home by electrical transmission, food-pellet concentrates, international broadcasts, suspended animation of a living human being through freezing (cryogenics), a man rendered invisible by scientific means, a time-travel machine, faster-than-light travel, a thinking computer, a cyborg, matter transmission or teleportation, voting by American women, and interracial marriage. His fantasy stories dabble with the occult and bizarre, involving ghosts, the Devil, masochism, inanimate objects coming to life, and more.\n\nTHE TACHYPOMP (April 1894),\n\nTHE SOUL SPECTROSCOPE (19 December 1875),\n\nTHE FACTS IN THE RATCLIFF CASE (07 March 1879),\n\nTHE STORY OF THE DELUGE  (29 April 1875),\n\nTHE PROFESSOR'S EXPERIMENT (22 February 1880),\n\nTHE INSIDE OF THE EARTH (27 February 1876),\n\nTHE BALLOON TREE (25 February 1883),\n\nOLD SQUIDS AND LITTLE SPELLER (19 July 1885),\n\nTHE MAN WITHOUT A BODY (25 March 1877),\n\nTHE ABLEST MAN IN THE WORLD (04 May 1879),\n\nTHE SENATOR'S DAUGHTER (27 July 1879),\n\nTHE CRYSTAL MAN (30 January 1881),\n\nTHE CLOCK THAT WENT BACKWARD (18 September 1881),\n\nand 17 more are contained in this anthology, 30 in all, with an introduction about The Sun by the contributor of this work to Feedbooks' public domain collection.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Fantasy",
+                "@term": "FBFIC009000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Occult & supernatural",
+                "@term": "FBFIC024000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6648"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6648.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6648.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6648.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6648.atom"
+             }
+          ]
+       },
+       {
+          "title": "Last and First Men",
+          "id": "https://www.feedbooks.com/book/2028",
+          "author": {
+             "name": "William Olaf Stapledon",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=284&lang=en"
+          },
+          "published": "2007-12-10T23:56:52Z",
+          "updated": "2020-10-08T10:24:17Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1930",
+          "summary": "Last and First Men: A Story of the Near and Far Future is a science fiction novel written in 1930 by the British author Olaf Stapledon. A work of unprecedented scale in the genre, it describes the history of humanity from the present onwards across two billion years and eighteen distinct human species, of which our own is the first and most primitive. Stapledon's conception of history is based on the Hegelian Dialectic, following a repetitive cycle with many varied civilizations rising from and descending back into savagery over millions of years, but it is also one of progress, as the later civilizations rise to far greater heights than the first. The book anticipates genetic engineering, and the idea of superminds composed of many telepathically-linked individuals.\nA controversial part of the book depicts humans, in the far-off future, escaping the dying Earth and settling on Venus—in the process totally exterminating its native inhabitants, a marine intelligent species. Stapledon's book has been interpreted by some as condoning such interplanetary genocide as a justified act if necessary for racial survival, though a number of Stapledon's partisans denied that such was his intention, arguing instead that Stapledon was merely showing that although mankind had advanced in a number of ways in the future, at bottom it still possessed the same capacity for savagery as it has always had.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2028"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2028.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2028.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2028.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2028.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Disintegration Machine",
+          "id": "https://www.feedbooks.com/book/354",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2007-02-03T02:13:06Z",
+          "updated": "2018-09-25T08:19:01Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1928",
+          "summary": "Professor Challenger is arguing with people who are persistently calling him on the telephone when his young friend Malone, a reporter for the Gazette, enters and requests Challenger accompany him to inspect the discovery of Theodore Nemor, who claims to have invented a machine capable of disintegrating objects. Skeptical of the invention, Challenger accepts Malone's proposal and accompanies him to the house of Nemor.",
+          "Series": {
+             "@position": "4",
+             "@name": "Professor Challenger",
+             "@url": "https://catalog.feedbooks.com/series/34"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/354"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/354.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/354.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/354.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/354.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Man Who Saved The Earth",
+          "id": "https://www.feedbooks.com/book/6654",
+          "author": {
+             "name": "Austin Hall",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=464&lang=en"
+          },
+          "published": "2013-03-01T07:07:04Z",
+          "updated": "2019-06-14T14:30:25Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1926",
+          "summary": "The story opens on an oppressively hot day with a poor little newspaper boy, Charley, playing with a \"burning glass\" (a magnifying glass) which he uses to concentrate sunlight onto a small focal spot, thus intensifying the heat on some paper until it burns a hole, perhaps a portent of things to come. He is noticed by a recluse scientist, Dr. Robold, who takes interest in Charley's scientific curiosity and calls him a young Archimedes, referring to the ancient Greek who, as legend tells, used a \"burning glass\" from shore to set enemy ships ablaze as they were approaching. Charley has no parents to care for him. Dr. Robold takes Charley away from his pitiful life, to a mountain retreat in Colorado. \n\nYears later, bizarre, terrifying events begin to occur.  At a street intersection in Oakland, California, everything within a large circular area--streetcars, autos, people, pavement--suddenly vanishes without a sound, during a flash of bright, multi-colored light, leaving a vastly deep hole with perfectly smooth sides as though cut with a knife. A wave of something toxic spreads outward, causing people to die of dehydration in a matter of minutes. In a remote rangeland, an entire mountain and 2000 cattle similarly disappear.  An enormous fireball cuts a large trench across the United States starting at the Pacific Coastal town of Santa Cruz, California, going all the way to the Atlantic coast and continuing to the \"Sargasso Sea\" in the middle of the North Atlantic Ocean, where it hovers and draws up water continuously. Climate patterns change immediately.  Water levels in the oceans worldwide fall as the water seems to be consumed by this terrifying object. The English Channel goes dry and the Mediterranian Sea becomes a landlocked lake. The devastation continues.\n\nOnly one person is the key to saving the world from destruction: Charley, now an adult. We learn that, under Dr. Robold's rearing and tutelage, he studied science. Charley discovers the source of this devastating assault on the Earth and pursues a fast-paced struggle to stop the attack before the Earth is completely plundered.\n\nThe story was one of 6 short stories that appeared in the first magazine devoted to science fiction, Amazing Stories: The Magazine of Scientifiction, volume 1, number 1, April 1926, edited by Hugo Gernsback and published by his company, Experimenter Publishing Company. The periodical copyright was not renewed and the individual authors' copyrights were not renewed. This magazine and its contents are now in the public domain in the United States.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6654"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6654.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6654.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6654.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6654.atom"
+             }
+          ]
+       },
+       {
+          "title": "Supermind",
+          "id": "https://www.feedbooks.com/book/1961",
+          "author": [
+             {
+                "name": "Randall Garrett",
+                "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=267&lang=en"
+             },
+             {
+                "name": "Laurence Mark Janifer",
+                "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=268&lang=en"
+             }
+          ],
+          "published": "2007-11-22T00:49:24Z",
+          "updated": "2020-03-31T07:30:44Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1963",
+          "summary": "Malone lives in a world where psionic powers such as telepathy and teleportation exist. Malone must cope with them as well as an FBI Director who leaves Malone continually confused about what situation he is being asked to handle and what he is expected to do about it.\n\nPublished in Analog as \"Occasion for Disaster,\" Supermind has Malone investigating a series of incidents in which people make mistakes -- sometimes minor, and sometimes major -- that lead to disasters. It looks like a secret cabal of psis may be behind events, influencing the behavior of those involved. Are they? And if so, why? Malone must find out if it kills him -- which is a very real possibility.",
+          "Series": {
+             "@position": "3",
+             "@name": "Psi-Power",
+             "@url": "https://catalog.feedbooks.com/series/2627"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1961"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1961.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1961.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1961.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1961.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Iron Heel",
+          "id": "https://www.feedbooks.com/book/2381",
+          "author": {
+             "name": "Jack London",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=34&lang=en"
+          },
+          "published": "2008-03-25T14:54:47Z",
+          "updated": "2019-12-18T12:25:19Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1908",
+          "summary": "The Iron Heel is a dystopian novel by American writer Jack London, first published in 1908.\nGenerally considered to be \"the earliest of the modern Dystopian,\" it chronicles the rise of an oligarchic tyranny in the United States. It is arguably the novel in which Jack London's socialist views are most explicitly on display. A forerunner of soft science fiction novels and stories of the 1960s and 1970s, the book stresses future changes in society and politics while paying much less attention to technological changes.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2381"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2381.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2381.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2381.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2381.atom"
+             }
+          ]
+       },
+       {
+          "title": "2 B R O 2 B",
+          "id": "https://www.feedbooks.com/book/912",
+          "author": {
+             "name": "Kurt Vonnegut",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=185&lang=en"
+          },
+          "published": "2007-05-04T14:47:54Z",
+          "updated": "2020-10-08T21:20:35Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1962",
+          "summary": "2 B R 0 2 B is a satiric short story that imagines life (and death) in a future world where aging has been “cured” and population control is mandated and administered by the government.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Humorous",
+                "@term": "FBFIC016000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/912"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/912.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/912.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/912.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/912.atom"
+             }
+          ]
+       },
+       {
+          "title": "Unwise Child",
+          "id": "https://www.feedbooks.com/book/1957",
+          "author": {
+             "name": "Randall Garrett",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=267&lang=en"
+          },
+          "published": "2007-11-21T02:30:47Z",
+          "updated": "2020-09-02T10:15:49Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1962",
+          "summary": "When a super-robot named Snookums discovers how to build his own superbombs, it becomes obvious that Earth is by no means the safest place for him to be. And so Dr. Fitzhugh, his designer, and Leda Crannon, a child psychologist acting as Snookums’ nursemaid, agree to set up Operation Brainchild, a plan to transport the robot to a far distant planet. Mike the Angel--M. R. Gabriel, Power Design--has devised the power plant that is to propel the space ship Branchell to its secret destination, complete with its unusual cargo. And, as a reserve officer in the Space Patrol, Mike is a logical replacement for the craft’s unavoidably detained engineering officer. But once into space, the Branchell becomes the scene of some frightening events--the medical officer is murdered, and Snookums appears to be the culprit. Mike the Angel indulges himself in a bit of sleuthing, and the facts he turns up lead to a most unusual climax.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1957"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1957.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1957.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1957.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1957.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Island of Dr. Moreau",
+          "id": "https://www.feedbooks.com/book/33",
+          "author": {
+             "name": "H. G. Wells",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+          },
+          "published": "2006-12-21T16:06:38Z",
+          "updated": "2020-06-15T04:01:32Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1896",
+          "summary": "Edward Prendick is shipwrecked in the Pacific. Rescued by Doctor Moreau's assistant he is taken to the doctor's island home where he discovers the doctor has been experimenting on the animal inhabitants of the island, creating bizarre proto-humans...",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/33"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/33.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/33.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/33.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/33.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Food of the Gods and How It Came to Earth",
+          "id": "https://www.feedbooks.com/book/594",
+          "author": {
+             "name": "H. G. Wells",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+          },
+          "published": "2007-03-03T15:02:24Z",
+          "updated": "2019-02-03T01:00:37Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1904",
+          "summary": "Two scientists devise a compound that produces enormous plants, animals — and humans! The chilling results are disastrous.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/594"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/594.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/594.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/594.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/594.atom"
+             }
+          ]
+       },
+       {
+          "title": "The World Set Free",
+          "id": "https://www.feedbooks.com/book/831",
+          "author": {
+             "name": "H. G. Wells",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=14&lang=en"
+          },
+          "published": "2007-04-16T01:18:57Z",
+          "updated": "2020-01-22T21:51:18Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1914",
+          "summary": "THE WORLD SET FREE was written in 1913 and published early in 1914, and it is the latest of a series of three fantasias of possibility, stories which all turn on the possible developments in the future of some contemporary force or group of forces. The World Set Free was written under the immediate shadow of the Great War. Every intelligent person in the world felt that disaster was impending and knew no way of averting it, but few of us realised in the earlier half of 1914 how near the crash was to us. The reader will be amused to find that here it is put off until the year 1956.\n\nNoteworthy for its depiction of fictional ''atomic bombs'' which eerily prefigure the development of real nuclear weapons.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/831"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/831.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/831.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/831.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/831.atom"
+             }
+          ]
+       },
+       {
+          "title": "With a Little Help",
+          "id": "https://www.feedbooks.com/book/5460",
+          "author": {
+             "name": "Cory Doctorow",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=93&lang=en"
+          },
+          "published": "2010-12-16T03:23:46Z",
+          "updated": "2020-01-22T21:46:41Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "2010",
+          "summary": "With a Little Help is my first serious experiment in self-publishing. I’ve published many novels, short story collections, books of essays and so on with publishers, and it’s all been very good and satisfying and educational and so on, but it seems like it’s time to try something new. With a Little Help consists of 12 stories, all reprints except for “Epoch” (commissioned by Mark Shuttleworth).",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/5460"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/5460.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/5460.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/5460.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/5460.atom"
+             }
+          ]
+       },
+       {
+          "title": "Death into Life",
+          "id": "https://www.feedbooks.com/book/2041",
+          "author": {
+             "name": "William Olaf Stapledon",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=284&lang=en"
+          },
+          "published": "2007-12-12T00:06:36Z",
+          "updated": "2018-09-25T08:38:41Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1946",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "War & military",
+                "@term": "FBFIC032000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2041"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2041.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2041.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2041.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2041.atom"
+             }
+          ]
+       },
+       {
+          "title": "Swords of Mars",
+          "id": "https://www.feedbooks.com/book/1215",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2007-06-17T23:28:09Z",
+          "updated": "2019-07-05T09:11:37Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1934",
+          "summary": "No description available",
+          "Series": {
+             "@position": "8",
+             "@name": "Barsoom",
+             "@url": "https://catalog.feedbooks.com/series/1"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1215"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1215.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1215.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1215.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1215.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Master Mind of Mars",
+          "id": "https://www.feedbooks.com/book/1213",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2007-06-17T23:08:54Z",
+          "updated": "2019-09-20T06:41:16Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1927",
+          "summary": "No description available",
+          "Series": {
+             "@position": "6",
+             "@name": "Barsoom",
+             "@url": "https://catalog.feedbooks.com/series/1"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1213"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1213.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1213.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1213.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1213.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Chessmen of Mars",
+          "id": "https://www.feedbooks.com/book/438",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2007-02-14T18:17:09Z",
+          "updated": "2018-09-25T08:20:02Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1922",
+          "summary": "No description available",
+          "Series": {
+             "@position": "5",
+             "@name": "Barsoom",
+             "@url": "https://catalog.feedbooks.com/series/1"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/438"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/438.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/438.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/438.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/438.atom"
+             }
+          ]
+       },
+       {
+          "title": "Synthetic Men of Mars",
+          "id": "https://www.feedbooks.com/book/1216",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2007-06-18T12:52:24Z",
+          "updated": "2018-09-25T08:29:27Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1939",
+          "summary": "No description available",
+          "Series": {
+             "@position": "9",
+             "@name": "Barsoom",
+             "@url": "https://catalog.feedbooks.com/series/1"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1216"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1216.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1216.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1216.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1216.atom"
+             }
+          ]
+       },
+       {
+          "title": "A Fighting Man of Mars",
+          "id": "https://www.feedbooks.com/book/1214",
+          "author": {
+             "name": "Edgar Rice Burroughs",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=23&lang=en"
+          },
+          "published": "2007-06-17T23:17:37Z",
+          "updated": "2020-01-08T06:20:14Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1930",
+          "summary": "A Fighting Man of Mars is an Edgar Rice Burroughs science fiction novel, the seventh of his famous Barsoom series. Burroughs began writing it on February 28, 1929, and the finished story was first published in Blue Book Magazine as a six-part serial in the issues for April to September, 1930. It was later published as a complete novel by Metropolitan in May, 1931.\nThe story is purportedly relayed back to earth via the Gridley Wave, a sort of super radio frequency previously introduced in Tanar of Pellucidar, the third of Burrough's Pellucidar novels, which thus provides a link between the two series. The story-teller is Ulysses Paxton, protagonist of the previous novel, The Master Mind of Mars, but this story is not about him; rather, it is the tale of Tan Hadron of Hastor, a lowly, poor padwar (a low-ranking officer) who is in love with the beautiful, haughty Sanoma Tora, daughter of Tor Hatan, a minor but rich noble. As he is only a padwar, Sanoma spurns him. Then Sanoma Tora is kidnapped, and the novel moves into high gear.\n(From Wikipedia)",
+          "Series": {
+             "@position": "7",
+             "@name": "Barsoom",
+             "@url": "https://catalog.feedbooks.com/series/1"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1214"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1214.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1214.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1214.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1214.atom"
+             }
+          ]
+       }
+    ]
+ }

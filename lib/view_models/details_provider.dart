@@ -15,7 +15,7 @@ import '../models/category.dart';
 
 class DetailsProvider extends ChangeNotifier {
   CategoryFeed related = CategoryFeed();
-  bool loading = true;
+  bool loading = true;// 
   Entry entry;
   var favDB = FavoriteDB();
   var dlDB = DownloadsDB();

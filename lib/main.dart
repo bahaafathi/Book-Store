@@ -31,9 +31,9 @@ class MyApp extends StatelessWidget {
     return Consumer<AppProvider>(
       builder: (BuildContext context, AppProvider appProvider, Widget child) {
         return MaterialApp(
-          key: appProvider.key,
+          key: appProvider.key,//way we use keys
           debugShowCheckedModeBanner: false,
-          navigatorKey: appProvider.navigatorKey,
+          navigatorKey: appProvider.navigatorKey,//what is navigatorKey
           title: Constants.appName,
           theme: themeData(appProvider.theme),
           darkTheme: themeData(ThemeConfig.darkTheme),

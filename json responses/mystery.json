@@ -1,0 +1,3186 @@
+{
+    "@lang": "en",
+    "id": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000",
+    "title": "Mystery & detective",
+    "updated": "2021-03-21T14:27:43Z",
+    "icon": "/favicon.ico",
+    "author": {
+       "name": "Feedbooks",
+       "uri": "http://www.feedbooks.com",
+       "email": "help@demarque.com"
+    },
+    "link": [
+       {
+          "@rel": "self",
+          "@title": "Most popular",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000"
+       },
+       {
+          "@rel": "start",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@title": "Home",
+          "@href": "https://catalog.feedbooks.com/catalog/index.atom"
+       },
+       {
+          "@rel": "search",
+          "@href": "https://catalog.feedbooks.com/opensearch.xml",
+          "@type": "application/opensearchdescription+xml",
+          "@title": "Search on Feedbooks"
+       },
+       {
+          "@rel": "http://opds-spec.org/shelf",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@title": "Bookshelf",
+          "@href": "https://www.feedbooks.com/user/bookshelf.atom"
+       },
+       {
+          "@rel": "next",
+          "@title": "Next",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000&page=2"
+       },
+       {
+          "@rel": "http://opds-spec.org/sort/new",
+          "@title": "New releases",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000&sort=new"
+       },
+       {
+          "@rel": "http://opds-spec.org/featured",
+          "@title": "Featured picks",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000&sort=selection"
+       },
+       {
+          "@rel": "http://opds-spec.org/featured",
+          "@title": "Awards",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000&sort=awards"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Most popular",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000",
+          "@activeFacet": "true",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "New releases",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?cat=FBFIC022000",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Awards",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom?cat=FBFIC022000",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "New & noteworthy",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?cat=FBFIC022000",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Short stories",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022050",
+          "@count": "9",
+          "@facetGroup": "Current category"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Suspense",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC030000",
+          "@count": "9",
+          "@facetGroup": "Current category"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Traditional British",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022030",
+          "@count": "1",
+          "@facetGroup": "Current category"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Women sleuths",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022040",
+          "@count": "1",
+          "@facetGroup": "Current category"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "German",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000&lang=de",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "English",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000&lang=en",
+          "@activeFacet": "true",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Spanish",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000&lang=es",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "French",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000&lang=fr",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Italian",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom?cat=FBFIC022000&lang=it",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       }
+    ],
+    "totalResults": "252",
+    "itemsPerPage": "50",
+    "startIndex": "1",
+    "entry": [
+       {
+          "title": "The Adventures of Sherlock Holmes",
+          "id": "https://www.feedbooks.com/book/1421",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2007-07-19T13:36:30Z",
+          "updated": "2020-09-21T15:35:02Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1892",
+          "summary": "The Adventures of Sherlock Holmes is a collection of twelve stories by Sir Arthur Conan Doyle, featuring his famous detective and illustrated by Sidney Paget.\nThese are the first of the Sherlock Holmes short stories, originally published as single stories in the Strand Magazine from July 1891 to June 1892. The book was published in England on October 14, 1892 by George Newnes Ltd and in a US Edition on October 15 by Harper. The initial combined print run was 14,500 copies.",
+          "Series": {
+             "@position": "9",
+             "@name": "Sherlock Holmes",
+             "@url": "https://catalog.feedbooks.com/series/9"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1421"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1421.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1421.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1421.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1421.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Most Dangerous Game",
+          "id": "https://www.feedbooks.com/book/3638",
+          "author": {
+             "name": "Richard Connell",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=930&lang=en"
+          },
+          "published": "2009-02-02T22:20:02Z",
+          "updated": "2020-08-25T03:48:49Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1924",
+          "summary": "\"The Most Dangerous Game\" features as its main character a big-game hunter from New York, who becomes shipwrecked on an isolated island in the Caribbean, and is hunted by a Russian aristocrat. \n\nThe story is an inversion of the big-game hunting safaris in Africa and South America that were fashionable among wealthy Americans in the 1920s.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Thrillers",
+                "@term": "FBFIC031000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3638"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3638.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3638.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3638.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3638.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Moonstone",
+          "id": "https://www.feedbooks.com/book/3311",
+          "author": {
+             "name": "Wilkie Collins",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=38&lang=en"
+          },
+          "published": "2008-11-05T16:11:23Z",
+          "updated": "2018-09-25T08:50:43Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1868",
+          "summary": "Widely regarded as the precursor of the modern mystery and suspense novels, The Moonstone tells of the events surrounding the disappearance of a mysterious (and cursed) yellow diamond. T. S. Eliot called it 'the first, the longest, and the best of modern English detective novels'. It contains a number of ideas which became common tropes of the genre, including a crime being investigated by talented amateurs who happen to be present when it is committed, and two police officers who exemplify respectively the 'Scotland Yard bungler' and the skilled, professional detective.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3311"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3311.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3311.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3311.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3311.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Secret Adversary",
+          "id": "https://www.feedbooks.com/book/2059",
+          "author": {
+             "name": "Agatha Christie",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=287&lang=en"
+          },
+          "published": "2007-12-19T18:57:35Z",
+          "updated": "2020-09-09T10:58:41Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1922",
+          "summary": "Hiring themselves out as “young adventurers willing to do anything” is a smart move for Tommy and Tuppence. All Tuppence has to do is take an all-expenses-paid trip to Paris and pose as someone named Jane Finn. But with the job comes a threat to her life, and the disappearance of her mysterious employer. Now Tuppence’s newest job is playing detective—because if there’s a Jane Finn that really exists, she’s got a secret that’s putting both their lives in danger.",
+          "Series": {
+             "@position": "1",
+             "@name": "Tommy &Tuppence",
+             "@url": "https://catalog.feedbooks.com/series/3654"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2059"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2059.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2059.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2059.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2059.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Black Cat",
+          "id": "https://www.feedbooks.com/book/759",
+          "author": {
+             "name": "Edgar Allan Poe",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+          },
+          "published": "2007-04-12T17:18:17Z",
+          "updated": "2020-09-08T06:02:52Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1842",
+          "summary": "\"The Black Cat\" is a short story by Edgar Allan Poe. It was first published in the August 19, 1843, edition of The Saturday Evening Post. It is a study of the psychology of guilt, often paired in analysis with Poe's \"The Tell-Tale Heart\". In both, a murderer carefully conceals his crime and believes himself unassailable, but eventually breaks down and reveals himself, impelled by a nagging reminder of his guilt.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/759"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/759.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/759.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/759.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/759.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Memoirs of Sherlock Holmes",
+          "id": "https://www.feedbooks.com/book/58",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2006-12-29T17:49:57Z",
+          "updated": "2020-01-02T16:10:01Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1893",
+          "summary": "The Memoirs of Sherlock Holmes is a collection of Sherlock Holmes stories, originally published in 1894, by Arthur Conan Doyle.",
+          "Series": {
+             "@position": "5",
+             "@name": "Sherlock Holmes",
+             "@url": "https://catalog.feedbooks.com/series/9"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/58"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/58.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/58.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/58.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/58.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Mysterious Affair at Styles",
+          "id": "https://www.feedbooks.com/book/2058",
+          "author": {
+             "name": "Agatha Christie",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=287&lang=en"
+          },
+          "published": "2007-12-19T18:47:57Z",
+          "updated": "2020-10-22T07:56:31Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1920",
+          "summary": "In her first published mystery, Agatha Christie introduces readers to the heroic detective, Hercule Poirot. This is a classic murder mystery set in the outskirts of Essex. The victim is the wealthy mistress of Styles Court. The list of suspects is long and includes her gold-digging new spouse and stepsons, her doctor, and her hired companion.",
+          "Series": {
+             "@position": "1",
+             "@name": "Hercule Poirot",
+             "@url": "https://catalog.feedbooks.com/series/3653"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2058"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2058.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2058.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2058.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2058.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Valley of Fear",
+          "id": "https://www.feedbooks.com/book/64",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2006-12-29T19:48:02Z",
+          "updated": "2020-01-23T19:58:47Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1915",
+          "summary": "The plot of the novel is based very loosely on the real-life activities of the Molly Maguires and, particularly, of Pinkerton agent James McParland.\nThe novel is divided into two parts: in the first, Holmes investigates an apparent murder and discovers that the body belongs to another man; and in the second, the story of the man originally thought to have been the victim is told.",
+          "Series": {
+             "@position": "4",
+             "@name": "Sherlock Holmes",
+             "@url": "https://catalog.feedbooks.com/series/9"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/64"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/64.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/64.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/64.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/64.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Murders in the Rue Morgue",
+          "id": "https://www.feedbooks.com/book/795",
+          "author": {
+             "name": "Edgar Allan Poe",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=16&lang=en"
+          },
+          "published": "2007-04-13T14:17:43Z",
+          "updated": "2019-01-25T02:53:42Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1841",
+          "summary": "\"The Murders in the Rue Morgue\" is a short story by Edgar Allan Poe published in Graham's Magazine in 1841. It has been claimed as the first detective story; Poe referred to it as one of his \"tales of ratiocination\". Similar works predate Poe's stories, including Das Fräulein von Scuderi (1819) by E.T.A. Hoffmann and Zadig (1748) by Voltaire.\nC. Auguste Dupin is a man in Paris who solves the mysterious brutal murder of two women. Numerous witnesses heard a suspect, though no one agrees on what language was spoken. At the murder scene, Dupin finds a hair that does not appear to be human.\nAs the first true detective in fiction, the Dupin character established many literary devices which would be used in future fictional detectives including Sherlock Holmes and Hercule Poirot. Many later characters, for example, follow Poe's model of the brilliant detective, his personal friend who serves as narrator, and the final revelation being presented before the reasoning that leads up to it. Dupin himself reappears in \"The Mystery of Marie Roget\" and \"The Purloined Letter\".",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/795"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/795.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/795.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/795.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/795.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Casebook of Sherlock Holmes",
+          "id": "https://www.feedbooks.com/book/66",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2006-12-29T20:15:14Z",
+          "updated": "2020-06-23T07:27:09Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1923",
+          "summary": "The last twelve stories written about Holmes and Watson, these tales reflect the disillusioned world of the 1920s in which they were written. Some of the sharpest turns of wit in English literature are contrasted by dark images of psychological tragedy, suicide, and incest in a collection of tales that have haunted generations of readers.",
+          "Series": {
+             "@position": "8",
+             "@name": "Sherlock Holmes",
+             "@url": "https://catalog.feedbooks.com/series/9"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/66"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/66.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/66.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/66.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/66.atom"
+             }
+          ]
+       },
+       {
+          "title": "Room 13",
+          "id": "https://www.feedbooks.com/book/1774",
+          "author": {
+             "name": "Edgar Wallace",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=253&lang=en"
+          },
+          "published": "2007-10-07T23:04:13Z",
+          "updated": "2020-01-26T13:23:07Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1924",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1774"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1774.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1774.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1774.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1774.atom"
+             }
+          ]
+       },
+       {
+          "title": "A Study in Scarlet",
+          "id": "https://www.feedbooks.com/book/57",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2006-12-29T17:33:07Z",
+          "updated": "2020-10-22T10:02:56Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1887",
+          "summary": "A Study in Scarlet is a detective mystery novel written by Sir Arthur Conan Doyle, which was first published in 1887. It is the first story to feature the character of Sherlock Holmes, who would later become one of the most famous and iconic literary detective characters, with long-lasting interest and appeal. The book's title derives from a speech given by Holmes to his companion Doctor Watson on the nature of his work, in which he describes the story's murder investigation as his \"study in scarlet\": \"There’s the scarlet thread of murder running through the colourless skein of life, and our duty is to unravel it, and isolate it, and expose every inch of it.\"",
+          "Series": {
+             "@position": "1",
+             "@name": "Sherlock Holmes",
+             "@url": "https://catalog.feedbooks.com/series/9"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/57"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/57.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/57.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/57.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/57.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Return of Sherlock Holmes",
+          "id": "https://www.feedbooks.com/book/63",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2006-12-29T18:21:26Z",
+          "updated": "2020-09-24T10:22:38Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1905",
+          "summary": "The Return of Sherlock Holmes is a collection of 13 Sherlock Holmes stories, originally published in 1903-1904, by Arthur Conan Doyle.\nThe book was first published on March 7, 1905 by Georges Newnes, Ltd and in a Colonial edition by Longmans. 30,000 copies were made of the initial print run. The US edition by McClure, Phillips &amp; Co. added another 28,000 to the run.\nThis was the first Holmes collection since 1893, when Holmes had \"died\" in \"The Adventure of the Final Problem\". Having published The Hound of the Baskervilles in 1901–1902 (although setting it before Holmes' death) Doyle came under intense pressure to revive his famous character.",
+          "Series": {
+             "@position": "6",
+             "@name": "Sherlock Holmes",
+             "@url": "https://catalog.feedbooks.com/series/9"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/63"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/63.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/63.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/63.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/63.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Man Who Knew Too Much",
+          "id": "https://www.feedbooks.com/book/6718",
+          "author": {
+             "name": "Gilbert Keith Chesterton",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=953&lang=en"
+          },
+          "published": "2013-04-08T17:50:52Z",
+          "updated": "2020-10-13T03:40:46Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1922",
+          "summary": "This contains the first 8 of the 12 stories in the published book The Man Who Knew Too Much and Other Stories.  In these 8 detective thrillers, the main protagonist is Horne Fisher. (The omitted four are individual stories with separate heroes/detectives.)\n\nDue to close relationships with the leading political figures in the land, Fisher knows too much about the private politics behind the public politics of the day. This knowledge is a burden to him because he is able to uncover the injustices and corruptions of the murders in each story, but in most cases the real killer gets away with the killing because to bring him openly to justice would create a greater chaos: starting a war, reinciting Irish rebellions, or removing public faith in the government.\n\nA film of the same title was made in 1934 and remade in 1956, both directed by Alfred Hitchcock, but the films had nothing at all in common (except the title) with these short stories. Hitchcock decided to use the title simply because he had the rights for some of the stories.\n\n(Reference: Wikipedia)",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC022050",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6718"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6718.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6718.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6718.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6718.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Woman in White",
+          "id": "https://www.feedbooks.com/book/3696",
+          "author": {
+             "name": "Wilkie Collins",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=38&lang=en"
+          },
+          "published": "2009-02-26T20:25:13Z",
+          "updated": "2020-01-08T12:10:33Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1860",
+          "summary": "The Woman in White is an epistolary novel written by Wilkie Collins in 1859, serialized in 1859–1860, and first published in book form in 1860. It is considered to be among the first mystery novels and is widely regarded as one of the first (and finest) in the genre of 'sensation novels'.\n\nAs was customary at that time, The Woman in White was first published as a magazine serial. The first episode appeared on 29 November 1859, following Charles Dickens's own A Tale of Two Cities in Dickens's magazine All the Year Round in England, and Harper's Magazine in America. It caused an immediate sensation. Julian Symons (in his 1974 introduction to the Penguin edition) reports that \"queues formed outside the offices to buy the next instalment. Bonnets, perfumes, waltzes and quadrilles were called by the book's title. Gladstone cancelled a theatre engagement to go on reading it. And Prince Albert sent a copy to Baron Stockmar.\"\n\n(from Wikipedia)",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Gothic",
+                "@term": "FBFIC027040",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Thrillers",
+                "@term": "FBFIC031000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3696"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3696.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3696.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3696.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3696.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Hound of the Baskervilles",
+          "id": "https://www.feedbooks.com/book/1",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2006-10-30T17:40:14Z",
+          "updated": "2020-10-03T20:26:20Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1902",
+          "summary": "The rich landowner Sir Charles Baskerville is found dead in the park of his manor surrounded by the grim moor of Dartmoor, in the county of Devon. His death seems to have been caused by a heart attack, but the victim's best friend, Dr. Mortimer, is convinced that the strike was due to a supernatural creature, which haunts the moor in the shape of an enormous hound, with blazing eyes and jaws. In order to protect Baskerville's heir, Sir Henry, who's arriving to London from Canada, Dr. Mortimer asks for Sherlock Holmes' help, telling him also of the so-called Baskervilles' curse, according to which a monstrous hound has been haunting and killing the family males for centuries, in revenge for the misdeeds of one Sir Hugo Baskerville, who lived at the time of Oliver Cromwell.",
+          "Series": {
+             "@position": "3",
+             "@name": "Sherlock Holmes",
+             "@url": "https://catalog.feedbooks.com/series/9"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1.atom"
+             }
+          ]
+       },
+       {
+          "title": "His Last Bow",
+          "id": "https://www.feedbooks.com/book/65",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2006-12-29T20:00:34Z",
+          "updated": "2020-09-09T09:23:01Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1917",
+          "summary": "His Last Bow is a collection of seven Sherlock Holmes stories (eight in American editions) by Arthur Conan Doyle, as well as the title of one of the stories in that collection. Originally published in 1917, it contains the various Holmes stories published between 1908 and 1913, as well as the one-off title story from 1917.\nThe collection was originally called Reminiscences of Sherlock Holmes and did not contain the actual story His Last Bow, which appeared later, after the full-length The Valley of Fear was published. However later editions added it and changed the title. Some recent complete editions have restored the earlier title.\nWhen the Memoirs of Sherlock Holmes were published in the USA for the first time, the publishers believed \"The Adventure of the Cardboard Box\" was too scandalous for the American public, since it dealt with the theme of adultery. As a result, this story was not published in the USA until many years later, when it was added to His Last Bow. Even today, most American editions of the canon include it with His Last Bow, while most British editions keep the story in its original place in The Memoirs of Sherlock Holmes.",
+          "Series": {
+             "@position": "7",
+             "@name": "Sherlock Holmes",
+             "@url": "https://catalog.feedbooks.com/series/9"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/65"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/65.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/65.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/65.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/65.atom"
+             }
+          ]
+       },
+       {
+          "title": "An Antarctic Mystery",
+          "id": "https://www.feedbooks.com/book/3947",
+          "author": {
+             "name": "Jules Verne",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=19&lang=en"
+          },
+          "published": "2009-05-27T00:57:13Z",
+          "updated": "2020-10-22T10:04:35Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1899",
+          "summary": "A sequel to Edgar Allan Poe's The Narrative of A. Gordon Pym.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Action & adventure",
+                "@term": "FBFIC002000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3947"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3947.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3947.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3947.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3947.atom"
+             }
+          ]
+       },
+       {
+          "title": "The House Without a Key",
+          "id": "https://www.feedbooks.com/book/6257",
+          "author": {
+             "name": "Earl Derr Biggers",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1963&lang=en"
+          },
+          "published": "2012-07-12T00:46:09Z",
+          "updated": "2020-08-05T06:26:29Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1925",
+          "summary": "The Charlie Chan series #1\n\n\nThe novel, which takes place in 1920s Hawaiʻi, spends time acquainting the reader with the look and feel of the islands of that era from the standpoint of both white and non-white inhabitants, and describes social class structures and customs which have largely vanished in the 21st century.\n\nThe novel deals with the murder of a former member of Boston society who has lived in Hawaiʻi for a number of years. The main character is the victim's nephew, a straitlaced young Bostonian bond trader, who came to the islands to try to convince his aunt Minerva, whose vacation has extended many months, to return to Boston. The nephew, John Quincy Winterslip, soon falls under the spell of the islands himself, meets an attractive young woman, breaks his engagement to his straitlaced Bostonian fiancee Agatha, and decides after the murder is solved to move to San Francisco. In the interval, he is introduced to many levels of Hawaiian society and is of some assistance to Detective Charlie Chan in solving the mystery.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Suspense",
+                "@term": "FBFIC030000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6257"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6257.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6257.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6257.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6257.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Sign of the Four",
+          "id": "https://www.feedbooks.com/book/2",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2006-10-30T17:56:59Z",
+          "updated": "2020-09-08T06:04:57Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1890",
+          "summary": "First published in 1890, The Sign of Four is Sir Arthur Conan Doyle's second book starring legendary detective Sherlock Holmes. The story is complex, involving a secret between four ex-cons from India and a hidden treasure. More complex than the first Holmes novel, The Sign of Four also introduces the detective's drug habit and leaves breadcrumbs for the reader that lead toward the final resolution.",
+          "Series": {
+             "@position": "2",
+             "@name": "Sherlock Holmes",
+             "@url": "https://catalog.feedbooks.com/series/9"
+          },
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Chinese Parrot",
+          "id": "https://www.feedbooks.com/book/6262",
+          "author": {
+             "name": "Earl Derr Biggers",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1963&lang=en"
+          },
+          "published": "2012-07-12T18:40:42Z",
+          "updated": "2020-09-02T06:43:41Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1926",
+          "summary": "The Chinese Parrot (1926) is the second novel in the Charlie Chan series of mystery novels by Earl Derr Biggers. It is the first in which Chan travels from Hawaii to mainland California, and involves a crime whose exposure is hastened by the death of a parrot.\nThe story concerns a valuable string of pearls which is purchased by a wealthy and eccentric financier. The handsome young son of the jeweller is assigned to shepherd the transfer of the pearls to the financier's vacation home in a desert area of California. Because of his long association with the owner of the pearls—before joining the police force, he was her houseboy—Charlie Chan travels from Hawaii to California with the pearls. After two mysterious deaths, first of a Chinese-speaking parrot and then of the household's Chinese man-of-all-work, Charlie Chan masquerades as a pidgin-speaking cook named Ah Kim and works underground to solve a number of crimes. Along the way, the jeweller's son meets a beautiful young woman who works as a location scout and decides to stay in the California desert.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Suspense",
+                "@term": "FBFIC030000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6262"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6262.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6262.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6262.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6262.atom"
+             }
+          ]
+       },
+       {
+          "title": "Whose Body?",
+          "id": "https://www.feedbooks.com/book/3406",
+          "author": {
+             "name": "Dorothy Leigh Sayers",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=813&lang=en"
+          },
+          "published": "2008-11-21T13:34:00Z",
+          "updated": "2019-11-15T23:47:45Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1923",
+          "summary": "Lord Peter Wimsey investigates the sudden appearance of a naked body in the bath of an architect at the same time a noted financier goes missing under strange circumstances. As the case progresses it becomes clear that the two events are linked in some way.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3406"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3406.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3406.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3406.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3406.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Door with Seven Locks",
+          "id": "https://www.feedbooks.com/book/1808",
+          "author": {
+             "name": "Edgar Wallace",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=253&lang=en"
+          },
+          "published": "2007-10-20T03:02:56Z",
+          "updated": "2019-06-10T07:30:03Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1926",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1808"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1808.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1808.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1808.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1808.atom"
+             }
+          ]
+       },
+       {
+          "title": "Arson Plus",
+          "id": "https://www.feedbooks.com/book/3474",
+          "author": {
+             "name": "Samuel Dashiell Hammett",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=839&lang=en"
+          },
+          "published": "2008-12-02T19:29:20Z",
+          "updated": "2019-12-09T16:04:26Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1923",
+          "summary": "This Black Mask story introduces ''The Continental Op'', a character who would eventually appear in 28 stories and two novels.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3474"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3474.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3474.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3474.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3474.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Lodger",
+          "id": "https://www.feedbooks.com/book/4958",
+          "author": {
+             "name": "Marie Adelaide Lowndes",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1457&lang=en"
+          },
+          "published": "2010-06-25T18:55:41Z",
+          "updated": "2020-02-28T10:22:48Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1914",
+          "summary": "A haunting mystery tale that revolves around the Jack the Ripper murders, this novel was the basis for several films, including a 1927 Alfred Hitchcock silent film featuring Ivor Novello in the title role.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/4958"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/4958.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/4958.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/4958.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/4958.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Phantom of the Opera",
+          "id": "https://www.feedbooks.com/book/3403",
+          "author": {
+             "name": "Gaston Leroux",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=135&lang=en"
+          },
+          "published": "2008-11-20T19:02:41Z",
+          "updated": "2020-02-24T07:50:46Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1910",
+          "summary": "The story of a man named Erik, an eccentric, physically deformed genius who terrorizes the Opera Garnier in Paris. He builds his home beneath it and takes the love of his life, a beautiful soprano, under his wing.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3403"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3403.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3403.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3403.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3403.atom"
+             }
+          ]
+       },
+       {
+          "title": "Tom Sawyer, Detective",
+          "id": "https://www.feedbooks.com/book/3894",
+          "author": {
+             "name": "Mark Twain",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=24&lang=en"
+          },
+          "published": "2009-05-14T22:34:29Z",
+          "updated": "2020-10-08T04:41:09Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1896",
+          "summary": "Tom Sawyer, Detective is an 1896 novel by Mark Twain. It is a sequel to The Adventures of Tom Sawyer (1876), Adventures of Huckleberry Finn (1884), and Tom Sawyer Abroad (1894). Tom Sawyer attempts to solve a mysterious murder in this burlesque of the immensely popular detective novels of the time. Like the two preceding novels, the story is told using the first-person narrative voice of Huck Finn.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3894"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3894.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3894.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3894.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3894.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Law and the Lady",
+          "id": "https://www.feedbooks.com/book/4371",
+          "author": {
+             "name": "Wilkie Collins",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=38&lang=en"
+          },
+          "published": "2009-11-03T22:01:39Z",
+          "updated": "2019-06-14T13:41:46Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1875",
+          "summary": "Valeria Woodville's first act as a married woman is to sign her name in the marriage register incorrectly, and this slip is followed by the gradual disclosure of a series of secrets about her husband's earlier life, each of which leads on to another set of questions and enigmas. Her discoveries prompt her to defy her husband's authority, to take the law into into a labyrinthine maze of false clues and deceptive identities, in which the exploration of the tangled workings of the mind becomes linked to an investigation into the masquerades of femininity. Probably the first full-length novel with a woman detective as its heroine, The Law and the Lady is a fascinating example of Collins's later fiction. First published in 1875, it employs many of the techniques used in The Moonstone, developing them in bizarre and unexpected ways, and in its Gothic and fantastic elements The Law and the Lady adds a significant dimension to the history of detective fiction.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/4371"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/4371.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/4371.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/4371.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/4371.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Technique of the Mystery Story",
+          "id": "https://www.feedbooks.com/book/6669",
+          "author": {
+             "name": "Carolyn Wells",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2151&lang=en"
+          },
+          "published": "2013-03-09T05:34:49Z",
+          "updated": "2020-10-16T03:40:56Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1913",
+          "summary": "Do you love mystery stories, such as the Sherlock Holmes stories and those of Edgar Allan Poe and Agatha Christie?  Do you ever yearn to be a good writer of mysteries?\n\nCarolyn Wells was a prolific author of mystery novels.  In this detailed book, she teaches the history, types, principles, devices, plots, and structures of mystery writings.  She gives advice to would-be authors of this genre, including ghost and riddle stories as well as detective and crime mysteries. \n\nThis authoritative work begins with a justification of mystery as a legitimate literary art form, with numerous quotations from authorities.  Then proceeding systematically through her topics, she explains and illustrates the mystery-writing craft with excerpts from mystery works and quotations of literary critics and notable authors.\n\nThe lover of mystery will find many authors and stories cited and excerpted in this book, which would be a good resource for finding more material to satisfy the reader's thirst for the genre.  Aspiring authors will find insights through the critical eyes of this successful mystery author and of the many authors whom she quotes.  \n\nThis is virtually a miniature course in creative writing of the mystery story.",
+          "category": [
+             {
+                "@label": "Nonfiction",
+                "@term": "FBNFC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Human science",
+                "@term": "FSHUM000000N",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Language arts & disciplines",
+                "@term": "FBLAN000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Composition & creative writing",
+                "@term": "FBLAN005000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Occult & supernatural",
+                "@term": "FBFIC024000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6669"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6669.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6669.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6669.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6669.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Seven Secrets",
+          "id": "https://www.feedbooks.com/book/3530",
+          "author": {
+             "name": "William Le Queux",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=873&lang=en"
+          },
+          "published": "2008-12-19T12:12:37Z",
+          "updated": "2018-09-25T08:52:54Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1903",
+          "summary": "A mystery set in fin de siècle London. An elderly man is murdered and suspicion falls on his young widow. But then things get very complicated and lies and clues abound…",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3530"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3530.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3530.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3530.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3530.atom"
+             }
+          ]
+       },
+       {
+          "title": "Hunted Down",
+          "id": "https://www.feedbooks.com/book/696",
+          "author": {
+             "name": "Charles Dickens",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=21&lang=en"
+          },
+          "published": "2007-03-29T00:25:13Z",
+          "updated": "2019-12-24T10:53:16Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1859",
+          "summary": "One might not necessarily think of Dickens as a mystery writer, but detectives and criminals do figure into much of his work. This...gathers a dozen of his stories featuring cops of one kind or another",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/696"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/696.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/696.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/696.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/696.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Master Criminal",
+          "id": "https://www.feedbooks.com/book/6697",
+          "author": {
+             "name": "Fred Merrick White",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2158&lang=en"
+          },
+          "published": "2013-03-22T04:15:38Z",
+          "updated": "2020-10-17T11:21:20Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1898",
+          "summary": "A collection of 12 stories published serially in The Ludgate, London, Jun 1897 to May 1898, in which the criminal mastermind, Felix Gryde, conducts his nefarious criminal work -- theft, kidnapping, ransom, assassination, fraud -- and he never gets caught.  The author's introduction:\n\n\"The history of famous detectives, imaginary and otherwise, has frequently been written, but the history of a famous criminal—never.\n\n\"This is a bold statement, but a true one all the same. The most notorious of rascals know that sooner or later they will be found out, and therefore they plan their lives accordingly. But they are always found out in the end. And yet there must be many colossal rascals who have lived and died apparently in the odour of sanctity. Such a character would be quite new to fiction, and herein I propose to attempt the history of the Sherlock Holmes of malefactors.\n\n\"Given a rascal with the intellect of the famous creation in question, and detection would be reduced to a vanishing point. It is the intention of the writer to set down here some of the wonderful adventures that befell Felix Gryde in the course of his remarkable career.\"",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC022050",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Suspense",
+                "@term": "FBFIC030000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6697"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6697.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6697.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6697.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6697.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Angel of Terror",
+          "id": "https://www.feedbooks.com/book/1974",
+          "author": {
+             "name": "Edgar Wallace",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=253&lang=en"
+          },
+          "published": "2007-11-30T22:50:43Z",
+          "updated": "2018-09-25T08:38:02Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1922",
+          "summary": "Angelically beautiful Jean Briggerland is a sociopathic criminal, so lovely that none can see her guilt -- even in connection with the most blatant crimes! Can Jack Glover, best friend and lawyer to Jean's latest victim, bring her to justice before she murders her way to unspeakable wealth and power?",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1974"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1974.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1974.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1974.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1974.atom"
+             }
+          ]
+       },
+       {
+          "title": "A Silent Witness",
+          "id": "https://www.feedbooks.com/book/2076",
+          "author": {
+             "name": "R. Austin Freeman",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=288&lang=en"
+          },
+          "published": "2007-12-25T23:45:56Z",
+          "updated": "2020-07-21T15:00:31Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1914",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/2076"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/2076.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/2076.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/2076.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/2076.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Spider",
+          "id": "https://www.feedbooks.com/book/6721",
+          "author": {
+             "name": "Hanns Heinz Ewers",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2178&lang=en"
+          },
+          "published": "2013-04-09T21:11:11Z",
+          "updated": "2020-03-28T06:54:55Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1915",
+          "summary": "\"When the student of medicine, Richard Bracquemont, decided to move into room #7 of the small Hotel Stevens, Rue Alfred Stevens (Paris 6), three persons had already hanged themselves from the cross-bar of the window in that room on three successive Fridays.\" The last of them was a police sergeant who had volunteered to sleep in the room to learn what happens that might explain the hangings, and somehow he met with the same fate.  The medical student was aware of these incidents, but... \n\n\"There was one detail about which he knew nothing because neither the police inspector nor any of the eyewitnesses had mentioned it to the press. It was only later, after what happened to the medical student, that anyone remembered that when the police removed Sergeant Charles-Maria Chaumié's body from the window cross-bar a large black spider crawled from the dead man's open mouth. A hotel porter flicked it away, exclaiming, 'Ugh, another of those damned creatures.'\"\n\nThus begins this bizarre mystery of \"The Spider.\"",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Suspense",
+                "@term": "FBFIC030000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6721"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6721.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6721.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6721.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6721.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Crimson Circle",
+          "id": "https://www.feedbooks.com/book/1949",
+          "author": {
+             "name": "Edgar Wallace",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=253&lang=en"
+          },
+          "published": "2007-11-20T01:51:11Z",
+          "updated": "2020-02-13T15:14:10Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1925",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1949"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1949.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1949.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1949.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1949.atom"
+             }
+          ]
+       },
+       {
+          "title": "Masterpieces of Mystery: Riddle Stories",
+          "id": "https://www.feedbooks.com/book/6679",
+          "author": {
+             "name": "Joseph Lewis French",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2155&lang=en"
+          },
+          "published": "2013-03-14T20:22:32Z",
+          "updated": "2020-07-23T03:15:13Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1922",
+          "summary": "Edited by Joseph Lewis French, this collection of 9 riddle stories includes \"The Mysterious Card\" and its sequel by Cleveland Moffett, \"The Oblong Box\" by Poe, \"A Terribly Strange Bed\" by Wilkie Collins, \"The Lost Room\" by Fitz-James O'Brien and others selected as masterful examples of the genre by the editor.  He says in the forward:\n\n\"A distinguished American writer of fiction said to me lately: 'Did you ever think of the vital American way we live? We are always going after mental gymnastics.' Now the mystery story is mental gymnastics. ... The stories of this collection cover a wide range and are the choice of reading in several literatures.\"",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC022050",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6679"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6679.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6679.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6679.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6679.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Avenger",
+          "id": "https://www.feedbooks.com/book/1809",
+          "author": {
+             "name": "Edgar Wallace",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=253&lang=en"
+          },
+          "published": "2007-10-20T17:32:52Z",
+          "updated": "2018-09-25T08:36:13Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1926",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1809"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1809.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1809.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1809.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1809.atom"
+             }
+          ]
+       },
+       {
+          "title": "K",
+          "id": "https://www.feedbooks.com/book/3765",
+          "author": {
+             "name": "Mary Roberts Rinehart",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=977&lang=en"
+          },
+          "published": "2009-03-22T11:23:22Z",
+          "updated": "2018-09-25T08:55:27Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1915",
+          "summary": "K. LeMoyne, famous surgeon, drops out of the world that has known him, and goes to live in a little town where beautiful Sidney Page lives. She is in training to become a nurse. The joys and troubles of their young love are told with that keen and sympathetic appreciation which has made the author famous.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Romance",
+                "@term": "FBFIC027000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3765"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3765.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3765.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3765.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3765.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Czar's Spy",
+          "id": "https://www.feedbooks.com/book/3783",
+          "author": {
+             "name": "William Le Queux",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=873&lang=en"
+          },
+          "published": "2009-03-30T22:49:36Z",
+          "updated": "2019-11-22T06:02:23Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1905",
+          "summary": "We could tell you what this book was about, but then we'd have to kill you.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Thrillers",
+                "@term": "FBFIC031000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3783"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3783.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3783.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3783.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3783.atom"
+             }
+          ]
+       },
+       {
+          "title": "No Name",
+          "id": "https://www.feedbooks.com/book/3967",
+          "author": {
+             "name": "Wilkie Collins",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=38&lang=en"
+          },
+          "published": "2009-06-05T16:27:02Z",
+          "updated": "2018-09-25T08:57:33Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1862",
+          "summary": "No Name (1862) by Wilkie Collins is a 19th-century novel revolving around the issue of illegitimacy.\nThe story begins in 1846, at Combe-Raven in West Somersetshire, the country residence of the happy Vanstone family. When Andrew Vanstone is killed suddenly in an accident and his wife follows shortly thereafter, it is revealed that they were not married at the time of their daughters' births, making their daughters \"Nobody's Children\" in the eyes of English law and robbing them of their inheritance.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3967"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3967.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3967.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3967.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3967.atom"
+             }
+          ]
+       },
+       {
+          "title": "Unwise Child",
+          "id": "https://www.feedbooks.com/book/1957",
+          "author": {
+             "name": "Randall Garrett",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=267&lang=en"
+          },
+          "published": "2007-11-21T02:30:47Z",
+          "updated": "2020-09-02T10:15:49Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1962",
+          "summary": "When a super-robot named Snookums discovers how to build his own superbombs, it becomes obvious that Earth is by no means the safest place for him to be. And so Dr. Fitzhugh, his designer, and Leda Crannon, a child psychologist acting as Snookums’ nursemaid, agree to set up Operation Brainchild, a plan to transport the robot to a far distant planet. Mike the Angel--M. R. Gabriel, Power Design--has devised the power plant that is to propel the space ship Branchell to its secret destination, complete with its unusual cargo. And, as a reserve officer in the Space Patrol, Mike is a logical replacement for the craft’s unavoidably detained engineering officer. But once into space, the Branchell becomes the scene of some frightening events--the medical officer is murdered, and Snookums appears to be the culprit. Mike the Angel indulges himself in a bit of sleuthing, and the facts he turns up lead to a most unusual climax.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Science fiction",
+                "@term": "FBFIC028000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1957"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1957.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1957.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1957.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1957.atom"
+             }
+          ]
+       },
+       {
+          "title": "Seven Keys to Baldpate",
+          "id": "https://www.feedbooks.com/book/6263",
+          "author": {
+             "name": "Earl Derr Biggers",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1963&lang=en"
+          },
+          "published": "2012-07-12T22:18:23Z",
+          "updated": "2020-09-15T03:47:18Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1913",
+          "summary": "Baldpate Inn has a mystery and seven keys. The novelist has one. The other six fall into the hands of six apparent lunatics: 1. a hermit who flees from barbers and women has a key, 2. a peroxide blonde who \"just loves\" men has a key, 3. a college professor who has been laughed out of his job has a key, 4. a political \"boss\" who eats cigars has a key, 5. a Belle of High Sociétée has a key and, 6. a bold, bad clubman has a key.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Suspense",
+                "@term": "FBFIC030000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6263"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6263.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6263.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6263.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6263.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Lady, or the Tiger?",
+          "id": "https://www.feedbooks.com/book/6678",
+          "author": {
+             "name": "Frank R. Stockton",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=2154&lang=en"
+          },
+          "published": "2013-03-14T18:19:37Z",
+          "updated": "2020-06-10T09:07:40Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1882",
+          "summary": "Called the most famous riddle mystery of all time, this very short story poses a dilemma.  A man is sentenced to an unusual punishment for having a romance with a king's beloved daughter. Taken to the public arena, he is faced with two doors, behind one of which is a hungry tiger that will devour him. Behind the other is a beautiful lady-in-waiting, whom he will have to marry if he finds her. While the crowd waits anxiously for his decision, he sees the princess among the spectators, who points him to the door on the right with a slight movement of her hand. The lover starts to open the door and ...\n\nDid the princess save her lover's life by pointing to the door leading to the lady-in-waiting, or did she prefer to see her lover die rather than see him marry someone else?\n\n(Summary from Wikipedia.)",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Suspense",
+                "@term": "FBFIC030000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6678"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6678.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6678.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6678.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6678.atom"
+             }
+          ]
+       },
+       {
+          "title": "In a Grove",
+          "id": "https://www.feedbooks.com/book/4205",
+          "author": {
+             "name": "Ryūnosuke Akutagawa",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1068&lang=en"
+          },
+          "published": "2009-09-15T14:34:30Z",
+          "updated": "2020-09-24T04:02:44Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1922",
+          "summary": "\"In a Grove\" is an early modernist short story consisting of seven varying accounts of the murder of a samurai, Kanazawa no Takehiro, whose corpse has been found in a bamboo forest near Kyoto. Each section simultaneously clarifies and obfuscates what the reader knows about the murder, eventually creating a complex and contradictory vision of events that brings into question humanity's ability or willingness to perceive and transmit objective truth. It is the basis for Kurosawa's \"Rashoumon.\"\n(from Wikipedia)\n---\nNote: The original Japanese text version is also available on Feedbooks at http://www.feedbooks.com/book/4204",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/4205"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/4205.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/4205.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/4205.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/4205.atom"
+             }
+          ]
+       },
+       {
+          "title": "Rodney Stone",
+          "id": "https://www.feedbooks.com/book/6926",
+          "author": {
+             "name": "Arthur Conan Doyle",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1&lang=en"
+          },
+          "published": "2014-07-04T12:14:27Z",
+          "updated": "2019-05-30T10:17:55Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1896",
+          "summary": "Rodney Stone is a Gothic mystery and boxing novel by Scottish writer Sir Arthur Conan Doyle first published in 1896.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6926"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6926.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6926.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6926.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6926.atom"
+             }
+          ]
+       },
+       {
+          "title": "Tales of Chinatown",
+          "id": "https://www.feedbooks.com/book/3803",
+          "author": {
+             "name": "Sax Rohmer",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=778&lang=en"
+          },
+          "published": "2009-04-09T18:41:14Z",
+          "updated": "2020-10-16T10:52:15Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1922",
+          "summary": "Ten stories of Macabre Mystery by the creator of the famous Dr. Fu Manchu. Includes the excellent ghost story Tcheriapin and a creeping hand story called The Hand of Mandarin Qung.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Occult & supernatural",
+                "@term": "FBFIC024000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Supernatural creatures",
+                "@term": "FBFIC024020N",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Ghost",
+                "@term": "FBFIC012000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/3803"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/3803.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/3803.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/3803.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/3803.atom"
+             }
+          ]
+       },
+       {
+          "title": "The Old Man in the Corner",
+          "id": "https://www.feedbooks.com/book/5544",
+          "author": {
+             "name": "Baroness Emma Orczy",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=900&lang=en"
+          },
+          "published": "2011-02-13T18:21:08Z",
+          "updated": "2020-09-29T10:07:05Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1908",
+          "summary": "Created by Baroness Orczy, author of the famous Scarlet Pimpernel series, The Old Man In the Corner was one of the earliest armchair detectives, popping up with so many others in the wake of the huge popularity of the Sherlock Holmes stories.\n\nThe Old Man relies mostly upon sensationalistic \"penny dreadful\" newspaper accounts, with the occasional courtroom visit. He narrates all this information, while tying complicated knots in a piece of string, to a female Journalist who frequents the same tea-shop (the ABC Teashop on the corner of Norfolk Street and the Strand). They enjoy an antagonistic relationship, as the Journalist attempts to cut the Old Man's ego down to size and the Old Man trumps her every time.\n\n--Wikipedia",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC022050",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Traditional British",
+                "@term": "FBFIC022030",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/5544"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/5544.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/5544.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/5544.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/5544.atom"
+             }
+          ]
+       },
+       {
+          "title": "Fifty Candles",
+          "id": "https://www.feedbooks.com/book/6270",
+          "author": {
+             "name": "Earl Derr Biggers",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=1963&lang=en"
+          },
+          "published": "2012-07-13T16:14:30Z",
+          "updated": "2020-06-02T10:52:44Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1921",
+          "summary": "Biggers had always been interested in mystery fiction, but his interest in Hawaii clearly stems from a 1919 vacation in Honolulu. While there, he read a newspaper article on a Chinese detective named Chang Apana. Apana would become the model for Charlie Chan in Biggers' 1925 novel, House Without a Key, and there quickly followed five more Charlie Chan novels. Fifty Candles -- first published in the Saturday Evening Post, just two years after that 1919 vacation -- shows how Hawaii, China, and murder had already begun to come together in Biggers' imagination. The story starts in a courthouse in Honolulu, moves to China, then to fog-shrouded San Francisco. Many of the elements used in the Charlie Chan series are present: Chinese characters (both sinister and sympathetic), the Honolulu legal system, a shrewd detective (in this case, the lawyer Mark Drew rather than a policemen), and a baffling murder complete with red herrings and plenty of suspects. Though Fifty Candles is a murder mystery, it is also a romance, with the romantic elements at times in the forefront. Mostly, though, it is a book that will delight Biggers' many fans as they trace the origins of Charlie Chan.",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Suspense",
+                "@term": "FBFIC030000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/6270"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/6270.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/6270.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/6270.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/6270.atom"
+             }
+          ]
+       },
+       {
+          "title": "Mr J G Reeder Returns",
+          "id": "https://www.feedbooks.com/book/1779",
+          "author": {
+             "name": "Edgar Wallace",
+             "uri": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom?author_id=253&lang=en"
+          },
+          "published": "2007-10-09T01:06:44Z",
+          "updated": "2018-09-25T08:35:53Z",
+          "language": "en",
+          "publisher": "Feedbooks",
+          "issued": "1932",
+          "summary": "No description available",
+          "category": [
+             {
+                "@label": "Fiction",
+                "@term": "FBFIC000000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Mystery & detective",
+                "@term": "FBFIC022000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             },
+             {
+                "@label": "Short stories",
+                "@term": "FBFIC029000",
+                "@scheme": "http://www.feedbooks.com/categories"
+             }
+          ],
+          "link": [
+             {
+                "@type": "text/html",
+                "@rel": "alternate",
+                "@title": "View on Feedbooks",
+                "@href": "http://www.feedbooks.com/book/1779"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image",
+                "@href": "https://covers.feedbooks.net/book/1779.jpg?size=large"
+             },
+             {
+                "@type": "image/jpeg",
+                "@rel": "http://opds-spec.org/image/thumbnail",
+                "@href": "https://covers.feedbooks.net/book/1779.jpg"
+             },
+             {
+                "@type": "application/epub+zip",
+                "@rel": "http://opds-spec.org/acquisition",
+                "@href": "http://www.feedbooks.com/book/1779.epub"
+             },
+             {
+                "@type": "application/atom+xml;profile=opds-catalog;type=entry",
+                "@rel": "alternate",
+                "@title": "Full entry",
+                "@href": "https://catalog.feedbooks.com/book/1779.atom"
+             }
+          ]
+       }
+    ]
+ }

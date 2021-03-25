@@ -1,0 +1,112 @@
+{
+    "@lang": "en",
+    "id": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom",
+    "title": "New & noteworthy",
+    "updated": "2021-03-21T14:24:33Z",
+    "icon": "/favicon.ico",
+    "author": {
+       "name": "Feedbooks",
+       "uri": "http://www.feedbooks.com",
+       "email": "help@demarque.com"
+    },
+    "link": [
+       {
+          "@rel": "self",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition; charset=utf-8",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom"
+       },
+       {
+          "@rel": "start",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@title": "Home",
+          "@href": "https://catalog.feedbooks.com/catalog/index.atom"
+       },
+       {
+          "@rel": "search",
+          "@href": "https://catalog.feedbooks.com/opensearch.xml",
+          "@type": "application/opensearchdescription+xml",
+          "@title": "Search on Feedbooks"
+       },
+       {
+          "@rel": "http://opds-spec.org/shelf",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@title": "Bookshelf",
+          "@href": "https://www.feedbooks.com/user/bookshelf.atom"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Most popular",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/top.atom",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "New releases",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/recent.atom",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Awards",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/awards.atom",
+          "@activeFacet": "false",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "New & noteworthy",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=navigation",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom",
+          "@activeFacet": "true",
+          "@facetGroup": "Sort"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "German",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?lang=de",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "English",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?lang=en",
+          "@activeFacet": "true",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Spanish",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?lang=es",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "French",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?lang=fr",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       },
+       {
+          "@rel": "http://opds-spec.org/facet",
+          "@title": "Italian",
+          "@type": "application/atom+xml;profile=opds-catalog;kind=acquisition",
+          "@href": "https://catalog.feedbooks.com/publicdomain/browse/homepage_selection.atom?lang=it",
+          "@activeFacet": "false",
+          "@facetGroup": "Language"
+       }
+    ],
+    "totalResults": "0",
+    "itemsPerPage": "50",
+    "startIndex": "1"
+ }
