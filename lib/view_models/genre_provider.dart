@@ -10,7 +10,7 @@ import 'package:fluttertoast/fluttertoast.dart';
 import '../models/category.dart';
 
 class GenreProvider extends ChangeNotifier {
-  ScrollController controller = ScrollController();
+  ScrollController controller = ScrollController(); //wooow
   List items = List();
   int page = 1;
   bool loadingMore = false;

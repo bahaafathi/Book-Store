@@ -22,8 +22,8 @@ class _HomeState extends State<Home> with AutomaticKeepAliveClientMixin {
   @override
   void initState() {
     super.initState();
+    //called only once after Build widgets done with rendering
     SchedulerBinding.instance.addPostFrameCallback(
-      //called only once after Build widgets done with rendering
       (_) => Provider.of<HomeProvider>(context, listen: false).getFeeds(),
 
       ///بيعبي المتغيرات
@@ -70,7 +70,8 @@ class _HomeState extends State<Home> with AutomaticKeepAliveClientMixin {
 
   Widget _buildBodyList(HomeProvider homeProvider) {
     return RefreshIndicator(
-      onRefresh: () => homeProvider.getFeeds(), //بيعبي المتغيرات لما يعمل ريفرش
+      //بيعبي المتغيرات لما يعمل ريفرش
+      onRefresh: () => homeProvider.getFeeds(),
       child: ListView(
         children: <Widget>[
           _buildFeaturedSection(homeProvider),
@@ -148,7 +149,7 @@ class _HomeState extends State<Home> with AutomaticKeepAliveClientMixin {
             // We don't need the tags from 0-9 because
             // they are not categories
             if (index < 10) {
-              return SizedBox();
+              return SizedBox(); //woow
             }
 
             return Padding(
