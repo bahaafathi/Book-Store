@@ -12,7 +12,7 @@ import '../models/category.dart';
 class GenreProvider extends ChangeNotifier {
   ScrollController controller = ScrollController(); //wooow
   List items = List();
-  int page = 1;
+  int page = 1; //i do not Known
   bool loadingMore = false;
   bool loadMore = true;
   APIRequestStatus apiRequestStatus = APIRequestStatus.loading;
@@ -51,9 +51,8 @@ class GenreProvider extends ChangeNotifier {
   }
 
   paginate(String url) async {
-    if (apiRequestStatus != APIRequestStatus.loading &&
-        !loadingMore &&
-        loadMore) {
+    if (apiRequestStatus != APIRequestStatus.loading &&!loadingMore && loadMore)
+    {
       Timer(Duration(milliseconds: 100), () {
         controller.jumpTo(controller.position.maxScrollExtent);
       });

@@ -6,7 +6,7 @@ import 'package:flutter_ebook_app/components/loading_widget.dart';
 import 'package:flutter_ebook_app/models/category.dart';
 import 'package:flutter_ebook_app/view_models/genre_provider.dart';
 import 'package:provider/provider.dart';
-
+import 'package:flutter/foundation.dart';
 class Genre extends StatefulWidget {
   final String title;
   final String url;

@@ -73,6 +73,9 @@ class _MainScreenState extends State<MainScreen> {
     _pageController.jumpToPage(page);
   }
 
+  ///قبل لما البولد تشتغل هيخلي رقم اول صفحه 0
+  ///عشان لو البيولد اشتغلت هيجي ايرور
+  ///عشان البيدج فيو مش هيعرف يقف علي انهي صفحه اصلا
   @override
   void initState() {
     super.initState();
