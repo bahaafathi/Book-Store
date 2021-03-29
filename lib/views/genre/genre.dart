@@ -81,6 +81,7 @@ class _GenreState extends State<Genre> {
         SizedBox(height: 10.0),
         provider.loadingMore //بيتشك من هنا الليست جابت اخرها ولا لا
             ? Container(
+                //color: Colors.amberAccent,
                 height: 80.0,
                 child: _buildProgressIndicator(),
               )

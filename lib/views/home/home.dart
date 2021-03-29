@@ -23,6 +23,8 @@ class _HomeState extends State<Home> with AutomaticKeepAliveClientMixin {
   void initState() {
     super.initState();
     //called only once after Build widgets done with rendering
+    //you can deleted i do not know what he call data after rendering
+
     SchedulerBinding.instance.addPostFrameCallback(
       (_) => Provider.of<HomeProvider>(context, listen: false).getFeeds(),
 
@@ -107,7 +109,6 @@ class _HomeState extends State<Home> with AutomaticKeepAliveClientMixin {
   }
 
   _buildFeaturedSection(HomeProvider homeProvider) {
-    ///Here Man Your Are Asume
     return Container(
       height: 200.0,
       child: Center(

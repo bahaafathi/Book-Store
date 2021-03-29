@@ -109,6 +109,7 @@ class _DetailsState extends State<Details> {
 
   _buildImageTitleSection(DetailsProvider detailsProvider) {
     return Container(
+      // color: Colors.amberAccent,
       child: Row(
         mainAxisSize: MainAxisSize.max,
         crossAxisAlignment: CrossAxisAlignment.start,

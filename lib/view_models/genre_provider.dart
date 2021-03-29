@@ -14,7 +14,7 @@ class GenreProvider extends ChangeNotifier {
   List items = List();
   int page = 1; //i do not Known
   bool loadingMore = false;
-  bool loadMore = true;
+  // bool loadMore = true;
   APIRequestStatus apiRequestStatus = APIRequestStatus.loading;
   Api api = Api();
 
@@ -41,9 +41,9 @@ class GenreProvider extends ChangeNotifier {
     print(url);
     try {
       CategoryFeed feed = await api.getCategory(url);
-      items = feed.feed.entry;//حط الداتا في ليست
-      setApiRequestStatus(APIRequestStatus.loaded);//done
-      listener(url);//
+      items = feed.feed.entry; //حط الداتا في ليست
+      setApiRequestStatus(APIRequestStatus.loaded); //done
+      listener(url); //here he start lisen
     } catch (e) {
       checkError(e);
       throw (e);
@@ -51,26 +51,22 @@ class GenreProvider extends ChangeNotifier {
   }
 
   paginate(String url) async {
-    if (apiRequestStatus != APIRequestStatus.loading &&!loadingMore && loadMore)
-    {
-      Timer(Duration(milliseconds: 100), () {
-        controller.jumpTo(controller.position.maxScrollExtent);
-      });
-      loadingMore = true;
-      page = page + 1;
+    loadingMore = true;
+    page = page + 1;
+    notifyListeners();
+    try {
+      CategoryFeed feed = await api.getCategory(url + '&page=$page');
+      items.addAll(feed.feed.entry);
+      loadingMore = false;
+      print(url + '&page=$page');
       notifyListeners();
-      try {
-        CategoryFeed feed = await api.getCategory(url + '&page=$page');
-        items.addAll(feed.feed.entry);
-        loadingMore = false;
-        notifyListeners();
-      } catch (e) {
-        loadMore = false;
-        loadingMore = false;
-        notifyListeners();
-        throw (e);
-      }
+    } catch (e) {
+      // loadMore = false;
+      loadingMore = false;
+      notifyListeners();
+      throw (e);
     }
+    
   }
 
   void checkError(e) {

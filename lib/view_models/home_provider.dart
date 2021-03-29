@@ -13,7 +13,7 @@ class HomeProvider with ChangeNotifier {
   Api api = Api();
 
   getFeeds() async {
-    setApiRequestStatus(APIRequestStatus.connectionError);
+    setApiRequestStatus(APIRequestStatus.loading);
     try {
       CategoryFeed popular = await api.getCategory(Api.popular);
       setTop(popular);
