@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:epub_viewer/epub_viewer.dart';
+//import 'package:epub_viewer/epub_viewer.dart';
 import 'package:esys_flutter_share/esys_flutter_share.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
@@ -234,23 +234,23 @@ class _DetailsState extends State<Details> {
       List locators =
           await LocatorDB().getLocator(widget.entry.id.t.toString());
 
-      EpubViewer.setConfig(
-        identifier: 'androidBook',
-        themeColor: Theme.of(context).accentColor,
-        scrollDirection: EpubScrollDirection.VERTICAL,
-        enableTts: false,
-        allowSharing: true,
-      );
-      EpubViewer.open(path,
-          lastLocation:
-              locators.isNotEmpty ? EpubLocator.fromJson(locators[0]) : null);
-      EpubViewer.locatorStream.listen((event) async {
-        // Get locator here
-        Map json = jsonDecode(event);
-        json['bookId'] = widget.entry.id.t.toString();
-        // Save locator to your database
-        await LocatorDB().update(json);
-      });
+      // EpubViewer.setConfig(
+      //   identifier: 'androidBook',
+      //   themeColor: Theme.of(context).accentColor,
+      //   scrollDirection: EpubScrollDirection.VERTICAL,
+      //   enableTts: false,
+      //   allowSharing: true,
+      // );
+      // EpubViewer.open(path,
+      //     lastLocation:
+      //         locators.isNotEmpty ? EpubLocator.fromJson(locators[0]) : null);
+      // EpubViewer.locatorStream.listen((event) async {
+      //   // Get locator here
+      //   Map json = jsonDecode(event);
+      //   json['bookId'] = widget.entry.id.t.toString();
+      //   // Save locator to your database
+      //   await LocatorDB().update(json);
+      // });
     }
   }
 

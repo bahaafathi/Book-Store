@@ -22,7 +22,7 @@ dependencies:
   cached_network_image: ^2.5.1
   cupertino_icons: ^0.1.2
   dio: ^3.0.9
-  epub_viewer: ^0.1.8
+  #epub_viewer: ^0.1.8
   esys_flutter_share: ^1.0.2
   flutter_icons: ^1.1.0
   flutter_spinkit: ^4.1.2+1

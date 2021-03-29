@@ -99,13 +99,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.9"
-  epub_viewer:
-    dependency: "direct main"
-    description:
-      name: epub_viewer
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.8"
   esys_flutter_share:
     dependency: "direct main"
     description:

@@ -41,9 +41,9 @@ class GenreProvider extends ChangeNotifier {
     print(url);
     try {
       CategoryFeed feed = await api.getCategory(url);
-      items = feed.feed.entry;
-      setApiRequestStatus(APIRequestStatus.loaded);
-      listener(url);
+      items = feed.feed.entry;//حط الداتا في ليست
+      setApiRequestStatus(APIRequestStatus.loaded);//done
+      listener(url);//
     } catch (e) {
       checkError(e);
       throw (e);

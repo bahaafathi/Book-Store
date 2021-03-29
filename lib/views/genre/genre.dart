@@ -7,6 +7,7 @@ import 'package:flutter_ebook_app/models/category.dart';
 import 'package:flutter_ebook_app/view_models/genre_provider.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter/foundation.dart';
+
 class Genre extends StatefulWidget {
   final String title;
   final String url;
@@ -26,8 +27,8 @@ class _GenreState extends State<Genre> {
   void initState() {
     super.initState();
     SchedulerBinding.instance.addPostFrameCallback(
-      (_) => Provider.of<GenreProvider>(context, listen: false)
-          .getFeed(widget.url),
+      (_) => Provider.of<GenreProvider>(context, listen: false).getFeed(
+          widget.url), // هيروح يجيب الداتا عادي بتاعت المربع الي داس عليه
     );
   }
 
@@ -78,7 +79,7 @@ class _GenreState extends State<Genre> {
           },
         ),
         SizedBox(height: 10.0),
-        provider.loadingMore
+        provider.loadingMore //بيتشك من هنا الليست جابت اخرها ولا لا
             ? Container(
                 height: 80.0,
                 child: _buildProgressIndicator(),
