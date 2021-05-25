@@ -1,5 +1,5 @@
 
-## ✨ Features
+## Features
 
 - [x] Download eBooks.
 - [x] Read eBooks.
@@ -7,14 +7,14 @@
 - [x] Dark Mode
 - [x] Swipe to delete downloads.
 
-## 📸 ScreenShots
+##  ScreenShots
 
 <!-- <img src="ss/mockup.png"/> -->
 
 | Light                             | Dark                              |
 | --------------------------------- | --------------------------------- |
 | <img src="ss/1.1.png" width="400">  | <img src="ss/1.png" width="400">  |
-| <img src="ss/1.1.png" width="400">  | <img src="ss/1.png" width="400">  |
+| <img src="ss/2.2.png" width="400">  | <img src="ss/2.png" width="400">  |
 | <img src="ss/3.3.png" width="400">  | <img src="ss/3.png" width="400">  |
 | <img src="ss/4.4.png" width="400">  | <img src="ss/4.png" width="400">  |
 | <img src="ss/5.5.png" width="400">  | <img src="ss/5.png" width="400"> |
