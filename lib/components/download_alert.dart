@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_ebook_app/components/custom_alert.dart';
-import 'package:flutter_ebook_app/util/consts.dart';
+import 'package:book_store/components/custom_alert.dart';
+import 'package:book_store/util/consts.dart';
 
 class DownloadAlert extends StatefulWidget {
   final String url;

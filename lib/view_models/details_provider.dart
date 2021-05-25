@@ -2,12 +2,12 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_ebook_app/components/download_alert.dart';
-import 'package:flutter_ebook_app/database/download_helper.dart';
-import 'package:flutter_ebook_app/database/favorite_helper.dart';
-import 'package:flutter_ebook_app/models/category.dart';
-import 'package:flutter_ebook_app/util/api.dart';
-import 'package:flutter_ebook_app/util/consts.dart';
+import 'package:book_store/components/download_alert.dart';
+import 'package:book_store/database/download_helper.dart';
+import 'package:book_store/database/favorite_helper.dart';
+import 'package:book_store/models/category.dart';
+import 'package:book_store/util/api.dart';
+import 'package:book_store/util/consts.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:permission_handler/permission_handler.dart';
 
@@ -15,7 +15,7 @@ import '../models/category.dart';
 
 class DetailsProvider extends ChangeNotifier {
   CategoryFeed related = CategoryFeed();
-  bool loading = true;// 
+  bool loading = true; //
   Entry entry;
   var favDB = FavoriteDB();
   var dlDB = DownloadsDB();
@@ -66,9 +66,9 @@ class DetailsProvider extends ChangeNotifier {
       // check if book has been deleted
       String path = downloads[0]['path'];
       print(path);
-      if(await File(path).exists()){
+      if (await File(path).exists()) {
         setDownloaded(true);
-      }else{
+      } else {
         setDownloaded(false);
       }
     } else {

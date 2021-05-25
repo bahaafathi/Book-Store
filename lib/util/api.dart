@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:dio/dio.dart';
-import 'package:flutter_ebook_app/models/category.dart';
+import 'package:book_store/models/category.dart';
 import 'package:xml2json/xml2json.dart';
 
 class Api {
@@ -21,7 +21,7 @@ class Api {
 
   Future<CategoryFeed> getCategory(String url) async {
     var res = await dio.get(url).catchError((e) {
-      throw(e);
+      throw (e);
     });
     CategoryFeed category;
     if (res.statusCode == 200) {

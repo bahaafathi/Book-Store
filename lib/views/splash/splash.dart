@@ -1,8 +1,8 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_ebook_app/util/router.dart';
-import 'package:flutter_ebook_app/views/main_screen.dart';
+import 'package:book_store/util/router.dart';
+import 'package:book_store/views/main_screen.dart';
 
 class Splash extends StatefulWidget {
   @override

@@ -4,9 +4,9 @@ import 'dart:io';
 import 'package:cached_network_image/cached_network_image.dart';
 //import 'package:epub_viewer/epub_viewer.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_ebook_app/components/loading_widget.dart';
-import 'package:flutter_ebook_app/database/download_helper.dart';
-import 'package:flutter_ebook_app/database/locator_helper.dart';
+import 'package:book_store/components/loading_widget.dart';
+import 'package:book_store/database/download_helper.dart';
+import 'package:book_store/database/locator_helper.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:uuid/uuid.dart';
 

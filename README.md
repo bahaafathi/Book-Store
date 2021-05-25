@@ -1,33 +1,16 @@
+# book_store
 
-## ✨ Features
+A new Flutter project.
 
-- [x] Download eBooks.
-- [x] Read eBooks.
-- [x] Favorites.
-- [x] Dark Mode
-- [x] Swipe to delete downloads.
+## Getting Started
 
-## 📸 ScreenShots
+This project is a starting point for a Flutter application.
 
-<!-- <img src="ss/mockup.png"/> -->
+A few resources to get you started if this is your first Flutter project:
 
-| Light                             | Dark                              |
-| --------------------------------- | --------------------------------- |
-| <img src="ss/1.png" width="400">  | <img src="ss/2.png" width="400">  |
-| <img src="ss/3.png" width="400">  | <img src="ss/4.png" width="400">  |
-| <img src="ss/5.png" width="400">  | <img src="ss/6.png" width="400">  |
-| <img src="ss/7.png" width="400">  | <img src="ss/8.png" width="400">  |
-| <img src="ss/9.png" width="400">  | <img src="ss/10.png" width="400"> |
-| <img src="ss/11.png" width="400"> | <img src="ss/12.png" width="400"> |
-| <img src="ss/13.png" width="400"> | <img src="ss/14.png" width="400"> |
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-## 🔌 Plugins
-
-| Name                                                    | Usage                                               |
-| ------------------------------------------------------- | --------------------------------------------------- |
-| [**Provider**](https://pub.dev/packages/provider)       | State Management                                    |
-| [**Object DB**](https://pub.dev/packages/objectdb)      | NoSQL database to store Favorites & Downloads       |
-| [**XML2JSON**](https://pub.dev/packages/xml2json)       | Convert XML to JSON                                 |
-| [**DIO**](https://pub.dev/packages/dio)                 | Network calls and File Download                     |
-| [**EPub Viewer**](https://pub.dev/packages/epub_viewer) | A flutter plugin for Folioreader to read ePub files |
-
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

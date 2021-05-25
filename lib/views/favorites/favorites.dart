@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
-import 'package:flutter_ebook_app/components/book.dart';
-import 'package:flutter_ebook_app/models/category.dart';
-import 'package:flutter_ebook_app/view_models/favorites_provider.dart';
+import 'package:book_store/components/book.dart';
+import 'package:book_store/models/category.dart';
+import 'package:book_store/view_models/favorites_provider.dart';
 import 'package:provider/provider.dart';
 
 class Favorites extends StatefulWidget {

@@ -2,9 +2,9 @@ import 'dart:async';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_ebook_app/util/api.dart';
-import 'package:flutter_ebook_app/util/enum/api_request_status.dart';
-import 'package:flutter_ebook_app/util/functions.dart';
+import 'package:book_store/util/api.dart';
+import 'package:book_store/util/enum/api_request_status.dart';
+import 'package:book_store/util/functions.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 import '../models/category.dart';
@@ -12,7 +12,7 @@ import '../models/category.dart';
 class GenreProvider extends ChangeNotifier {
   ScrollController controller = ScrollController(); //wooow
   List items = List();
-  int page = 1; //i do not Known
+  int page = 1;
   bool loadingMore = false;
   // bool loadMore = true;
   APIRequestStatus apiRequestStatus = APIRequestStatus.loading;
@@ -37,7 +37,7 @@ class GenreProvider extends ChangeNotifier {
   }
 
   getFeed(String url) async {
-    setApiRequestStatus(APIRequestStatus.loading);//way??
+    setApiRequestStatus(APIRequestStatus.loading); //way??
     print(url);
     try {
       CategoryFeed feed = await api.getCategory(url);
@@ -66,7 +66,6 @@ class GenreProvider extends ChangeNotifier {
       notifyListeners();
       throw (e);
     }
-    
   }
 
   void checkError(e) {

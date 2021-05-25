@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_ebook_app/components/error_widget.dart';
-import 'package:flutter_ebook_app/components/loading_widget.dart';
-import 'package:flutter_ebook_app/util/enum/api_request_status.dart';
+import 'package:book_store/components/error_widget.dart';
+import 'package:book_store/components/loading_widget.dart';
+import 'package:book_store/util/enum/api_request_status.dart';
 
 class BodyBuilder extends StatelessWidget {
   final APIRequestStatus apiRequestStatus;

@@ -1,15 +1,14 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_ebook_app/models/category.dart';
-import 'package:flutter_ebook_app/util/api.dart';
-import 'package:flutter_ebook_app/util/enum/api_request_status.dart';
-import 'package:flutter_ebook_app/util/functions.dart';
+import 'package:book_store/models/category.dart';
+import 'package:book_store/util/api.dart';
+import 'package:book_store/util/enum/api_request_status.dart';
+import 'package:book_store/util/functions.dart';
 
 class HomeProvider with ChangeNotifier {
   CategoryFeed top = CategoryFeed();
   CategoryFeed recent = CategoryFeed();
-  APIRequestStatus apiRequestStatus =
-      APIRequestStatus.loading; //اي نام حاطت فيه اسامي للتحميل
+  APIRequestStatus apiRequestStatus = APIRequestStatus.loading;
   Api api = Api();
 
   getFeeds() async {

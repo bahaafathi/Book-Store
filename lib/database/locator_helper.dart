@@ -22,7 +22,7 @@ class LocatorDB {
     final db = ObjectDB(await getPath());
     db.open();
     int update = await db.update({'bookId': item['bookId']}, item);
-    if(update == 0){
+    if (update == 0) {
       db.insert(item);
     }
     await db.close();

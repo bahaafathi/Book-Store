@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
-import 'package:flutter_ebook_app/components/body_builder.dart';
-import 'package:flutter_ebook_app/components/book_card.dart';
-import 'package:flutter_ebook_app/components/book_list_item.dart';
-import 'package:flutter_ebook_app/models/category.dart';
-import 'package:flutter_ebook_app/util/consts.dart';
-import 'package:flutter_ebook_app/util/router.dart';
-import 'package:flutter_ebook_app/view_models/home_provider.dart';
-import 'package:flutter_ebook_app/views/genre/genre.dart';
+import 'package:book_store/components/body_builder.dart';
+import 'package:book_store/components/book_card.dart';
+import 'package:book_store/components/book_list_item.dart';
+import 'package:book_store/models/category.dart';
+import 'package:book_store/util/consts.dart';
+import 'package:book_store/util/router.dart';
+import 'package:book_store/view_models/home_provider.dart';
+import 'package:book_store/views/genre/genre.dart';
 import 'package:provider/provider.dart';
 
 class Home extends StatefulWidget {
