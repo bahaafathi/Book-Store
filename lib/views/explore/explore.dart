@@ -14,11 +14,12 @@ class Explore extends StatefulWidget {
   _ExploreState createState() => _ExploreState();
 }
 
-class _ExploreState extends State<Explore> {
+class _ExploreState extends State<Explore> with AutomaticKeepAliveClientMixin {
   Api api = Api();
 
   @override
   Widget build(BuildContext context) {
+    super.build(context);
     return Consumer<HomeProvider>(
       builder: (BuildContext context, HomeProvider homeProvider, Widget child) {
         return Scaffold(
@@ -29,7 +30,7 @@ class _ExploreState extends State<Explore> {
             ),
           ),
           body: BodyBuilder(
-            apiRequestStatus: homeProvider.apiRequestStatus,
+            apiRequestStatus: homeProvider.apiRequestStatus, //way??
             child: _buildBodyList(homeProvider),
             reload: () => homeProvider.getFeeds(),
           ),
@@ -146,4 +147,7 @@ class _ExploreState extends State<Explore> {
       },
     );
   }
+
+  @override
+  bool get wantKeepAlive => true;
 }

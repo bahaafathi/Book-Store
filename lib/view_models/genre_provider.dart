@@ -37,7 +37,7 @@ class GenreProvider extends ChangeNotifier {
   }
 
   getFeed(String url) async {
-    setApiRequestStatus(APIRequestStatus.loading);
+    setApiRequestStatus(APIRequestStatus.loading);//way??
     print(url);
     try {
       CategoryFeed feed = await api.getCategory(url);

@@ -25,14 +25,16 @@ class _HomeState extends State<Home> with AutomaticKeepAliveClientMixin {
     //called only once after Build widgets done with rendering
     //you can deleted i do not know what he call data after rendering
 
-    SchedulerBinding.instance.addPostFrameCallback(
-      (_) => Provider.of<HomeProvider>(context, listen: false).getFeeds(),
+    SchedulerBinding.instance.addPostFrameCallback((duration) {
+      Provider.of<HomeProvider>(context, listen: false).getFeeds();
+      print(duration.inSeconds); //the time of bulid will take
+    }
 
-      ///بيعبي المتغيرات
-      ///tob,recent
-      ///بعد لما البكسلات تترسم
-      ///يعني الحاجات دي ناال اصلا والبكسلات بتترسم
-    );
+        ///بيعبي المتغيرات
+        ///tob,recent
+        ///بعد لما البكسلات تترسم
+        ///يعني الحاجات دي ناال اصلا والبكسلات بتترسم
+        );
   }
 
   @override

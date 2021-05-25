@@ -39,11 +39,11 @@ class _ProfileState extends State<Profile> {
         'title': 'About',
         'function': () => showAbout(),
       },
-      {
-        'icon': Feather.file_text,
-        'title': 'Licenses',
-        'function': () => _pushPageDialog(LicensePage()),
-      },
+      // {
+      //   'icon': Feather.file_text,
+      //   'title': 'Licenses',
+      //   'function': () => _pushPageDialog(LicensePage()),
+      // },
     ];
   }
 
@@ -128,7 +128,7 @@ class _ProfileState extends State<Profile> {
             'About',
           ),
           content: Text(
-            'Simple eBook app by JideGuru',
+            'Simple Book app by Bahaa Fathi',
           ),
           actions: <Widget>[
             FlatButton(

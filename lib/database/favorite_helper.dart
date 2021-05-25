@@ -7,6 +7,7 @@ class FavoriteDB {
   getPath() async {
     Directory documentDirectory = await getApplicationDocumentsDirectory();
     final path = documentDirectory.path + '/favorites.db';
+    print(path);
     return path;
   }
 

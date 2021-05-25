@@ -11,6 +11,12 @@ class MainScreen extends StatefulWidget {
 }
 
 class _MainScreenState extends State<MainScreen> {
+  @override
+  void initState() {
+    super.initState();
+    _pageController = PageController(initialPage: 0);
+  }
+
   PageController _pageController;
   int _page = 0;
 
@@ -21,7 +27,7 @@ class _MainScreenState extends State<MainScreen> {
       onWillPop: () => Dialogs().showExitDialog(context),
       child: Scaffold(
         body: PageView(
-          physics: NeverScrollableScrollPhysics(),
+          //physics: NeverScrollableScrollPhysics(),
           controller: _pageController,
           onPageChanged: onPageChanged, //بتعرفك رقم الصفحه الي واقف عليها
           children: <Widget>[
@@ -41,6 +47,7 @@ class _MainScreenState extends State<MainScreen> {
               icon: Icon(
                 Feather.home,
               ),
+              // ignore: deprecated_member_use
               title: Text(
                 'Home',
               ),
@@ -49,6 +56,7 @@ class _MainScreenState extends State<MainScreen> {
               icon: Icon(
                 Feather.compass,
               ),
+              // ignore: deprecated_member_use
               title: Text(
                 'Explore',
               ),
@@ -57,6 +65,7 @@ class _MainScreenState extends State<MainScreen> {
               icon: Icon(
                 Feather.settings,
               ),
+              // ignore: deprecated_member_use
               title: Text(
                 'Settings',
               ),
@@ -76,11 +85,6 @@ class _MainScreenState extends State<MainScreen> {
   ///قبل لما البولد تشتغل هيخلي رقم اول صفحه 0
   ///عشان لو البيولد اشتغلت هيجي ايرور
   ///عشان البيدج فيو مش هيعرف يقف علي انهي صفحه اصلا
-  @override
-  void initState() {
-    super.initState();
-    _pageController = PageController(initialPage: 0);
-  }
 
   ///cause memory leak.
 
