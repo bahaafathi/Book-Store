@@ -29,12 +29,6 @@ class _SplashState extends State<Splash> {
   void initState() {
     super.initState();
     startTimeout();
-
-    ///تايمر بيبتدي يعد ثانيتين
-    ///قبل لما البولد تتبندي اصلا
-    ///بعد كدة البولد ميثود تشتغل ب
-    ///وبعد كدة الثانيتين يخلصو
-    ///ويقوم داخل علي الصفحه الرئيسيه
   }
 
   @override

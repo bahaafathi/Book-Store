@@ -25,7 +25,7 @@ class Api {
     });
     CategoryFeed category;
     if (res.statusCode == 200) {
-      Xml2Json xml2json = new Xml2Json();
+      Xml2Json xml2json =  Xml2Json();
       xml2json.parse(res.data.toString());
       var json = jsonDecode(xml2json.toGData());
       category = CategoryFeed.fromJson(json);

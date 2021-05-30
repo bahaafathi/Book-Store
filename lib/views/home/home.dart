@@ -27,7 +27,6 @@ class _HomeState extends State<Home> with AutomaticKeepAliveClientMixin {
 
     SchedulerBinding.instance.addPostFrameCallback((duration) {
       Provider.of<HomeProvider>(context, listen: false).getFeeds();
-      print(duration.inSeconds); //the time of bulid will take
     }
 
         ///بيعبي المتغيرات
